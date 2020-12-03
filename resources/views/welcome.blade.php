@@ -174,6 +174,10 @@
         </div>
     </div>
 
+    <div class="d-flex justify-content-center">
+        <a href="https://classroom.google.com" target="_blank"><img src="/images/cdmc_connected.png" alt="cdmc connected logo" class="img-fluid mt-4" style="max-height: 150px;"></a>
+    </div>
+
     <div class="my-5 text-white d-none d-md-block">
         <div class="row m-0 c-0">
             <div class="col-6 bg-light-gray pl-5 py-2">
