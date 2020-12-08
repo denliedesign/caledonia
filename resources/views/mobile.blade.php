@@ -52,7 +52,7 @@
     <div id="stoplight">
         <div class="row">
             <div class="col stoplight-col">
-                <div class="yellow-light light-circle"></div>
+                <div class="red-light light-circle"></div>
             </div>
         </div>
     </div>
