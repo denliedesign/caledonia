@@ -51,7 +51,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
     <div id="stoplight">
-        <img src="/images/red-light.png" alt="red smiley" class="img-fluid" style="width: 75px; height: auto;">
+        <img src="/images/yellow-light.png" alt="yellow smiley" class="img-fluid" style="width: 75px; height: auto;">
     </div>
     </div>
 
