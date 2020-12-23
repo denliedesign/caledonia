@@ -86,12 +86,16 @@
                             131 E. Main Street, Suite E, Caledonia, MI 49316
                         </li>
                         <li class="nav-item">
-                            <ion-icon name="call"></ion-icon>
-                            616-891-1606
+                            <a href="tel:6168911606">
+                                <ion-icon name="call"></ion-icon>
+                                616-891-1606
+                            </a>
                         </li>
                         <li class="nav-item">
-                            <ion-icon name="mail"></ion-icon>
-                            info@Caledonia<br>DanceAndMusic.com
+                            <a href="mailto:info@caledoniadanceandmusic.com">
+                                <ion-icon name="mail"></ion-icon>
+                                info@Caledonia<br>DanceAndMusic.com
+                            </a>
                         </li>
                     </ul>
                 </div>

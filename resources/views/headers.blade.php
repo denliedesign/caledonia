@@ -4,10 +4,10 @@
             <a class="nav-link"><ion-icon name="location-outline"></ion-icon> 131 E. Main Street, Suite E, Caledonia, MI 49316</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link"><ion-icon name="call-outline"></ion-icon> 616-891-1606</a>
+            <a href="tel:6168911606" class="nav-link"><ion-icon name="call-outline"></ion-icon> 616-891-1606</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link"><ion-icon name="mail-outline"></ion-icon> info@CaledoniaDanceAndMusic.com</a>
+            <a href="mailto:info@caledoniadanceandmusic.com" class="nav-link"><ion-icon name="mail-outline"></ion-icon> info@CaledoniaDanceAndMusic.com</a>
         </li><li class="nav-item">
             <a class="nav-link" href="https://www.facebook.com/caledoniadanceandmusiccenter" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
         </li>

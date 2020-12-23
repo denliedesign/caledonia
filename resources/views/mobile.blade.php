@@ -5,10 +5,10 @@
         </li>
         <div class="d-flex d-inline">
             <li class="nav-item">
-                <a class="nav-link" style="font-size: 0.75em;"><ion-icon name="call-outline"></ion-icon> 616-891-1606</a>
+                <a href="tel:6168911606" class="nav-link" style="font-size: 0.75em;"><ion-icon name="call-outline"></ion-icon> 616-891-1606</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" style="font-size: 0.75em;"><ion-icon name="mail-outline"></ion-icon> info@CaledoniaDanceAndMusic.com</a>
+                <a href="mailto:info@caledoniadanceandmusic.com" class="nav-link" style="font-size: 0.75em;"><ion-icon name="mail-outline"></ion-icon> info@CaledoniaDanceAndMusic.com</a>
             </li>
         </div>
         <div class="d-flex d-inline">
