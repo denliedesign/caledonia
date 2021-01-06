@@ -8,7 +8,7 @@
                 <h2 class="text-uppercase text-center">Take the First Step</h2>
                 <h1 class="text-uppercase text-center">To Dance With Us</h1>
                 <div class="d-flex justify-content-center mt-4">
-                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783"><div class="btn btn-outline-primary">Ready to get Started?</div></a>
+                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-outline-primary">Ready to get Started?</div></a>
                 </div>
             </div>
         </div>
@@ -267,7 +267,7 @@
                         <div class="text-center">
 
                             <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
+                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
                 </div>
@@ -282,7 +282,7 @@
                         <div class="text-center">
 
                             <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
+                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
 
                         </div>
                     </div>
@@ -297,7 +297,7 @@
                         <div class="text-center">
 
                             <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
+                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
                 </div>
@@ -312,7 +312,7 @@
                         <div class="text-center">
 
                             <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
+                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
                 </div>
@@ -326,7 +326,7 @@
                         <hr>
                         <div class="text-center">
                             <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
+                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
                 </div>
@@ -340,7 +340,7 @@
                         <hr>
                         <div class="text-center">
                             <a href="/nutcracker" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
+                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
                 </div>
@@ -358,21 +358,21 @@
                     <img src="/images/piano.png" alt="piano" class="img-fluid" style="height: 44px; width: 44px;">
                     <h2 class="text-uppercase" style="font-weight: 800;">Piano</h2>
                     <div class="text-center">
-                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
+                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
                     </div>
                 </div>
                 <div class="col-sm my-5">
                     <img src="/images/guitar.png" alt="guitar" class="img-fluid" style="height: 44px; width: 44px;">
                     <h2 class="text-uppercase" style="font-weight: 800;">Guitar</h2>
                     <div class="text-center">
-                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
+                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
                     </div>
                 </div>
                 <div class="col-sm my-5">
                     <img src="/images/voice.png" alt="voice" class="img-fluid" style="height: 44px; width: 44px;">
                     <h2 class="text-uppercase" style="font-weight: 800;">Voice</h2>
                     <div class="text-center">
-                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
+                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
                     </div>
                 </div>
             </div>
@@ -442,7 +442,7 @@
 {{--                            <div class="text-center">--}}
 {{--                                --}}
 {{--                                <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>--}}
-{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
+{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
 
 {{--                            </div>--}}
 {{--                        </div>--}}
@@ -457,7 +457,7 @@
 {{--                            <div class="text-center">--}}
 {{--                                --}}
 {{--                                <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>--}}
-{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
+{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
 
 {{--                            </div>--}}
 {{--                        </div>--}}
@@ -470,7 +470,7 @@
 {{--                            <p class="m-0 text-center"><strong>Ballet La Crosse</strong></p>--}}
 {{--                            <hr>--}}
 {{--                            <div class="d-flex justify-content-center">--}}
-{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank"><div class="btn btn-aqua btn-sm text-center text-uppercase">More Info</div></a>--}}
+{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-aqua btn-sm text-center text-uppercase">More Info</div></a>--}}
 {{--                            </div>--}}
 {{--                        </div>--}}
 {{--                    </div>--}}
