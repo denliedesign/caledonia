@@ -49,9 +49,16 @@ Route::get('calendar', function () {
     return view('calendar');
 });
 
+Route::get('info', function () {
+    return view('info');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::resource('updates', 'UpdateController');
 Route::resource('posts', 'PostController');
+
+Route::get('contact', 'ContactUsController@create')->name('contact.create');
+Route::post('contact', 'ContactUsController@store')->name('contact.store');

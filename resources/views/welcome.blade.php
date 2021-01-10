@@ -7,8 +7,11 @@
             <div id="head-title" class="pt-5 mt-5">
                 <h2 class="text-uppercase text-center">Take the First Step</h2>
                 <h1 class="text-uppercase text-center">To Dance With Us</h1>
+{{--                <div class="d-flex justify-content-center mt-4">--}}
+{{--                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-outline-primary">Ready to get Started?</div></a>--}}
+{{--                </div>--}}
                 <div class="d-flex justify-content-center mt-4">
-                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-outline-primary">Ready to get Started?</div></a>
+                    @include('contact-modal')
                 </div>
             </div>
         </div>
