@@ -8,7 +8,8 @@
         <div class="d-flex justify-content-center">
             <img src="/images/storytime-with-a-twist.jpg" alt="storytime logo" class="img-fluid">
         </div>
-        <h2 class="text-center mt-3">Storytime with a Twist</h2>
+        <h2 class="text-center mt-3">Story Time with a Twist</h2>
+        <p class="text-center"><strong>Story Time with a Twist is currently on hold. Please check back again soon.</strong></p>
         <p>
             Reading is FUN and so is wiggling around!!
             <br><br>
