@@ -25,7 +25,7 @@
                             <a class="nav-link" href="/calendar">Calendar</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/lesson-lab">Lesson Lab</a>
+                            <a class="nav-link" href="/mini-camps">Mini Camps</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/storytime-with-a-twist">Storytime</a>

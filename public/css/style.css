@@ -487,6 +487,13 @@
     filter: invert(100%);
 }
 
+.badge-success {
+    background: #c1d62e !important;
+    color: black !important;
+    font-weight: normal !important;
+    font-size: 1em !important;
+}
+
 /* LAVENDER
 #aa999c
 */

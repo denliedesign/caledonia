@@ -19,7 +19,7 @@
         More Programs
     </a>
     <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="nav-dark-txt">
-        <a class="dropdown-item" href="/lesson-lab">Lesson Lab</a>
+        <a class="dropdown-item" href="/mini-camps">Mini Camps</a>
         <a class="dropdown-item" href="/storytime-with-a-twist">Storytime</a>
         <a class="dropdown-item" href="/nutcracker">Nutcracker</a>
         <a class="dropdown-item" href="/music-lessons">Music Lessons</a>
