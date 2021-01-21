@@ -24,8 +24,11 @@
                     Tuition is $29 per dancer
                 </p>
                 <small class="text-muted mb-3">*Student must be 4 years old by September 1, 2020.</small>
+                <div class="my-3 text-center">
+                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-lg btn-pink text-center text-uppercase">Register</div></a>
+                </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-4 d-flex align-items-center">
                 <img src="/images/snowflake.jpg" alt="snowflake" class="img-fluid border-green">
             </div>
         </div>
