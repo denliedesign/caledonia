@@ -5,16 +5,19 @@
     @include('headers')
 
     <div class="container my-5">
-        <div class="d-flex justify-content-center">
-            <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">--}}
+{{--        </div>--}}
+{{--        <div class="div-green my-4"></div>--}}
+{{--        <h2 class="text-center">Nutcracker Performances</h2>--}}
+{{--        <p class="lead text-center">--}}
+{{--            Performances February 12-14, 2021--}}
+{{--        </p>--}}
+        <div>
+            <img src="/images/nutcracker-poster.jpg" alt="nutcracker poster" class="img-fluid">
         </div>
-        <div class="div-green my-4"></div>
-        <h2 class="text-center">Nutcracker Performances</h2>
-        <p class="lead text-center">
-            Performances February 13-14, 2021
-        </p>
         <div class="d-flex justify-content-center mt-3 mb-4">
-            <a href="https://25664.recitalticketing.com/landing.cfm?loc=4"><button class="btn btn-lg btn-danger">Buy Tickets</button></a>
+            <a href="http://www.recitalticketing.com/25664/" target="_blank"><button class="btn btn-lg btn-danger">Buy Tickets</button></a>
         </div>
         <p>
 {{--            <strong>Performances February 13-14, 2021</strong>--}}
