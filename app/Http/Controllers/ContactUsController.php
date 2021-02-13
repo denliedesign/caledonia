@@ -23,6 +23,9 @@ class ContactUsController extends Controller
     public function store(Request $request)
     {
         $data = request()->validate([
+            'contact_me_by_fax_only' => 'max:0',
+            'my_name' => 'max:0',
+            'my_title' => 'max:0',
             'name' => 'required',
             'email' => 'required|email',
             'phone' => 'required',
