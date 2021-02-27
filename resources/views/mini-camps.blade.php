@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-sm-8">
                 <h2 class="text-center font-weight-bold">Frozen Friends Mini Camp</h2>
-                <h4 class="text-center mb-3 lead">Saturday, February 27 <br><span class="badge badge-success mt-2">Ages 4-10*</span></h4>
+                <h4 class="text-center mb-3 lead">Saturday, March 6 <br><span class="badge badge-success mt-2">Ages 4-10*</span></h4>
                 <p>
                     Enjoy a magical journey of dance, crafts and characters inspired by Elsa, Anna and Olaf from the hit movie "Frozen"!
                 </p>
@@ -17,9 +17,12 @@
                     <br>Ages 7-10 will attend camp from 11:00am-12:15pm
                 </p>
                 <p>
-                    Recommended class attire is their age group's leotard color, pink convertible tights, and Revolution pink stretch ballet shoes.
-                    <br>Class attire is available for purchase at Caledonia Dance & Music Center.  Dancers age 4 wear a pink leotard, kindergarten and first graders wear a lilac leotard, second and third graders wear a blue leotard and dancers fourth grade and up wear black leotards.
+                    Wear your favorite Anna and Elsa costume!
                 </p>
+{{--                <p>--}}
+{{--                    Recommended class attire is their age group's leotard color, pink convertible tights, and Revolution pink stretch ballet shoes.--}}
+{{--                    <br>Class attire is available for purchase at Caledonia Dance & Music Center.  Dancers age 4 wear a pink leotard, kindergarten and first graders wear a lilac leotard, second and third graders wear a blue leotard and dancers fourth grade and up wear black leotards.--}}
+{{--                </p>--}}
                 <p>
                     Tuition is $29 per dancer
                 </p>
