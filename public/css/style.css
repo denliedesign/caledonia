@@ -471,14 +471,23 @@
     border-radius: 20px;
 }
 
-#class-schedule td a {
+#camp-schedule td,
+#camp-schedule tr,
+#camp-schedule th,
+#camp-schedule table {
+    border: 1px solid grey;
+}
+
+#class-schedule td a,
+#camp-schedule td a {
     background: #3d1951;
     color: white;
     padding: 5px;
     font-size: 0.8em;
 }
 
-#class-schedule td a:hover {
+#class-schedule td a:hover,
+#camp-schedule td a:hover {
     text-decoration: none;
     background: #4F2C63;
 }
