@@ -56,7 +56,9 @@
     <div class="container">
         <h2 class="text-center">Nutcracker Auditions</h2>
         <p class="lead text-center">Saturday, October 3</p>
-        <script type="text/javascript" src="https://app.jackrabbitclass.com/Openings.asp?id=383292&amp;tblstyle=2&amp;Session=Nutcracker&amp;sort=class"></script>
+        <div id="class-schedule">
+            <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
+        </div>
     </div>
 
 @endsection

@@ -20,6 +20,10 @@
         </p>
     </div>
 
+    <div id="class-schedule" class="container">
+        <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Music - Private"></script>
+    </div>
+
     <div class="background-green py-3 mb-5">
         <div class="container d-flex align-items-center">
             <div class="row">

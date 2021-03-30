@@ -478,6 +478,13 @@
     border: 1px solid grey;
 }
 
+#class-schedule td,
+#class-schedule tr,
+#class-schedule th,
+#class-schedule table {
+    border: 1px solid grey;
+}
+
 #class-schedule td a,
 #camp-schedule td a {
     background: #3d1951;
