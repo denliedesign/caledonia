@@ -180,6 +180,21 @@
     <div class="d-flex justify-content-center">
         <a href="https://classroom.google.com" target="_blank"><img src="/images/cdmc_connected.png" alt="cdmc connected logo" class="img-fluid mt-4" style="max-height: 150px;"></a>
     </div>
+    <hr>
+    <div>
+        <div class="container">
+            <h2 class="mt-5 mb-0 font-weight-bold text-uppercase text-center">Spring Recital - Thrive Fest</h2>
+            <p class="text-center lead">
+                Ticket sales start May 28, 2021
+            </p>
+            <div class="d-flex justify-content-center my-4">
+                <a href="https://www.recitalticketing.com/25664/" target="_blank" class="lead text-white"><div class="btn btn-pink text-center text-uppercase">Purchase Your Thrive Fest Tickets</div></a>
+            </div>
+            <div class="d-flex justify-content-center pb-5">
+                <img src="/images/thrive-fest-recital.jpg" alt="thrive fest info" class="img-fluid shadow rounded">
+            </div>
+        </div>
+    </div>
 
     <div class="my-5 text-white d-none d-md-block">
         <div class="row m-0 c-0">
