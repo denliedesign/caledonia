@@ -19,7 +19,7 @@
 {{--                            <a class="nav-link" href="/faculty">Faculty</a>--}}
 {{--                        </li>--}}
                         <li class="nav-item">
-                            <a class="nav-link" href="/class-schedule">Schedule</a>
+                            <a class="nav-link" href="/class-schedule">Summer</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/calendar">Calendar</a>
