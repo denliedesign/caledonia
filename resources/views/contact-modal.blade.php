@@ -9,7 +9,7 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content bg-ivory text-white">
                 <div>
-                    <img src="images/freetrialform.jpg" alt="" style="width: 100%;">
+                    <img src="images/ready-to-dance.jpg" alt="" style="width: 100%; height: 400px; object-fit: cover; object-position: 0 0;">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true" class="p-2" style="font-size: 1.25em;">&times;</span>
                     </button>

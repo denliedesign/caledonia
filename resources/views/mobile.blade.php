@@ -45,7 +45,7 @@
             <h2 class="text-uppercase text-center">Take the First Step</h2>
             <h1 class="text-uppercase text-center">To Dance With Us</h1>
             <div class="d-flex justify-content-center mt-4">
-                <a href="/summer"><div class="btn btn-outline-primary">Ready to get Started?</div></a>
+                <a href="/class-schedule"><div class="btn btn-outline-primary">Ready to get Started?</div></a>
             </div>
         </div>
     </div>
