@@ -35,6 +35,7 @@
                     </a>
                 </div>
             </div>
+            <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Summer&hidecols=Gender,Ages,Session"></script>
         </div>
     </div>
 
