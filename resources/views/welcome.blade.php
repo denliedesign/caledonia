@@ -185,7 +185,7 @@
         <div class="container">
             <h2 class="mt-5 mb-0 font-weight-bold text-uppercase text-center">Spring Recital - Thrive Fest</h2>
             <p class="text-center lead">
-                Ticket sales start May 28, 2021
+                Recital ticket sales coming soon!
             </p>
             <div class="d-flex justify-content-center my-4">
                 <a href="https://www.recitalticketing.com/25664/" target="_blank" class="lead text-white"><div class="btn btn-pink text-center text-uppercase">Purchase Your Thrive Fest Tickets</div></a>
