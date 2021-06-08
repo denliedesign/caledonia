@@ -17,7 +17,8 @@
 {{--            <img src="/images/nutcracker-poster.jpg" alt="nutcracker poster" class="img-fluid">--}}
 {{--        </div>--}}
         <div class="d-flex justify-content-center">
-            <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
+{{--            <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">--}}
+            <img src="/images/nutcracker-2021.jpg" alt="nutcracker logo" class="img-fluid">
         </div>
 {{--        <div class="d-flex justify-content-center mt-3 mb-4">--}}
 {{--            <a href="http://www.recitalticketing.com/25664/" target="_blank"><button class="btn btn-lg btn-danger">Buy Tickets</button></a>--}}
