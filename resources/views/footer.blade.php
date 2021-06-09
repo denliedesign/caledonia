@@ -8,7 +8,7 @@
                         <p class="pt-2"><small class="text-muted">&#169; 2020</small></p>
                     </div>
                 </div>
-                <div class="mb-5 mb-md-0 col-md-3">
+                <div class="mb-5 mb-md-0 col-md-2">
                     <p class="text-white footer-title">NAV</p>
                     <ul class="nav flex-column">
 
@@ -99,7 +99,22 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-md-5">
+                <div class="mb-5 mb-md-0 col-md-2">
+                    <p class="text-white footer-title">HOURS</p>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <strong>Sept through May:</strong>
+                            <br>
+                            Mon-Thur 12pm-8pm, Fri by appointment
+                        </li>
+                        <li class="nav-item">
+                            <strong>Additional Hours October 22-Dec 4:</strong>
+                            <br>
+                            Fri 4-7pm, Sat 10am-2pm
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
                     <div style="width: 100%"><iframe width="100%" height="275" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=131%20E.%20Main%20Street,%20Suite%20E,%20Caledonia,%20MI%2049316+(Caledonia%20Dance%20&amp;%20Music%20Center)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
                 </div>
             </div>
