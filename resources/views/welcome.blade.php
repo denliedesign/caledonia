@@ -191,7 +191,7 @@
                 <a href="https://www.recitalticketing.com/25664/" target="_blank" class="lead text-white"><div class="btn btn-pink text-center text-uppercase">Purchase Your Thrive Fest Tickets</div></a>
             </div>
             <div class="d-flex justify-content-center pb-5">
-                <img src="/images/thrive-fest-recital.jpg" alt="thrive fest info" class="img-fluid shadow rounded">
+                <img src="/images/thrive-fest-recital.jpg" alt="thrive fest info" class="img-fluid shadow rounded" style="height: 100%; width: auto;">
             </div>
         </div>
     </div>
