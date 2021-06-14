@@ -49,13 +49,19 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
-    <div class="d-flex justify-content-around align-items-center mb-5 background-green py-3">
-        <div class="row">
-            <div class="col-sm my-1"><img src="/images/nutcracker-1.jpg" alt="img-fluid"></div>
-            <div class="col-sm my-1"><img src="/images/nutcracker-2.jpg" alt="img-fluid"></div>
-            <div class="col-sm my-1"><img src="/images/nutcracker-3.jpg" alt="img-fluid"></div>
+    <div class="mb-5 background-green py-3">
+        <div class="container">
+            <div class="">
+                <div class="row p-0 m-0 d-flex justify-content-center align-items-center">
+                    <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-1.jpg"></div>
+                    <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-2.jpg"></div>
+                    <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-3.jpg"></div>
+                </div>
+            </div>
         </div>
     </div>
+
+
 
     <div class="container">
         <h2 class="text-center">Nutcracker Auditions 2021</h2>
