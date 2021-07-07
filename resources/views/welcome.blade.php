@@ -44,23 +44,23 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                 <div class="col-sm mt-4">
                     <img src="/images/preschool.jpg" alt="preschool" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
-                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Preschool Classes</div></a>
+                    <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Preschool Classes</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/elementary.jpg" alt="elementary" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
-                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Early Elementary School</div></a>
+                    <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Early Elementary School</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/graded.JPG" alt="graded" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
-                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Graded Technique</div></a>
+                    <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Graded Technique</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/acro.jpg" alt="acro" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
-                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Acro</div></a>
+                    <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Acro</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/pg.jpg" alt="performing groups" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
-                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Performance Groups</div></a>
+                    <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Performance Groups</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/nutcracker.jpeg" alt="nutcracker" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
