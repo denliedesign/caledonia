@@ -1,527 +1,203 @@
 @extends('layouts.app')
 @section('content')
 
-    @include('mobile')
-    @include('header')
+    @include('contact-modal-2')
+    <div id="primary-bg">
+        <div class="color-filter-pink"></div>
+        <h2 id="primary-txt-mobile" class="d-md-none">take the first step to dance with us</h2>
+        <h2 id="primary-txt" class="d-none d-md-block">take the first step to dance with us</h2>
+    </div>
 
-            <div id="head-title" class="pt-5 mt-5">
-                <h2 class="text-uppercase text-center">Take the First Step</h2>
-                <h1 class="text-uppercase text-center">To Dance With Us</h1>
-{{--                <div class="d-flex justify-content-center mt-4">--}}
-{{--                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-outline-primary">Ready to get Started?</div></a>--}}
-{{--                </div>--}}
-                <div class="d-flex justify-content-center mt-4">
-                    @include('contact-modal')
+    {{--    @include('trial-modal')--}}
+
+    <div class="container">
+        <div id="next-steps">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
+                <div class="next-step mt-3 mt-md-0 shadow">
+                    <p class="txt-kapa-orange">Ready To Leap In?</p>
+                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>
+                </div>
+                <div class="next-step mt-3 mt-md-0 shadow">
+                    <p class="txt-kapa-pink">Want To Give It A Try?</p>
+                    <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-pink btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Schedule A Trial!</button>
+                </div>
+                <div class="next-step mt-3 mt-md-0 shadow">
+                    <p class="txt-kapa-green">Still Have Questions?</p>
+                    <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family">&#10097; Contact Us!</div></a>
                 </div>
             </div>
         </div>
-{{--        <div id="stoplight">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col stoplight-col d-flex align-items-center">--}}
-{{--                    <div class="triangle-top-right"></div>--}}
-{{--                </div>--}}
-{{--                <div class="col stoplight-col">--}}
-{{--                    <div class="stop-block"></div>--}}
-{{--                    <div class="red-light light-circle"></div>--}}
-{{--                </div>--}}
-{{--                <div class="col stoplight-col d-flex align-items-center">--}}
-{{--                    <div class="triangle-top-left"></div>--}}
-{{--                </div>--}}
+    </div>
+
+    <div id="vision" class="text-center text-white">
+        <div class="container">
+            <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>
+            <p>
+                From your child’s first class to their graduation performance, CDMC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, CDMC is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+            </p>
+        </div>
+    </div>
+
+    <div class="bg-white pb-5" id="class-categories">
+        <div class="container pb-5">
+            <h2 class="text-center pt-5">Dance Classes</h2>
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+                <div class="col-sm mt-4">
+                    <img src="/images/preschool.jpg" alt="preschool" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Preschool Classes</div></a>
+                </div>
+                <div class="col-sm mt-4">
+                    <img src="/images/elementary.jpg" alt="elementary" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Early Elementary School</div></a>
+                </div>
+                <div class="col-sm mt-4">
+                    <img src="/images/graded.JPG" alt="graded" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Graded Technique</div></a>
+                </div>
+                <div class="col-sm mt-4">
+                    <img src="/images/acro.jpg" alt="acro" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Acro</div></a>
+                </div>
+                <div class="col-sm mt-4">
+                    <img src="/images/pg.jpg" alt="performing groups" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a href="/classes-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Performance Groups</div></a>
+                </div>
+                <div class="col-sm mt-4">
+                    <img src="/images/nutcracker.jpeg" alt="nutcracker" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a href="/nutcracker" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Nutcracker</div></a>
+                </div>
+            </div>
+        </div>
+        <div class="container pb-5">
+            <h2 class="text-center pt-5">Music Lessons</h2>
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+                <div class="col-sm mt-4">
+                    <img src="/images/piano.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Piano</div></a>
+                </div>
+                <div class="col-sm mt-4">
+                    <img src="/images/guitar.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Guitar</div></a>
+                </div>
+                <div class="col-sm mt-4">
+                    <img src="/images/voice.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Voice</div></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{{--    <div id="checklist-bg">--}}
+{{--        <div class="color-filter-green"></div>--}}
+{{--        <h2 class="secondary-txt d-none d-md-block">Parents <ion-icon name="heart"></ion-icon> CDMC...</h2>--}}
+{{--        <div class="row secondary-txt-pos text-white text-center">--}}
+{{--            <div class="col-sm">--}}
+{{--                <p>--}}
+{{--                    <ion-icon name="heart"></ion-icon> Sprung Floors--}}
+{{--                    <br><ion-icon name="heart"></ion-icon> Secured Facility--}}
+{{--                    <br><ion-icon name="heart"></ion-icon> Study Areas--}}
+{{--                </p>--}}
 {{--            </div>--}}
-{{--            <div class="row">--}}
-{{--                <div class="col stoplight-col d-flex align-items-center">--}}
-{{--                    <div class="triangle-top-right"></div>--}}
-{{--                </div>--}}
-{{--                <div class="col stoplight-col">--}}
-{{--                    <div class="stop-block"></div>--}}
-{{--                    <div class="yellow-light light-circle"></div>--}}
-{{--                </div>--}}
-{{--                <div class="col stoplight-col d-flex align-items-center">--}}
-{{--                    <div class="triangle-top-left"></div>--}}
-{{--                </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <p>--}}
+{{--                    <ion-icon name="heart"></ion-icon> Written Curriculum--}}
+{{--                    <br><ion-icon name="heart"></ion-icon> Background Checked--}}
+{{--                    <br><ion-icon name="heart"></ion-icon> CPR Trained--}}
+{{--                </p>--}}
 {{--            </div>--}}
-{{--            <div class="row">--}}
-{{--                <div class="col stoplight-col d-flex align-items-center">--}}
-{{--                    <div class="triangle-top-right"></div>--}}
-{{--                </div>--}}
-{{--                <div class="col stoplight-col">--}}
-{{--                    <div class="stop-block"></div>--}}
-{{--                    <div class="green-light light-circle"></div>--}}
-{{--                </div>--}}
-{{--                <div class="col stoplight-col d-flex align-items-center">--}}
-{{--                    <div class="triangle-top-left"></div>--}}
-{{--                </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <p>--}}
+{{--                    <ion-icon name="heart"></ion-icon> Full-Time Admin--}}
+{{--                    <br><ion-icon name="heart"></ion-icon> YPAD Certified--}}
+{{--                    <br><ion-icon name="heart"></ion-icon> Community Service--}}
+{{--                </p>--}}
 {{--            </div>--}}
 {{--        </div>--}}
-    <div id="stoplight">
-        <img src="/images/yellow-light.png" alt="yellow smiley" class="img-fluid" style="width: 75px; height: auto;">
-    </div>
-    </div>
+{{--    </div>--}}
 
-    <div class="container">
-        <div class="d-none d-md-block">
-            <div id="colored-boxes" class="d-flex justify-content-center">
-                {{--                <div id="box-one" class="flip-card">--}}
-                {{--                    <div class="flip-card-inner">--}}
-                {{--                        <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <div>--}}
-                {{--                                <ion-icon name="person-outline"></ion-icon>--}}
-                {{--                                <p>Private Lessons</p>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                        <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <p>--}}
-                {{--                                One-to-one instruction--}}
-                {{--                                <br><u>Great for:</u>--}}
-                {{--                                <br>&middot; Rapid learning & advancement--}}
-                {{--                                <br>&middot; Coaching on specific skills--}}
-                {{--                                <br>&middot; Complex scheduling needs--}}
-                {{--                            </p>--}}
-                {{--                        </div>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
-                {{--                <div id="box-two" class="flip-card">--}}
-                {{--                    <div class="flip-card-inner">--}}
-                {{--                        <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <div>--}}
-                {{--                                <ion-icon name="people-outline"></ion-icon>--}}
-                {{--                                <p>Semi-Private Classes</p>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                        <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <p>--}}
-                {{--                                One instructor to a small group of students--}}
-                {{--                                <br><u>Great for:</u>--}}
-                {{--                                <br>&middot; Rapid learning & advancement--}}
-                {{--                                <br>&middot; Small group--}}
-                {{--                                <br>&middot; Learning challenges or health concerns--}}
-                {{--                            </p>--}}
-                {{--                        </div>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
-                <div id="box-one" class="flip-card mr-1">
-                    <div class="flip-card-inner">
-                        <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="business-outline"></ion-icon>
-                                <p>In-Studio Classes</p>
-                            </div>
-                        </div>
-                        <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                Dance in person with us confidently. We follow the Safer Studio Standards.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                {{--                <div id="box-four" class="flip-card">--}}
-                {{--                    <div class="flip-card-inner">--}}
-                {{--                        <div class="box-four flip-card-front d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <div>--}}
-                {{--                                <ion-icon name="videocam-outline"></ion-icon>--}}
-                {{--                                <p>Online Classes</p>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                        <div class="box-four flip-card-back d-flex align-items-center justify-content-center text-center">--}}
-                {{--                            <p>--}}
-                {{--                                One instructor to a small group of students--}}
-                {{--                                <br><u>Great for:</u>--}}
-                {{--                                <br>&middot; Learning from the convenience of your own home--}}
-                {{--                                <br>&middot; Makeup classes--}}
-                {{--                                <br>&middot; Preference Health concerns--}}
-                {{--                            </p>--}}
-                {{--                        </div>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
-                <div id="box-two" class="flip-card ml-1">
-                    <div class="flip-card-inner">
-                        <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="videocam-outline"></ion-icon>
-                                <p>Live Stream</p>
-                            </div>
-                        </div>
-                        <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                In case you have to stay home, all our classes are up on Live Stream with CDMC Connected.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="box-three" class="flip-card ml-1">
-                    <div class="flip-card-inner">
-                        <div class="box-three flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="play-circle-outline"></ion-icon>
-                                <p>Pre-Recorded Classes</p>
-                            </div>
-                        </div>
-                        <div class="box-three flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                Not ready to dance in-studio yet? You can purchase a pre-recorded class to watch as many times as you like.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <h5 class="text-center mt-3 mb-3">A dance class for every interest and learning preference!</h5>
-        <div id="colored-dashes" class="d-flex justify-content-center">
-            <div class="one-dash"></div>
-            <div class="two-dash"></div>
-            <div class="three-dash"></div>
-            {{--            <div class="four-dash"></div>--}}
-            {{--            <div class="five-dash"></div>--}}
-        </div>
-    </div>
-
-    <div class="d-flex justify-content-center">
-        <a href="https://classroom.google.com" target="_blank"><img src="/images/cdmc_connected.png" alt="cdmc connected logo" class="img-fluid mt-4" style="max-height: 150px;"></a>
-    </div>
-    <hr>
-    <div>
-        <div class="container">
-            <h2 class="mt-5 mb-0 font-weight-bold text-uppercase text-center">Spring Recital - Thrive Fest</h2>
-            <p class="text-center lead">
-                Recital ticket sales coming soon!
-            </p>
-            <div class="d-flex justify-content-center my-4">
-                <a href="https://www.recitalticketing.com/25664/" target="_blank" class="lead text-white"><div class="btn btn-pink text-center text-uppercase">Purchase Your Thrive Fest Tickets</div></a>
-            </div>
-            <div class="d-flex justify-content-center pb-5">
-                <img src="/images/thrive-fest-recital.jpg" alt="thrive fest info" class="img-fluid shadow rounded" style="height: 100%; width: auto;">
-            </div>
-        </div>
-    </div>
-
-    <div class="my-5 text-white d-none d-md-block">
-        <div class="row m-0 c-0">
-            <div class="col-6 bg-light-gray pl-5 py-2">
-                <div class="container">
-                    <h1 class="text-uppercase text-right">cdmc is a safer</h1>
-                    <p class="text-center">CDMC focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="" style="max-height: 200px;">
-                    </div>
-                </div>
-            </div>
-            <div class="col-6 bg-mdu-gray py-2">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm">
-                            <h1 class="text-uppercase">studio&trade;</h1>
-                            <p class="font-weight-bold">CDMC is Youth Protection Advocates in Dance&reg; Certified!</p>
-                            <p>
-                                <ion-icon name="checkmark"></ion-icon> Background checked and CPR certified teachers
-                                <br><ion-icon name="checkmark"></ion-icon> Safety Studio&trade; Policy
-                                <br><ion-icon name="checkmark"></ion-icon> Teacher training & proven curriculum
-                                <br><ion-icon name="checkmark"></ion-icon> A focus on safety & wellness for every student
-                                <br><ion-icon name="checkmark"></ion-icon> Secured facilities
-                                <br><ion-icon name="checkmark"></ion-icon> Viewing windows
-                                <br><ion-icon name="checkmark"></ion-icon> Professional sprung floors
-                                <br><ion-icon name="checkmark"></ion-icon> Social media safety practices
-                            </p>
-                        </div>
-                        <div class="col-sm d-flex align-items-center justify-content-center">
-                            <img src="/images/ypad-logo-rotate.png" alt="" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="my-5 p-2 text-white d-block d-md-none bg-mdu-gray text-white">
-        <h2 class="text-uppercase">cdmc is a safer studio&trade;</h2>
-        <p>CDMC focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring
-            students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices,
-            amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
-        <div class="d-flex justify-content-center pb-2">
-            <img src="/images/safer-studio-logo.png" alt="" style="max-height: 250px;">
-        </div>
-        <p class="font-weight-bold">CDMC is Youth Protection Advocates in Dance&reg; Certified!</p>
-        <p>
-            <ion-icon name="checkmark"></ion-icon>
-            Background checked and CPR certified teachers
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Safety Studio&trade; Policy
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Teacher training & proven curriculum
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            A focus on safety & wellness for every student
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Secured facilities
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Viewing windows
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Professional sprung floors
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Social media safety practices
-        </p>
-        <div class="d-flex justify-content-center">
-            <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">
-        </div>
-    </div>
-
-    <div class="container">
-        <h2 class="my-5 font-weight-bold text-uppercase">Fall Classes</h2>
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mb-5">
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/preschool.jpg" alt="" class="img-fluid" style="height: 203px; width: 362px; object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Preschool Classes</strong></p>
-                        {{--                        <p class="m-0 text-center text-muted">Tues 4:30-5:00</p>--}}
-                        <hr>
-                        <div class="text-center">
-
-                            <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/elementary.jpg" alt="" class="img-fluid" style="height: 203px; width: 362px; object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Early Elementary School</strong></p>
-                        {{--                        <p class="m-0 text-center text-muted">Fri 5:30-6:00</p>--}}
-                        <hr>
-                        <div class="text-center">
-
-                            <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/graded.JPG" alt="" class="img-fluid" style="height: 203px; width: 362px; object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Graded Technique</strong></p>
-                        <hr>
-                        <div class="text-center">
-
-                            <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/acro.jpg" alt="" class="img-fluid" style="height: 203px; width: 362px; object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Acro</strong></p>
-                        {{--                        <p class="m-0 text-center text-muted">Sat 1:00-5:00</p>--}}
-                        <hr>
-                        <div class="text-center">
-
-                            <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/pg.jpg" alt="" class="img-fluid" style="height: 203px; width: 362px; object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Performance Groups</strong></p>
-                        {{--                        <p class="m-0 text-center text-muted">Mon 4:00-9:00</p>--}}
-                        <hr>
-                        <div class="text-center">
-                            <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col px-2 pb-3">
-                <div class="class-card-wrap border border-muted">
-                    <img src="/images/nutcracker.jpeg" alt="" class="img-fluid" style="height: 203px; width: 362px; object-fit: cover; object-position: 15% 0;">
-                    <div class="class-card-content my-3">
-                        <p class="m-0 text-center"><strong>Nutcracker</strong></p>
-                        {{--                        <p class="m-0 text-center text-muted">Mon-Sat 3:30-5:30</p>--}}
-                        <hr>
-                        <div class="text-center">
-                            <a href="/nutcracker" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>
-                            <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- start of looking for section -->
-
-    <div style="background: #c1d62e;" class="mt-5 text-center">
-        <div class="container">
-            <h1 class="pt-5">Looking for...</h1>
-            <div class="row">
-                <div class="col-sm my-5">
-                    <img src="/images/piano.png" alt="piano" class="img-fluid" style="height: 44px; width: 44px;">
-                    <h2 class="text-uppercase" style="font-weight: 800;">Piano</h2>
-                    <div class="text-center">
-                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
-                    </div>
-                </div>
-                <div class="col-sm my-5">
-                    <img src="/images/guitar.png" alt="guitar" class="img-fluid" style="height: 44px; width: 44px;">
-                    <h2 class="text-uppercase" style="font-weight: 800;">Guitar</h2>
-                    <div class="text-center">
-                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
-                    </div>
-                </div>
-                <div class="col-sm my-5">
-                    <img src="/images/voice.png" alt="voice" class="img-fluid" style="height: 44px; width: 44px;">
-                    <h2 class="text-uppercase" style="font-weight: 800;">Voice</h2>
-                    <div class="text-center">
-                        <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-pink btn-sm text-center text-uppercase">Register</div></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- end of looking for section -->
-
-    <div id="achievements-section" class="d-flex align-items-center">
-        <div id="achievements-overlay"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
-                    <ion-icon name="home-outline"></ion-icon>
-                    <p class="achievement-number mx-3">1</p>
-                    <p class="achievement-text">Location</p>
-                </div>
-                <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
-                    <ion-icon name="color-filter-outline"></ion-icon>
-                    <p class="achievement-number mx-3">3</p>
-                    <p class="achievement-text">Activities - <br>Dance, Music, Acro</p>
-                </div>
-                <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
-                    <ion-icon name="checkmark-circle-outline"></ion-icon>
-                    <p class="achievement-number mx-3">3</p>
-                    <p class="achievement-text">Ways To Take Class - <br>In-Studio, Live Stream, & Pre-Recorded</p>
-                </div>
-                <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
-                    <ion-icon name="body-outline"></ion-icon>
-                    <p class="achievement-number mx-3">10</p>
-                    <p class="achievement-text">YPAD Certified Staff</p>
-                </div>
-                <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
-                    <ion-icon name="musical-notes-outline"></ion-icon>
-                    <p class="achievement-number mx-3">100+</p>
-                    <p class="achievement-text">Classes Per Week</p>
-                </div>
-                <div class="col-sm-2 text-center text-white d-flex justify-content-center d-md-block">
-                    <ion-icon name="people-circle-outline"></ion-icon>
-                    <p class="achievement-number mx-3">20</p>
-                    <p class="achievement-text">Years Serving Our Community</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-{{--    <div id="teacher-focus-section">--}}
+{{--    <div class="bg-white py-5">--}}
 {{--        <div class="container">--}}
-{{--            <div class="row pt-5" id="top-teacher-focus">--}}
-{{--                <div class="col-12 col-md-6">--}}
-{{--                    <p class="text-uppercase my-5" id="focus-label">Teacher Feature</p>--}}
-{{--                    <p id="focus-name" class="my-5">Mr. Dennis</p>--}}
-{{--                    <p class="my-5">Mr. Dennis grew up studying ballet at Maple Conservatory of Dance in California. He graduated from Belhaven University with a BFA in dance and has danced professionally with Ballet Mississippi and Filter Dance Company. Additionally, he has four years of experience in Martial Arts. Mr. Dennis has taught at MDU since 2015.</p>--}}
-{{--                    <p id="focus-list" class="text-uppercase font-weight-bold mt-5">teacher classes:</p>--}}
-{{--                </div>--}}
-{{--                <div class="col-6 d-flex justify-content-center">--}}
-{{--                    <img src="images/teacher-of-the-month.png" alt="" class="img-fluid d-none d-md-block">--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <div class="row pb-5" id="teacher-focus-classes">--}}
-{{--                <div class="col-sm-3 mb-2">--}}
-{{--                    <div class="class-card-wrap border border-muted bg-white">--}}
-{{--                        <img src="/images/modern-dennis.jpg" alt="" class="img-fluid">--}}
-{{--                        <div class="class-card-content my-3">--}}
-{{--                            <p class="m-0 text-center"><strong>Modern</strong></p>--}}
-{{--                            <hr>--}}
-{{--                            <div class="text-center">--}}
-{{--                                --}}
-{{--                                <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>--}}
-{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
-
-{{--                            </div>--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm d-flex align-items-center">--}}
+{{--                    <div>--}}
+{{--                        <div class="d-flex justify-content-center mb-0">--}}
+{{--                            <img src="/images/darbys-dancers-logo.jpeg" alt="darbys dancers logo" class="img-fluid">--}}
 {{--                        </div>--}}
+{{--                        <h2 class="text-center mt-0 mb-3">Featured Program</h2>--}}
+{{--                        <p class="mb-5">--}}
+{{--                            Misty’s Dance Unlimited (MDU) is proud to offer through a chapter of the national non-profit organization <strong>Darby’s Dancers</strong>! Darby's Dancers is an opportunity for children with special needs to participate in the performing arts through dance education.--}}
+{{--                            <br><br>--}}
+{{--                            Dancers in the program gain confidence, coordination, strength and lifelong friends, all while feeling like a star.  Our youth volunteers learn important lessons in responsibility and friendship by providing one-on-one assistance their dancer.--}}
+{{--                            <br><br>--}}
+{{--                            The charitable contributions of youth volunteers, dance instructors, and MDU provide dance classes, supplies and costumes to dancers with special needs at no cost to their parents.--}}
+{{--                        </p>--}}
 {{--                    </div>--}}
 {{--                </div>--}}
-{{--                <div class="col-sm-3 mb-2">--}}
-{{--                    <div class="class-card-wrap border border-muted bg-white">--}}
-{{--                        <img src="/images/boys.jpg" alt="" class="img-fluid">--}}
-{{--                        <div class="class-card-content my-3">--}}
-{{--                            <p class="m-0 text-center"><strong>Man in Motion</strong></p>--}}
-{{--                            <hr>--}}
-{{--                            <div class="text-center">--}}
-{{--                                --}}
-{{--                                <a href="/class-schedule" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">View Schedule</div></a>--}}
-{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Register</div></a>--}}
-
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-sm-3 mb-2">--}}
-{{--                    <div class="class-card-wrap border border-muted bg-white">--}}
-{{--                        <img src="/images/BLC.jpg" alt="" class="img-fluid">--}}
-{{--                        <div class="class-card-content my-3">--}}
-{{--                            <p class="m-0 text-center"><strong>Ballet La Crosse</strong></p>--}}
-{{--                            <hr>--}}
-{{--                            <div class="d-flex justify-content-center">--}}
-{{--                                <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank"><div class="btn btn-aqua btn-sm text-center text-uppercase">More Info</div></a>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-sm-3 mb-2">--}}
-{{--                    <div class="class-card-wrap border border-muted bg-white">--}}
-{{--                        <img src="/images/prepro.jpg" alt="" class="img-fluid">--}}
-{{--                        <div class="class-card-content my-3">--}}
-{{--                            <p class="m-0 text-center"><strong>Pre-Professional Ballet</strong></p>--}}
-{{--                            <hr>--}}
-{{--                            <div class="d-flex justify-content-center text-center">--}}
-{{--                                for more information email:<br>mistysdance@gmail.com--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
+{{--                <div class="col-sm d-flex align-items-center justify-content-center">--}}
+{{--                    <div class="">--}}
+{{--                        <img src="/images/darbys-1.jpg" alt="darbys dancer on stage" class="img-fluid rounded shadow">--}}
 {{--                    </div>--}}
 {{--                </div>--}}
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
 
-    <div id="trial-section" class="pb-3">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 text-center">
-                    <h4 class="mt-5 mb-4">We Have Built a Reputation for Excellence in Dance Instruction</h4>
-                    <p class="mb-5">From your child’s first class to their graduation performance, CDMC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, CDMC is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.</p>
+    <div id="mtjgd-bg" class="text-white">
+        <div class="color-filter-blue"></div>
+        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>
+        <div>
+            <div class="row tertiary-txt-pos">
+                <div class="col-sm my-4">
+                    “We don’t teach kids to make great dancers, we teach dance to make great kids.”
+                    <br>
+                    <em>-Misty Lown</em>
                 </div>
-{{--                @include('freetrial')--}}
+                <div class="col-sm">
+                    <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid">
+                </div>
             </div>
         </div>
     </div>
 
-    @include('/posts/index')
+    <div id="safer-youth" class="bg-white py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: 100%; height: 100%; filter: invert(1);">
+                    </div>
+                    <h2 class="text-center">CDMC is a Safer Studio™</h2>
+                    <p>
+                        CDMC focuses on a hierarchy of measures to create a Safer Studio™ environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleaning and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.
+                    </p>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="max-height: 354.04px;">
+                    </div>
+                    <h2 class="text-center">CDMC is Youth Protection Advocates in Dance®  Certified!</h2>
+                    <p>
+                        <span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Background checked and CPR certified teachers
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Safer Studio™ Policy
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Teacher training & proven curriculum
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> A focus on safety & wellness for every student
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Secured facilities
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Viewing windows
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Social media safety practices
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @include('testimonials')
+
+    <div id="call-to-action" class="bg-white pt-5 pb-1">
+        <div class="text-center pt-2">
+            <h2 class="txt-kapa-teal">Be A Part Of Our CDMC Family!</h2>
+            {{--            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Dance With Us Today!</div></a>--}}
+        </div>
+    </div>
 
 
 @endsection

@@ -53,6 +53,10 @@ Route::get('info', function () {
     return view('info');
 });
 
+Route::get('staff', function () {
+    return view('staff');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
