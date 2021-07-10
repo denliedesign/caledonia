@@ -6,12 +6,12 @@
                 <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-kapa-pink">Want To Give It A Try?</p>
-                <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-pink btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Schedule A Trial!</button>
+                <p class="txt-kapa-pink">Need Dance Wear?</p>
+                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family">&#10097; Schedule A Fitting!</div></a>
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-kapa-green">Still Have Questions?</p>
-                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family">&#10097; Contact Us!</div></a>
+                <p class="txt-kapa-green">Have Questions?</p>
+                <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-green btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Contact Us!</button>
             </div>
         </div>
     </div>
@@ -29,11 +29,15 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="call"></ion-icon>
-                            616-891-1606
+                            <a href="tel:275" style="text-decoration: none">616-891-1606</a>
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>
                             info@CaledoniaDanceAndMusic.com
+                        </li>
+                        <li class="list-group-item px-0 border-0">
+                            <ion-icon name="pencil"></ion-icon>
+                            <button type="button" class="text-primary" style="background: none;border: none;padding: 0;font: inherit;cursor: pointer;outline: inherit;" data-bs-toggle="modal" data-bs-target="#trymodal">Send A Message</button>
                         </li>
                     </ul>
                 </div>
@@ -99,9 +103,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/music-lessons">Music Lessons</a>
                                 </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="/birthday-parties">Birthdays</a>
-                                </li>
+{{--                                <li class="list-group-item px-0 border-0">--}}
+{{--                                    <a class="text-decoration-none txt-blue" href="/birthday-parties">Birthdays</a>--}}
+{{--                                </li>--}}
                                 @guest
                                     <li class="list-group-item px-0 border-0">
                                         <a class="text-decoration-none txt-blue" href="{{ route('login') }}">{{ __('Admin') }}</a>

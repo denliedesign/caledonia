@@ -60,10 +60,10 @@
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-pink"></ion-icon>
                                 <p class="lead text-center">
-                                    Nalana La Framboise
+                                    Melanie Souter Dallas
                                 </p>
                                 <p>
-                                    Every staff member, instructor, and student at CDMC is passionate about dance and supportive of the nurturing studio community. Additionally, all performances and company trips are full of well-organized activities and energetic and loving people. It's always such a great experience to be at CDMC!!
+                                    Great teachers and staff members!!! Cdmc makes u feel like family. My daughter has been dancing for the last 4 years at cdmc and loves ever minute it.
                                 </p>
                             </div>
                         </div>
@@ -90,10 +90,10 @@
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
                                 <p class="lead text-center">
-                                    Mitch Joseph
+                                    Ashley Nadeau
                                 </p>
                                 <p>
-                                    Family friendly and high quality service. Experts of their industry. Highly recommend.
+                                    Our three year old loves coming to ballet lessons! Very nice teachers/staff!
                                 </p>
                             </div>
                         </div>

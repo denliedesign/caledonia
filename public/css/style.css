@@ -856,3 +856,12 @@ body {
         text-align: left;
     }
 }
+
+#featured-program {
+    border-top: 1px solid #978547;
+    border-bottom: 1px solid #978547;
+    color: #978547;
+    width: 250px;
+    margin: 20px auto;
+    font-size: 1.25em;
+}

@@ -6,11 +6,15 @@
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="call"></ion-icon>
-            616-891-1606
+            <a href="tel:275" style="text-decoration: none; color: inherit;">616-891-1606</a>
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="mail"></ion-icon>
             info@CaledoniaDanceAndMusic.com
+        </li>
+        <li class="nav-item text-white-50 mx-4">
+            <ion-icon name="pencil"></ion-icon>
+            <button type="button" class="text-primary" style="color: inherit !important; background: none;border: none;padding: 0;font: inherit;cursor: pointer;outline: inherit;" data-bs-toggle="modal" data-bs-target="#trymodal">Send A Message</button>
         </li>
     </ul>
 </div>

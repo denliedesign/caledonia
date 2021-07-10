@@ -18,12 +18,12 @@
                     <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>
                 </div>
                 <div class="next-step mt-3 mt-md-0 shadow">
-                    <p class="txt-kapa-pink">Want To Give It A Try?</p>
-                    <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-pink btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Schedule A Trial!</button>
+                    <p class="txt-kapa-pink">Need Dance Wear?</p>
+                    <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family">&#10097; Schedule A Fitting!</div></a>
                 </div>
                 <div class="next-step mt-3 mt-md-0 shadow">
-                    <p class="txt-kapa-green">Still Have Questions?</p>
-                    <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family">&#10097; Contact Us!</div></a>
+                    <p class="txt-kapa-green">Have Questions?</p>
+                    <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-green btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Contact Us!</button>
                 </div>
             </div>
         </div>
@@ -60,7 +60,7 @@
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/pg.jpg" alt="performing groups" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
-                    <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Performance Groups</div></a>
+                    <a class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;" data-bs-toggle="modal" data-bs-target="#trymodal">Performance Groups</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/nutcracker.jpeg" alt="nutcracker" class="img-fluid shadow rounded" style="height: 203px; object-fit: cover; object-position: 15% 0; width: 100%;">
@@ -73,74 +73,75 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                 <div class="col-sm mt-4">
                     <img src="/images/piano.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Piano</div></a>
+                    <a href="/music-lessons" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Piano</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/guitar.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Guitar</div></a>
+                    <a href="/music-lessons" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Guitar</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/voice.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Voice</div></a>
+                    <a href="/music-lessons" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Voice</div></a>
                 </div>
             </div>
         </div>
     </div>
 
-{{--    <div id="checklist-bg">--}}
-{{--        <div class="color-filter-green"></div>--}}
-{{--        <h2 class="secondary-txt d-none d-md-block">Parents <ion-icon name="heart"></ion-icon> CDMC...</h2>--}}
-{{--        <div class="row secondary-txt-pos text-white text-center">--}}
-{{--            <div class="col-sm">--}}
-{{--                <p>--}}
-{{--                    <ion-icon name="heart"></ion-icon> Sprung Floors--}}
-{{--                    <br><ion-icon name="heart"></ion-icon> Secured Facility--}}
-{{--                    <br><ion-icon name="heart"></ion-icon> Study Areas--}}
-{{--                </p>--}}
-{{--            </div>--}}
-{{--            <div class="col-sm">--}}
-{{--                <p>--}}
-{{--                    <ion-icon name="heart"></ion-icon> Written Curriculum--}}
-{{--                    <br><ion-icon name="heart"></ion-icon> Background Checked--}}
-{{--                    <br><ion-icon name="heart"></ion-icon> CPR Trained--}}
-{{--                </p>--}}
-{{--            </div>--}}
-{{--            <div class="col-sm">--}}
-{{--                <p>--}}
-{{--                    <ion-icon name="heart"></ion-icon> Full-Time Admin--}}
-{{--                    <br><ion-icon name="heart"></ion-icon> YPAD Certified--}}
-{{--                    <br><ion-icon name="heart"></ion-icon> Community Service--}}
-{{--                </p>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
+    <div id="checklist-bg">
+        <div class="color-filter-green"></div>
+        <h2 class="secondary-txt d-none d-md-block">Parents <ion-icon name="heart"></ion-icon> CDMC...</h2>
+        <div class="row secondary-txt-pos text-white text-center">
+            <div class="col-sm">
+                <p>
+                    <ion-icon name="heart"></ion-icon> Floating Floors
+                    <br><ion-icon name="heart"></ion-icon> 5 Dance Studios
+                    <br><ion-icon name="heart"></ion-icon> 5-6 Guests Artists Each Year
+                </p>
+            </div>
+            <div class="col-sm">
+                <p>
+                    <ion-icon name="heart"></ion-icon> Written Curriculum
+                    <br><ion-icon name="heart"></ion-icon> Background Checked
+                    <br><ion-icon name="heart"></ion-icon> CPR Trained
+                </p>
+            </div>
+            <div class="col-sm">
+                <p>
+                    <ion-icon name="heart"></ion-icon> Full-Time Admin
+                    <br><ion-icon name="heart"></ion-icon> YPAD Certified
+                    <br><ion-icon name="heart"></ion-icon> Community Service
+                </p>
+            </div>
+        </div>
+    </div>
 
-{{--    <div class="bg-white py-5">--}}
-{{--        <div class="container">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-sm d-flex align-items-center">--}}
-{{--                    <div>--}}
+    <div class="bg-white py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm d-flex align-items-center">
+                    <div>
 {{--                        <div class="d-flex justify-content-center mb-0">--}}
-{{--                            <img src="/images/darbys-dancers-logo.jpeg" alt="darbys dancers logo" class="img-fluid">--}}
+{{--                            logo goes here--}}
 {{--                        </div>--}}
-{{--                        <h2 class="text-center mt-0 mb-3">Featured Program</h2>--}}
-{{--                        <p class="mb-5">--}}
-{{--                            Misty’s Dance Unlimited (MDU) is proud to offer through a chapter of the national non-profit organization <strong>Darby’s Dancers</strong>! Darby's Dancers is an opportunity for children with special needs to participate in the performing arts through dance education.--}}
-{{--                            <br><br>--}}
-{{--                            Dancers in the program gain confidence, coordination, strength and lifelong friends, all while feeling like a star.  Our youth volunteers learn important lessons in responsibility and friendship by providing one-on-one assistance their dancer.--}}
-{{--                            <br><br>--}}
-{{--                            The charitable contributions of youth volunteers, dance instructors, and MDU provide dance classes, supplies and costumes to dancers with special needs at no cost to their parents.--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-sm d-flex align-items-center justify-content-center">--}}
-{{--                    <div class="">--}}
-{{--                        <img src="/images/darbys-1.jpg" alt="darbys dancer on stage" class="img-fluid rounded shadow">--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
+                        <p class="text-center mt-0" id="featured-program">Featured Program</p>
+                        <h1 class="text-center mt-0 mb-3">Class Assistant Service Team</h1>
+                        <p class="mb-5">
+                            CDMC is proud to offer a leadership program where tweens and teens model and mentor younger students through the Class Assistant Service Team.
+                            <br><br>
+                            After extensive pre-screening, CAST Members, go through a training camp and ongoing leadership programs where they learn and grow not only in their craft of dance, but in confidence and character while gaining skills that will last a lifetime.
+                            <br><br>
+                            Cast Members are passionate about sharing their love of dance and giving back to their community.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm d-flex align-items-center justify-content-center">
+                    <div class="">
+                        <img src="/images/cdmc-cast-program.jpg" alt="older dancer with younger dancer" class="img-fluid rounded shadow" style="max-height: 600px;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div id="mtjgd-bg" class="text-white">
         <div class="color-filter-blue"></div>
