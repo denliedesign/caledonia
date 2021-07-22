@@ -6,7 +6,7 @@
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="call"></ion-icon>
-            <a href="tel:275" style="text-decoration: none; color: inherit;">616-891-1606</a>
+            <a href="tel:6168911606" style="text-decoration: none; color: inherit;">616-891-1606</a>
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="mail"></ion-icon>

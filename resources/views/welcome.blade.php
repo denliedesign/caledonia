@@ -1,7 +1,6 @@
 @extends('layouts.app')
 @section('content')
-
-    @include('contact-modal-2')
+    
     <div id="primary-bg">
         <div class="color-filter-pink"></div>
         <h2 id="primary-txt-mobile" class="d-md-none">take the first step to dance with us</h2>
@@ -19,7 +18,7 @@
                 </div>
                 <div class="next-step mt-3 mt-md-0 shadow">
                     <p class="txt-kapa-pink">Need Dance Wear?</p>
-                    <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family">&#10097; Schedule A Fitting!</div></a>
+                    <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-pink btn-family" data-bs-toggle="modal" data-bs-target="#fittingmodal">&#10097; Schedule A Fitting!</button>
                 </div>
                 <div class="next-step mt-3 mt-md-0 shadow">
                     <p class="txt-kapa-green">Have Questions?</p>

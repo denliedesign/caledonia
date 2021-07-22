@@ -35,6 +35,8 @@
 
     @include('top')
     @include('header-21')
+    @include('contact-modal-2')
+    @include('fitting-modal')
     @yield('content')
     @include('footer-21')
 

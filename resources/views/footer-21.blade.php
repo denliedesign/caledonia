@@ -7,8 +7,7 @@
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-kapa-pink">Need Dance Wear?</p>
-                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family">&#10097; Schedule A Fitting!</div></a>
-            </div>
+                <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-pink btn-family" data-bs-toggle="modal" data-bs-target="#fittingmodal">&#10097; Schedule A Fitting!</button>            </div>
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-kapa-green">Have Questions?</p>
                 <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-green btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Contact Us!</button>
@@ -29,7 +28,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="call"></ion-icon>
-                            <a href="tel:275" style="text-decoration: none">616-891-1606</a>
+                            <a href="tel:6168911606" style="text-decoration: none">616-891-1606</a>
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>
