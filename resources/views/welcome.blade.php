@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-    
+
     <div id="primary-bg">
         <div class="color-filter-pink"></div>
         <h2 id="primary-txt-mobile" class="d-md-none">take the first step to dance with us</h2>
@@ -14,7 +14,8 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
                 <div class="next-step mt-3 mt-md-0 shadow">
                     <p class="txt-kapa-orange">Ready To Leap In?</p>
-                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>
+                    <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>
+{{--                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>--}}
                 </div>
                 <div class="next-step mt-3 mt-md-0 shadow">
                     <p class="txt-kapa-pink">Need Dance Wear?</p>

@@ -18,7 +18,8 @@
         <a class="nav-link" href="/calendar">Calendar</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank">Register</a>
+        <a class="nav-link" href="/fall">Register</a>
+{{--        <a class="nav-link" href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank">Register</a>--}}
     </li>
     <li class="nav-item mx-2">
         <a class="nav-link" href="https://app.jackrabbitclass.com/jr3.0/ParentPortal/Login?orgId=383292&regcid=11480783" target="_blank">Login</a>
