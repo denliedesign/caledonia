@@ -183,7 +183,7 @@
                         <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Teacher training & proven curriculum
                         <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> A focus on safety & wellness for every student
                         <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Secured facilities
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Viewing windows
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Observation Monitors
                         <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Social media safety practices
                     </p>
                 </div>
