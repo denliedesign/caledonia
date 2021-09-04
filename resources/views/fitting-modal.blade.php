@@ -16,6 +16,7 @@
                 </p>
                 <ion-icon name="call" style="font-size: 1.25em;"></ion-icon>
                 <a href="tel:6168911606" style="text-decoration: none; font-size: 1.25em;" class="fw-bold">616-891-1606</a>
+                <img src="/images/schedule-a-fitting.JPG" alt="dancer at dance store" class="img-fluid my-2">
             </div>
         </div>
     </div>

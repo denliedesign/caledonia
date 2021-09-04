@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Post;
+use App\Text;
 use App\Update;
 use Illuminate\Support\ServiceProvider;
 
@@ -31,6 +32,10 @@ class AppServiceProvider extends ServiceProvider
 
         view()->composer('*',function($view) {
             $view->with('posts', Post::orderByDesc('shown')->paginate(3));
+        });
+
+        view()->composer('*',function($view) {
+            $view->with('texts', Text::all());
         });
     }
 }
