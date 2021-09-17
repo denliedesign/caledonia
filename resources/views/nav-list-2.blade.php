@@ -11,6 +11,9 @@
     <li class="nav-item mx-2">
         <a class="nav-link" href="/fall">Fall</a>
     </li>
+    <li class="nav-item mx-2">
+        <a class="nav-link" href="/nutcracker">Nutcracker</a>
+    </li>
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="/class-schedule">Summer</a>--}}
 {{--    </li>--}}
