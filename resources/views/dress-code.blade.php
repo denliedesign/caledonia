@@ -8,7 +8,7 @@
 
     <div class="bg-white">
         <div class="py-5" id="class-schedule">
-            <h2 class="text-center">Dress Code</h2>
+            <h2 class="text-center">Attire</h2>
             <div class="container">
                 @can('update', \App\Text::class)
                     <div id="dress-text-a" style="border:2px solid orange;" class="my-3 py-1 rounded shadow">
