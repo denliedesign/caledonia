@@ -3,10 +3,32 @@
         <div class="carousel-item active">
             <div id="testimonials" class="bg-kapa-orange py-5">
                 <div class="container">
-                    <div class="row m-0 p-0 d-flex justify-content-center">
+                    <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
+                                <p class="lead text-center">
+                                    Ashley Baker
+                                </p>
+                                <p>
+                                    My daughter loves the teachers here. And they are super helpful
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md m-4 p-4 shadow">
+                            <div>
+                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-pink"></ion-icon>
+                                <p class="lead text-center">
+                                    Emily Caldwell
+                                </p>
+                                <p>
+                                    My daughter loves CDMC! The teachers are great and the performances are amazing!
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md m-4 p-4 shadow">
+                            <div>
+                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
                                 <p class="lead text-center">
                                     Gretchen Stobert Wilson
                                 </p>
@@ -15,14 +37,57 @@
                                 </p>
                             </div>
                         </div>
+{{--                        <div class="col-md m-4 p-4 shadow">--}}
+{{--                            <div>--}}
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-pink"></ion-icon>--}}
+{{--                                <p class="lead text-center">--}}
+{{--                                    Trevin Steiner--}}
+{{--                                </p>--}}
+{{--                                <p>--}}
+{{--                                    Warm, very caring, professional place. The teachers are over and beyhond knowledgeable. The recital in June is so awesome, certainly not the "Typical"  dance recital, as the choreography and dancers are phenomenal. Anyone that has something negative to say, would have to be a situation out of the normal.--}}
+{{--                                </p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-md m-4 p-4 shadow">--}}
+{{--                            <div>--}}
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>--}}
+{{--                                <p class="lead text-center">--}}
+{{--                                    Macey Acker--}}
+{{--                                </p>--}}
+{{--                                <p>--}}
+{{--                                    Love this place! The people are so welcoming and everyone is like a big family! The teachers are wonderful and give their all to the students. Truly an amazing place--}}
+{{--                                </p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="carousel-item">
+            <div id="testimonials" class="bg-kapa-orange py-5">
+                <div class="container">
+                    <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
+                        <div class="col-md m-4 p-4 shadow">
+                            <div>
+                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
+                                <p class="lead text-center">
+                                    Angela Russo
+                                </p>
+                                <p>
+                                    Both my daughters (3 and 5 years old) attend CDMC and they look forward to going to class every week. All of the CDMC staff are kind, friendly, and knowledgeable. They help build confidence in the dancers and technique all while having fun.
+                                </p>
+                            </div>
+                        </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-pink"></ion-icon>
                                 <p class="lead text-center">
-                                    Trevin Steiner
+                                    Emily Beezhold
                                 </p>
                                 <p>
-                                    Warm, very caring, professional place. The teachers are over and beyhond knowledgeable. The recital in June is so awesome, certainly not the "Typical"  dance recital, as the choreography and dancers are phenomenal. Anyone that has something negative to say, would have to be a situation out of the normal.
+                                    My daughter has been dancing here since she was four and every year she loves it more and grows in what she knows and her maturity level as well. Even though covid was a tough experience for everything CDMC worked their hardest to continue dance online and in person however they could so the kids continued to be able to learn.
                                 </p>
                             </div>
                         </div>
@@ -30,10 +95,10 @@
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
                                 <p class="lead text-center">
-                                    Macey Acker
+                                    Stephanie Pratt
                                 </p>
                                 <p>
-                                    Love this place! The people are so welcoming and everyone is like a big family! The teachers are wonderful and give their all to the students. Truly an amazing place
+                                    This is our second year at CDMC and we LOVE it. My daughter danced at two prior studios and CDMC is hands down our favorite and where we will stay. The teachers are knowledgeable and loving, they put on beautiful performances, and we look forward to many years with them. Highly recommend!
                                 </p>
                             </div>
                         </div>
@@ -41,10 +106,12 @@
                 </div>
             </div>
         </div>
+
+
         <div class="carousel-item">
             <div id="testimonials" class="bg-kapa-orange py-5">
                 <div class="container">
-                    <div class="row m-0 p-0 d-flex justify-content-center">
+                    <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
@@ -85,7 +152,7 @@
         <div class="carousel-item">
             <div id="testimonials" class="bg-kapa-orange py-5">
                 <div class="container">
-                    <div class="row m-0 p-0 d-flex justify-content-center">
+                    <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
@@ -97,14 +164,25 @@
                                 </p>
                             </div>
                         </div>
+{{--                        <div class="col-md m-4 p-4 shadow">--}}
+{{--                            <div>--}}
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-pink"></ion-icon>--}}
+{{--                                <p class="lead text-center">--}}
+{{--                                    Ashley--}}
+{{--                                </p>--}}
+{{--                                <p>--}}
+{{--                                    They do little things to push themselves above and beyond.--}}
+{{--                                </p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-pink"></ion-icon>
                                 <p class="lead text-center">
-                                    Ashley
+                                    Megan Adams
                                 </p>
                                 <p>
-                                    They do little things to push themselves above and beyond.
+                                    I love CDMC. We have been here 6 years now and we have loved every minute of it. They keep parents in the loop and the kids are cared for and taken care of very well. We love our dance family!
                                 </p>
                             </div>
                         </div>

@@ -3,8 +3,12 @@
 
     <div id="primary-bg">
         <div class="color-filter-pink"></div>
-        <h2 id="primary-txt-mobile" class="d-md-none">take the first step to dance with us</h2>
-        <h2 id="primary-txt" class="d-none d-md-block">take the first step to dance with us</h2>
+{{--        <h2 id="primary-txt-mobile" class="d-md-none">take the first step to dance with us</h2>--}}
+{{--        <h2 id="primary-txt" class="d-none d-md-block">take the first step to dance with us</h2>--}}
+        <div style="position: absolute; z-index: 5; left: 50%; top: 30%; transform: translate(-50%, -50%); width: 100%;">
+            <div class="text-uppercase text-white text-center" style="font-size: 3em; text-shadow: 1px 3px 6px black;">it's not too late to register!</div>
+            <div class="text-lowercase text-white text-center fw-bold" style="font-size: 1.75em;">take the first step to dance with us</div>
+        </div>
     </div>
 
     {{--    @include('trial-modal')--}}
