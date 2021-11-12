@@ -20,8 +20,18 @@
            {{--            <img src="/images/nutcracker-poster.jpg" alt="nutcracker poster" class="img-fluid">--}}
            {{--        </div>--}}
            <div class="d-flex justify-content-center">
-               {{--            <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">--}}
-               <img src="/images/nutcracker-2021.jpg" alt="nutcracker logo" class="img-fluid" style="height: 100%; width: auto;">
+               <div class="text-center">
+                   <div class="btn btn-lg btn-nutcracker-red shadow">
+                       <a href="https://25664.recitalticketing.com/" target="_blank" class="text-uppercase text-decoration-none text-white fw-bold">Buy Tickets Now!</a>
+                   </div>
+                   <div>
+                       {{--            <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">--}}
+                       <img src="/images/nutcracker-show-2021.png" alt="nutcracker show info" class="img-fluid" style="height: 100%; width: auto;">
+                   </div>
+                   <div class="btn btn-lg btn-nutcracker-red shadow mt-3">
+                       <a href="https://25664.recitalticketing.com/" target="_blank" class="text-uppercase text-decoration-none text-white fw-bold">Buy Tickets Now!</a>
+                   </div>
+               </div>
            </div>
            {{--        <div class="d-flex justify-content-center mt-3 mb-4">--}}
            {{--            <a href="http://www.recitalticketing.com/25664/" target="_blank"><button class="btn btn-lg btn-danger">Buy Tickets</button></a>--}}

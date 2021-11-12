@@ -865,3 +865,14 @@ body {
     margin: 20px auto;
     font-size: 1.25em;
 }
+
+.btn-nutcracker-red {
+    background: #b04042;
+    color: white;
+    border: 2px solid #c1d62e;
+    transition: background 0.5s ease;
+}
+
+.btn-nutcracker-red:hover {
+    background: #c1d62e;
+}
