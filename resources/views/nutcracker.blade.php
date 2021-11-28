@@ -66,9 +66,10 @@
            <div class="container">
                <div class="">
                    <div class="row p-0 m-0 d-flex justify-content-center align-items-center">
-                       <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-1.jpg"></div>
-                       <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-2.jpg"></div>
-                       <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-3.jpg"></div>
+                       <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-1.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
+                       <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-2.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
+                       <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-4.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
+                       <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-5.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
                    </div>
                </div>
            </div>
@@ -77,8 +78,8 @@
 
 
        <div class="container">
-           <h2 class="text-center">Nutcracker Auditions 2021</h2>
-           <p class="lead text-center">Saturday, October 2</p>
+           <h2 class="text-center">Nutcracker Auditions 2022</h2>
+           <p class="lead text-center">Auditions will be held on Saturday, October 1, 2022</p>
            <div id="class-schedule">
                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
            </div>
