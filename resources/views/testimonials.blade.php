@@ -30,7 +30,7 @@
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
                                 <p class="lead text-center">
-                                    Gretchen Stobert Wilson
+                                    Gretchen Wilson
                                 </p>
                                 <p>
                                     This is a wonderful place with lots of classes to chose from and amazing instructors. They are so organized and know how to put on a show from the Nutcracker at Christmas to Recital week.
@@ -127,7 +127,7 @@
                             <div>
                                 <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-pink"></ion-icon>
                                 <p class="lead text-center">
-                                    Melanie Souter Dallas
+                                    Melanie Dallas
                                 </p>
                                 <p>
                                     Great teachers and staff members!!! Cdmc makes u feel like family. My daughter has been dancing for the last 4 years at cdmc and loves ever minute it.

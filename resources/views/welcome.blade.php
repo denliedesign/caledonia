@@ -42,20 +42,20 @@
         </div>
     </div>
 
-    <div class="bg-white pb-5">
-        <div class="container">
-            <div class="d-flex justify-content-center">
-                <div class="text-center">
-                    <div class="my-4">
-                        <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
-                    </div>
-                    <div class="btn btn-lg btn-nutcracker-red shadow">
-                        <a href="https://25664.recitalticketing.com/" target="_blank" class="text-uppercase text-decoration-none text-white fw-bold">Buy Tickets Now!</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div class="bg-white pb-5">--}}
+{{--        <div class="container">--}}
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <div class="text-center">--}}
+{{--                    <div class="my-4">--}}
+{{--                        <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">--}}
+{{--                    </div>--}}
+{{--                    <div class="btn btn-lg btn-nutcracker-red shadow">--}}
+{{--                        <a href="https://25664.recitalticketing.com/" target="_blank" class="text-uppercase text-decoration-none text-white fw-bold">Buy Tickets Now!</a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
