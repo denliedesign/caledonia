@@ -18,9 +18,9 @@
         {{--    </div>--}}
 
         <div class="py-5" id="class-schedule">
-            <h2 class="text-center">Fall Schedule</h2>
+            <h2 class="text-center text-uppercase">Classes</h2>
             <p class="lead text-center">
-                2021-2022 Dance Classes
+                2021-2022
             </p>
             <div class="container">
 {{--                <div class="row">--}}
