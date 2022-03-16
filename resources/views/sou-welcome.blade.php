@@ -1,13 +1,46 @@
 @extends('layouts.app')
 @section('content')
 
-    <div id="primary-bg">
+    <div class="d-flex justify-content-center pt-3 bg-white">
+        <a class="navbar-brand" href="/"><img src="/images/sou-temp/studio-south-logo.png" alt=""
+                                              style="max-width: 257px;"></a>
+{{--                                              style="max-width: 400px;"></a>--}}
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white d-flex justify-content-center">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-list-21" aria-controls="nav-list-21" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse text-uppercase justify-content-center" id="nav-list-21">
+            <ul class="navbar-nav text-center">
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="/">About</a>
+                </li>
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="/">Classes</a>
+                </li>
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="/">Schedule</a>
+                </li>
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="/">News</a>
+                </li>
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="/">Register</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="sou-primary-bg">
         <div class="color-filter-pink"></div>
-{{--        <h2 id="primary-txt-mobile" class="d-md-none">take the first step to dance with us</h2>--}}
-{{--        <h2 id="primary-txt" class="d-none d-md-block">take the first step to dance with us</h2>--}}
+        {{--        <h2 id="primary-txt-mobile" class="d-md-none">take the first step to dance with us</h2>--}}
+        {{--        <h2 id="primary-txt" class="d-none d-md-block">take the first step to dance with us</h2>--}}
         <div style="position: absolute; z-index: 5; left: 50%; top: 30%; transform: translate(-50%, -50%); width: 100%;">
-{{--            <div class="text-uppercase text-white text-center" style="font-size: 3em; text-shadow: 1px 3px 6px black;">it's not too late to register!</div>--}}
-            <div class="text-lowercase text-white text-center fw-bold" style="font-size: 2.75em;">We <div class="d-inline" id="statement"></div> kids through music and dance</div>
+            <div class="text-uppercase text-white text-center" style="font-size: 3em; text-shadow: 1px 3px 6px black;">it's not too late to register!</div>
+            <div class="text-lowercase text-white text-center fw-bold" style="font-size: 1.75em;">take the first step to dance with us</div>
         </div>
     </div>
 
@@ -17,17 +50,17 @@
         <div id="next-steps">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
                 <div class="next-step mt-3 mt-md-0 shadow">
-                    <p class="txt-kapa-orange">Ready To Leap In?</p>
-                    <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>
-{{--                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>--}}
+                    <p class="txt-kapa-orange" style="color: #25CAD2 !important;">Ready To Leap In?</p>
+                    <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family" style="background: #25CAD2 !important;">&#10097; Enroll today!</div></a>
+                    {{--                    <a href="https://app.jackrabbitclass.com/regv2.asp?id=383292&preLoadClassID=11480783" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family" style="background: #39a8df !important;">&#10097; Enroll today!</div></a>--}}
                 </div>
                 <div class="next-step mt-3 mt-md-0 shadow">
-                    <p class="txt-kapa-pink">Need Dance Wear?</p>
-                    <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-pink btn-family" data-bs-toggle="modal" data-bs-target="#fittingmodal">&#10097; Schedule A Fitting!</button>
+                    <p class="txt-kapa-pink" style="color: #A1A8AD !important;">Need Dance Wear?</p>
+                    <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-pink btn-family" style="background: #A1A8AD !important;" data-bs-toggle="modal" data-bs-target="#fittingmodal">&#10097; Schedule A Fitting!</button>
                 </div>
                 <div class="next-step mt-3 mt-md-0 shadow">
-                    <p class="txt-kapa-green">Have Questions?</p>
-                    <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-green btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Contact Us!</button>
+                    <p class="txt-kapa-green" style="color: #DCC66C !important;">Have Questions?</p>
+                    <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-green btn-family" style="background: #DCC66C !important;" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Contact Us!</button>
                 </div>
             </div>
         </div>
@@ -42,20 +75,20 @@
         </div>
     </div>
 
-{{--    <div class="bg-white pb-5">--}}
-{{--        <div class="container">--}}
-{{--            <div class="d-flex justify-content-center">--}}
-{{--                <div class="text-center">--}}
-{{--                    <div class="my-4">--}}
-{{--                        <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">--}}
-{{--                    </div>--}}
-{{--                    <div class="btn btn-lg btn-nutcracker-red shadow">--}}
-{{--                        <a href="https://25664.recitalticketing.com/" target="_blank" class="text-uppercase text-decoration-none text-white fw-bold">Buy Tickets Now!</a>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
+    {{--    <div class="bg-white pb-5">--}}
+    {{--        <div class="container">--}}
+    {{--            <div class="d-flex justify-content-center">--}}
+    {{--                <div class="text-center">--}}
+    {{--                    <div class="my-4">--}}
+    {{--                        <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">--}}
+    {{--                    </div>--}}
+    {{--                    <div class="btn btn-lg btn-nutcracker-red shadow">--}}
+    {{--                        <a href="https://25664.recitalticketing.com/" target="_blank" class="text-uppercase text-decoration-none text-white fw-bold">Buy Tickets Now!</a>--}}
+    {{--                    </div>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--        </div>--}}
+    {{--    </div>--}}
 
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
@@ -139,9 +172,9 @@
             <div class="row">
                 <div class="col-sm d-flex align-items-center">
                     <div>
-{{--                        <div class="d-flex justify-content-center mb-0">--}}
-{{--                            logo goes here--}}
-{{--                        </div>--}}
+                        {{--                        <div class="d-flex justify-content-center mb-0">--}}
+                        {{--                            logo goes here--}}
+                        {{--                        </div>--}}
                         <p class="text-center mt-0" id="featured-program">Featured Program</p>
                         <h1 class="text-center mt-0 mb-3">Class Assistant Service Team</h1>
                         <p class="mb-5">

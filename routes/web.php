@@ -65,6 +65,10 @@ Route::get('/dress-code', function () {
     return view('/dress-code');
 });
 
+//Route::get('/sou-welcome', function () {
+//    return view('/sou-welcome');
+//});
+
 
 Auth::routes();
 

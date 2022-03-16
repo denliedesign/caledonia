@@ -565,9 +565,20 @@ body {
     position: relative;
 }
 
+#sou-primary-bg {
+    height: 70vh;
+    width: 100%;
+    background: url("/images/sou-temp/sou-bg-2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    position: relative;
+}
+
 .color-filter-pink {
     position: absolute;
     background: #d94da6;
+    /*background: #25CAD2;*/
     opacity: 60%;
     height: 100%;
     width: 100%;
@@ -875,4 +886,10 @@ body {
 
 .btn-nutcracker-red:hover {
     background: #c1d62e;
+}
+
+#statement {
+    font-size: 1em;
+    color: #c1d62e;
+    text-decoration: underline;
 }
