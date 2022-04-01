@@ -15,7 +15,7 @@
             <ol>
                 <li><strong>FACILITY –</strong> State-of-the-art facility with premium quality sound systems and hardwood & "floating" professional floors, video monitor system to observe classes, soundproof music studios.</li>
                 <li><strong>CUSTOMER SERVICE –</strong> Friendly desk staff available during all class times to provide assistance.</li>
-                <li><strong>HASSLE-FREE RECITALS –</strong> No performance fees, free recital DVD, two complimentary recital tickets and beautifully designed yearbook-style programs.  We fit and alter costumes so you don't have to.  Organized, fast, and fun dress rehearsals.  Family-friendly shows that aren't too long.  </li>
+{{--                <li><strong>HASSLE-FREE RECITALS –</strong> No performance fees, free recital DVD, two complimentary recital tickets and beautifully designed yearbook-style programs.  We fit and alter costumes so you don't have to.  Organized, fast, and fun dress rehearsals.  Family-friendly shows that aren't too long.  </li>--}}
                 <li><strong>QUALITY INSTRUCTION -</strong> Professional dance and music education by worthy role models in a fun and caring atmosphere.  Limited class sizes give every child the attention needed to thrive and grow as a dancer and musician.</li>
                 <li><strong>SERVING MANY COMMUNITIES -</strong> Students commute from Caledonia, Alto, Middleville, Ada, Grand Rapids, Wyoming, Byron Center, Hastings, Kentwood, Wayland, Dorr, Lowell, Shelbyville, and more.</li>
             </ol>
