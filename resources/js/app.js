@@ -1,10 +1,10 @@
 require('./bootstrap');
 import { gsap } from "gsap";
-// import {ScrollTrigger} from 'gsap/ScrollTrigger';
+import {ScrollTrigger} from 'gsap/ScrollTrigger';
 import { SplitText } from "gsap/SplitText.js";
 import { TextPlugin } from "gsap/TextPlugin.js";
 
-// gsap.registerPlugin(ScrollTrigger);
+gsap.registerPlugin(ScrollTrigger);
 gsap.registerPlugin(SplitText);
 gsap.registerPlugin(TextPlugin);
 
@@ -58,6 +58,17 @@ function animate(){
         .add(motivate())
 }
 
+function summerstick(){
+    gsap.to('#summer-stick', {ease: "power2.in", right: -400, scrollTrigger: {
+            trigger: '#next-steps',
+            start: 'top center',
+            scrub: true,
+        }});
+
+}
+
 window.addEventListener('load', function(){
     animate();
+    summerstick();
 })
+

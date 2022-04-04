@@ -21,9 +21,9 @@ Route::get('about-us', function () {
     return view('about-us');
 });
 
-//Route::get('class-schedule', function () {
-//    return view('class-schedule');
-//});
+Route::get('class-schedule', function () {
+    return view('class-schedule');
+});
 
 Route::get('birthday-parties', function () {
     return view('birthday-parties');

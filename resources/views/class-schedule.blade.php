@@ -20,21 +20,18 @@
         <div class="py-5" id="class-schedule">
             <h2 class="text-center">Summer Schedule</h2>
             <p class="lead text-center">
-                2021 Summer Dance Classes
+                2022 Summer Dance Classes
             </p>
             <div class="container">
                 <div class="row">
                     <div class="col-sm">
-                        <a href="/images/summer-2021.jpg" target="_blank">
-                            <img src="/images/summer-2021.jpg" alt="summer" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        <a href="/images/summer-2022.pdf" target="_blank">
+                            <img src="/images/summer-2022.jpg" alt="summer" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
                     <div class="col-sm">
-                        <a href="/images/summer-schedule-1.jpg" target="_blank">
-                            <img src="/images/summer-schedule-1.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
-                        </a>
-                        <a href="/images/summer-schedule-2.jpg" target="_blank">
-                            <img src="/images/summer-schedule-2.jpg" alt="summer schedule 2" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        <a href="/images/summer-2022.pdf" target="_blank">
+                            <img src="/images/summer-2022-2.jpg" alt="summer schedule 2" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
                 </div>

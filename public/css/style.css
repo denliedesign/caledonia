@@ -672,6 +672,8 @@ body {
 .btn-kapa-orange { background: #3d1951; color: white;}
 .btn-kapa-pink { background: #c1d62e; color: white;}
 .btn-kapa-green { background: #aaa4a5; color: white;}
+.btn-kapa-summer { background: #BB62B0; color:white; }
+.btn-kapa-summer:hover { background: #A13F95; color:white; }
 
 .underline-teal { border: 2px solid RGBA(28, 143, 145, 1); transition: 0.8s background ease; }
 .underline-orange { border: 2px solid RGBA(235, 151, 29, 1); transition: 0.8s background ease; }
@@ -892,4 +894,48 @@ body {
     font-size: 1em;
     color: #c1d62e;
     text-decoration: underline;
+}
+
+#summer-stick {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 350px;
+    width: 300px;
+    background: linear-gradient(to bottom right, #FFF34F, #F5AB0A);
+    color: #0ABCEA;
+    z-index: 6;
+}
+
+#summer-stick-mobile {
+    position: fixed;
+    bottom: 50%;
+    right: 0;
+    height: 75px;
+    width: 60px;
+    background: linear-gradient(to bottom right, #FFF34F, #F5AB0A);
+    color: #0ABCEA;
+    z-index: 6;
+    border-radius: 10px 0 0 10px;
+}
+
+#summer-texture {
+    background: url("/images/summer-texture.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 16%;
+}
+
+#summer-stick p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px !important;
+    font-weight: bold;
+    line-height: 1.1;
 }

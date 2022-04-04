@@ -1,6 +1,26 @@
 @extends('layouts.app')
 @section('content')
 
+    <div id="summer-stick-mobile" class="d-lg-none">
+        <div class="summer-sun d-flex align-items-center justify-content-center" style="height: 100%; width: 100%;">
+            <a href="/class-schedule">
+                <div class="d-flex align-items-center">
+                    <ion-icon name="flower-outline" style="color: #0ABCEA; font-size: 40px;"></ion-icon>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div id="summer-stick" class="d-flex align-items-center justify-content-center shadow d-none d-lg-flex">
+        <div style="position:relative; z-index: 6;">
+            <p class="text-center summer-available">SUMMER SCHEDULE NOW AVAILABLE</p>
+            <div class="d-flex justify-content-center">
+                <a href="/class-schedule" class="btn-opacity btn-dive"><div class="shadow btn btn-lg btn-kapa-summer btn-family">Dive In!</div></a>
+            </div>
+        </div>
+        <div id="summer-texture"></div>
+    </div>
+
     <div id="primary-bg">
         <div class="color-filter-pink"></div>
 {{--        <h2 id="primary-txt-mobile" class="d-md-none">take the first step to dance with us</h2>--}}

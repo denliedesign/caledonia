@@ -5,3 +5,4 @@ function AddTextName(c) {
 function AddTextSection(c) {
     document.getElementById('section').value += c;
 }
+
