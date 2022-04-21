@@ -26,7 +26,7 @@
                 <div class="row">
                     <div class="col-sm">
                         <a href="/images/summer-2022.pdf" target="_blank">
-                            <img src="/images/summer-2022.jpg" alt="summer" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            <img src="/images/summer-2022-1.jpg" alt="summer" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
                     <div class="col-sm">

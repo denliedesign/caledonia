@@ -66,6 +66,9 @@
                    <div class="d-flex justify-content-center pb-4">
                        <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
                    </div>
+           <div class="d-flex justify-content-center pb-4">
+               <img src="/images/nutcracker-audition-22.jpg" alt="nutcracker audition flyer" class="img-fluid">
+           </div>
        </div>
 
        <div class="mb-5 background-green py-3">
