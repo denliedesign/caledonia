@@ -22,7 +22,13 @@
                     </div>
                 </div>
 
-                <div class="text-center my-5">
+                <div class="text-center mt-5">
+                    <p style="font-size: 1.25em;">
+                        More info at the <a style="font-size: inherit;" href="https://sites.google.com/caledoniadanceandmusic.com/recitalinfo" target="_blank">CDMC Recital Hub</a>
+                    </p>
+                </div>
+
+                <div class="text-center mb-5">
                     <p style="font-size: 1.25em;">
                         Venue: Peter V. Delille Fine Arts Center at Caledonia High School
                         <br>Recital #1 June 13, 2022 | 7:00pm
