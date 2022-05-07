@@ -102,7 +102,7 @@
                             <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff/monique.jpg">
 
                             </div>
-                            <div class="bioaccordion"><p class="lead text-center my-1 p-0">Monique Joseph</p></div>
+                            <div class="bioaccordion"><p class="lead text-center my-1 p-0">Monique Rodriguez</p></div>
                             <p class="text-center py-0 my-0"><small>Director</small></p>
                             <div class="biopanel-open"><p></p></div>
                         </div>
