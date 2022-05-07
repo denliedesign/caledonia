@@ -61,9 +61,9 @@ Route::get('recital', function () {
     return view('recital');
 });
 
-//Route::get('fall', function () {
-//    return view('fall');
-//});
+Route::get('fall', function () {
+    return view('/class-schedule');
+});
 
 Route::get('/dress-code', function () {
     return view('/dress-code');
