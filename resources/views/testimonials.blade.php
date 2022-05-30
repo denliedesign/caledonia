@@ -11,12 +11,12 @@
                                 <p class="lead text-center mb-0">
                                     Ashley Baker
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold; font-size: 2.5em;">
-                                    <ion-icon name="star"></ion-icon>
-                                    <ion-icon name="star"></ion-icon>
-                                    <ion-icon name="star"></ion-icon>
-                                    <ion-icon name="star"></ion-icon>
-                                    <ion-icon name="star"></ion-icon>
+                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                    <ion-icon name="star" style="font-size: 2em;"></ion-icon>
+                                    <ion-icon name="star" style="font-size: 2em;"></ion-icon>
+                                    <ion-icon name="star" style="font-size: 2em;"></ion-icon>
+                                    <ion-icon name="star" style="font-size: 2em;"></ion-icon>
+                                    <ion-icon name="star" style="font-size: 2em;"></ion-icon>
                                 </div>
                                 <p>
                                     My daughter loves the teachers here. And they are super helpful
