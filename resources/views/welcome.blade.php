@@ -98,7 +98,7 @@
                     <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Acro</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/pg.jpg" alt="performing groups" class="img-fluid shadow rounded" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <img src="/images/performance-group-new.jpg" alt="performing groups" class="img-fluid shadow rounded" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
                     <a class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;" data-bs-toggle="modal" data-bs-target="#trymodal">Performance Groups</div></a>
                 </div>
                 <div class="col-sm mt-4">

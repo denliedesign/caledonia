@@ -35,7 +35,7 @@
                         <br>Recital #2 June 14, 2022 | 7:00pm
                         <br>Recital #3 June 15, 2022 | 7:00pm
                         <br>Recital #4 June 16, 2022 | 6:30pm
-                        <br>Tickets go on sale May 7
+                        <br>Music Recital June 21, 2022 | 6:30pm
                     </p>
                 </div>
 

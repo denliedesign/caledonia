@@ -6,10 +6,18 @@
                     <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
+                                <img src="/images/ashley.png" alt="ashley" class="img-fluid">
                                 <p class="lead text-center">
                                     Ashley Baker
                                 </p>
+                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                    <ion-icon name="star"></ion-icon>
+                                    <ion-icon name="star"></ion-icon>
+                                    <ion-icon name="star"></ion-icon>
+                                    <ion-icon name="star"></ion-icon>
+                                    <ion-icon name="star"></ion-icon>
+                                </div>
                                 <p>
                                     My daughter loves the teachers here. And they are super helpful
                                 </p>
