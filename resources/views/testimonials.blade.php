@@ -172,7 +172,9 @@
                     <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange text-center"></ion-icon>
+                                <div class="d-flex justify-content-center">
+                                    <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange text-center"></ion-icon>
+                                </div>
 {{--                                <img src="/images/french.png" alt="french" style="height: 50px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Jennifer French
@@ -191,7 +193,9 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange text-center"></ion-icon>
+                                <div class="d-flex justify-content-center">
+                                    <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange text-center"></ion-icon>
+                                </div>
 {{--                                <img src="/images/dallas.png" alt="dallas" style="height: 50px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Melanie Dallas
