@@ -11,7 +11,7 @@
                                 <p class="lead text-center mb-0">
                                     Ashley Baker
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold; font-size: 40px;">
+                                <div class="d-flex justify-content-center text-center" style="color: gold; font-size: 2.5em;">
                                     <ion-icon name="star"></ion-icon>
                                     <ion-icon name="star"></ion-icon>
                                     <ion-icon name="star"></ion-icon>
