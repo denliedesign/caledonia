@@ -13,7 +13,7 @@
                                 <p class="lead text-center mb-0">
                                     Ashley Baker
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -33,7 +33,7 @@
                                 <p class="lead text-center mb-0">
                                     Emily Caldwell
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -47,12 +47,14 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green text-center"></ion-icon>
+                                <div class="d-flex justify-content-center">
+                                    <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green text-center"></ion-icon>
+                                </div>
 {{--                                <img src="/images/wilson.png" alt="wilson" style="height: 50px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Gretchen Wilson
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -105,7 +107,7 @@
                                 <p class="lead text-center mb-0">
                                     Angela Russo
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -125,7 +127,7 @@
                                 <p class="lead text-center mb-0">
                                     Emily Beezhold
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -146,7 +148,7 @@
                                 <p class="lead text-center mb-0">
                                     Stephanie Pratt
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -175,7 +177,7 @@
                                 <p class="lead text-center mb-0">
                                     Jennifer French
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -194,7 +196,7 @@
                                 <p class="lead text-center mb-0">
                                     Melanie Dallas
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -208,12 +210,14 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green text-center"></ion-icon>
+                                <div class="d-flex justify-content-center">
+                                    <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green text-center"></ion-icon>
+                                </div>
 {{--                                <img src="/images/shear.png" alt="shear" style="height: 50px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Joanna Shear
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -242,7 +246,7 @@
                                 <p class="lead text-center mb-0">
                                     Ashley Nadeau
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -273,7 +277,7 @@
                                 <p class="lead text-center mb-0">
                                     Megan Adams
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -287,12 +291,14 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green text-center"></ion-icon>
+                                <div class="d-flex justify-content-center">
+                                    <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green text-center"></ion-icon>
+                                </div>
 {{--                                <img src="/images/kane.png" alt="kane" style="height: 50px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Patrick Kane
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
