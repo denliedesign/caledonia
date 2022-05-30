@@ -7,11 +7,11 @@
                         <div class="col-md m-4 p-4 shadow">
                             <div>
 {{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
-                                <img src="/images/ashley.png" alt="ashley" class="img-fluid">
-                                <p class="lead text-center">
+                                <img src="/images/ashley.png" alt="ashley" style="height: 35px; width: auto;">
+                                <p class="lead text-center mb-0">
                                     Ashley Baker
                                 </p>
-                                <div class="d-flex justify-content-center text-center" style="color: gold;">
+                                <div class="d-flex justify-content-center text-center" style="color: gold; font-size: 25px;">
                                     <ion-icon name="star"></ion-icon>
                                     <ion-icon name="star"></ion-icon>
                                     <ion-icon name="star"></ion-icon>
