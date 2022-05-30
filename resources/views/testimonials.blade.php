@@ -26,7 +26,7 @@
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <img src="/images/caldwell.png" alt="caldwell" style="height: 40px; width: auto;">
-                                <p class="lead text-center">
+                                <p class="lead text-center mb-0">
                                     Emily Caldwell
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -43,8 +43,9 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
-                                <p class="lead text-center">
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>--}}
+                                <img src="/images/wilson.png" alt="wilson" style="height: 40px; width: auto;">
+                                <p class="lead text-center mb-0">
                                     Gretchen Wilson
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -93,8 +94,9 @@
                     <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
-                                <p class="lead text-center">
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
+                                <img src="/images/russo.png" alt="russo" style="height: 40px; width: auto;">
+                                <p class="lead text-center mb-0">
                                     Angela Russo
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -112,7 +114,7 @@
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <img src="/images/beezhold.png" alt="beezhold" style="height: 40px; width: auto;">
-                                <p class="lead text-center">
+                                <p class="lead text-center mb-0">
                                     Emily Beezhold
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -129,8 +131,9 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
-                                <p class="lead text-center">
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>--}}
+                                <img src="/images/pratt.png" alt="pratt" style="height: 40px; width: auto;">
+                                <p class="lead text-center mb-0">
                                     Stephanie Pratt
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -157,8 +160,9 @@
                     <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
-                                <p class="lead text-center">
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
+                                <img src="/images/french.png" alt="french" style="height: 40px; width: auto;">
+                                <p class="lead text-center mb-0">
                                     Jennifer French
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -176,7 +180,7 @@
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <img src="/images/dallas.png" alt="dallas" style="height: 40px; width: auto;">
-                                <p class="lead text-center">
+                                <p class="lead text-center mb-0">
                                     Melanie Dallas
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -193,8 +197,9 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
-                                <p class="lead text-center">
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>--}}
+                                <img src="/images/shear.png" alt="shear" style="height: 40px; width: auto;">
+                                <p class="lead text-center mb-0">
                                     Joanna Shear
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -219,8 +224,9 @@
                     <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
-                                <p class="lead text-center">
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
+                                <img src="/images/nadeau.png" alt="nadeau" style="height: 40px; width: auto;">
+                                <p class="lead text-center mb-0">
                                     Ashley Nadeau
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -249,7 +255,7 @@
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <img src="/images/adams.png" alt="adams" style="height: 40px; width: auto;">
-                                <p class="lead text-center">
+                                <p class="lead text-center mb-0">
                                     Megan Adams
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
@@ -266,8 +272,9 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
-                                <p class="lead text-center">
+{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>--}}
+                                <img src="/images/kane.png" alt="kane" style="height: 40px; width: auto;">
+                                <p class="lead text-center mb-0">
                                     Patrick Kane
                                 </p>
                                 <div class="d-flex justify-content-center text-center" style="color: gold;">
