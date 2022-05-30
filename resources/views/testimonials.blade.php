@@ -43,8 +43,8 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>--}}
-                                <img src="/images/wilson.png" alt="wilson" style="height: 40px; width: auto;">
+                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
+{{--                                <img src="/images/wilson.png" alt="wilson" style="height: 40px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Gretchen Wilson
                                 </p>
@@ -160,8 +160,8 @@
                     <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
-                                <img src="/images/french.png" alt="french" style="height: 40px; width: auto;">
+                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
+{{--                                <img src="/images/french.png" alt="french" style="height: 40px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Jennifer French
                                 </p>
@@ -179,7 +179,8 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-                                <img src="/images/dallas.png" alt="dallas" style="height: 40px; width: auto;">
+                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>
+{{--                                <img src="/images/dallas.png" alt="dallas" style="height: 40px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Melanie Dallas
                                 </p>
@@ -197,8 +198,8 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>--}}
-                                <img src="/images/shear.png" alt="shear" style="height: 40px; width: auto;">
+                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
+{{--                                <img src="/images/shear.png" alt="shear" style="height: 40px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Joanna Shear
                                 </p>
@@ -272,8 +273,8 @@
                         </div>
                         <div class="col-md m-4 p-4 shadow">
                             <div>
-{{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>--}}
-                                <img src="/images/kane.png" alt="kane" style="height: 40px; width: auto;">
+                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green"></ion-icon>
+{{--                                <img src="/images/kane.png" alt="kane" style="height: 40px; width: auto;">--}}
                                 <p class="lead text-center mb-0">
                                     Patrick Kane
                                 </p>
