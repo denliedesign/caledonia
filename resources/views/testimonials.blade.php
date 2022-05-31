@@ -169,7 +169,7 @@
         <div class="carousel-item">
             <div id="testimonials" class="bg-kapa-orange py-5">
                 <div class="container">
-                    <div style="height: 420px;" class="row m-0 p-0 d-flex justify-content-center">
+                    <div style="height: 100vh;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <div class="d-flex justify-content-center">
