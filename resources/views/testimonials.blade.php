@@ -1,9 +1,9 @@
-<div id="testimonialSlider" class="carousel carousel-dark slide bg-kapa-orange" data-bs-ride="carousel" style="overflow-x: hidden; height: 675px;">
+<div id="testimonialSlider" class="carousel carousel-dark slide bg-kapa-orange" data-bs-ride="carousel" style="overflow-x: hidden; height: 700px;">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <div id="testimonials" class="bg-kapa-orange py-5">
                 <div class="container">
-                    <div style="height: 600px;" class="row m-0 p-0 d-flex justify-content-center">
+                    <div style="height: 575px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
 {{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
@@ -97,7 +97,7 @@
         <div class="carousel-item">
             <div id="testimonials" class="bg-kapa-orange py-5">
                 <div class="container">
-                    <div style="height: 600px;" class="row m-0 p-0 d-flex justify-content-center">
+                    <div style="height: 575px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
 {{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
@@ -169,7 +169,7 @@
         <div class="carousel-item">
             <div id="testimonials" class="bg-kapa-orange py-5">
                 <div class="container">
-                    <div style="height: 600px;" class="row m-0 p-0 d-flex justify-content-center">
+                    <div style="height: 575px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
                                 <div class="d-flex justify-content-center">
@@ -240,7 +240,7 @@
         <div class="carousel-item">
             <div id="testimonials" class="bg-kapa-orange py-5">
                 <div class="container">
-                    <div style="height: 600px;" class="row m-0 p-0 d-flex justify-content-center">
+                    <div style="height: 575px;" class="row m-0 p-0 d-flex justify-content-center">
                         <div class="col-md m-4 p-4 shadow">
                             <div>
 {{--                                <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-orange"></ion-icon>--}}
