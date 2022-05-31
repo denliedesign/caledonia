@@ -216,10 +216,10 @@
                             <div>
                                 <div class="d-flex justify-content-center">
 {{--                                    <ion-icon name="happy" style="font-size: 2.5em;" class="txt-kapa-green text-center"></ion-icon>--}}
-                                    <img src="/images/shear.png" alt="shear" style="height: 50px; width: auto;">
+                                    <img src="/images/garcia.png" alt="garcia" style="height: 50px; width: auto;">
                                 </div>
                                 <p class="lead text-center mb-0">
-                                    Joanna Shear
+                                    Brittany Barber Garcia
                                 </p>
                                 <div class="d-flex justify-content-center text-center mb-1" style="color: gold;">
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
@@ -229,7 +229,7 @@
                                     <ion-icon name="star" style="font-size: 1.5em;"></ion-icon>
                                 </div>
                                 <p>
-                                    My daughter adores her teacher and the office staff is very helpful and friendly. We've loved our experience so far.
+                                    We LOVE CDMC! I grew up dancing at here, and now as a parent, I'm so happy to have the opportunity to send my daughter there! She'll be starting her third year there this fall, and I have been so impressed with the professionalism of the teachers, dance curriculum, movement, fun, and confidence my daughter is gaining! The CDMC family is welcoming,, warm, fun, and energetic - exactly what you'd hope for from studio your studio owner and teachers! Plus, CDMC offers a variety of styles and levels, making it a great choice for anyone who wants to dance!
                                 </p>
                             </div>
                         </div>
