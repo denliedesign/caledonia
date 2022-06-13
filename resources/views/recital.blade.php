@@ -12,6 +12,9 @@
             <div class="d-flex justify-content-center">
                 <img src="/images/recital-logo.png" alt="recital logo" class="img-fluid" style="width: 400px; height: auto;">
             </div>
+            <div class="text-center my-3">
+                <a href="/images/recital-program-2022.pdf" target="_blank">Click here for Recital Program</a>
+            </div>
             <div class="container">
                 <div class="row mb-3">
                     <div class="col-sm">
