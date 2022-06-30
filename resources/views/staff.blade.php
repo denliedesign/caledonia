@@ -51,11 +51,35 @@
                         <div class="about-teacher-card my-4 mx-5">
                             <div class="d-flex justify-content-center">
 
+                                <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff-christina.jpg">
+
+                            </div>
+                            <div class="bioaccordion"><p class="lead text-center my-1 p-0">Christina White</p></div>
+                            <p class="text-center py-0 my-0"><small>Admin Team</small></p>
+                            <div class="biopanel-open"><p></p></div>
+                        </div>
+                    </div>
+                    <div class="teacher-col col-sm">
+                        <div class="about-teacher-card my-4 mx-5">
+                            <div class="d-flex justify-content-center">
+
                             <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff/heidi.jpg">
 
                             </div>
                             <div class="bioaccordion"><p class="lead text-center my-1 p-0">Heidi LaFranboise</p></div>
                             <p class="text-center py-0 my-0"><small>Dance Instructor</small></p>
+                            <div class="biopanel-open"><p></p></div>
+                        </div>
+                    </div>
+                    <div class="teacher-col col-sm">
+                        <div class="about-teacher-card my-4 mx-5">
+                            <div class="d-flex justify-content-center">
+
+                                <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff-jean.jpg">
+
+                            </div>
+                            <div class="bioaccordion"><p class="lead text-center my-1 p-0">Jean Maxa</p></div>
+                            <p class="text-center py-0 my-0"><small>Admin Team</small></p>
                             <div class="biopanel-open"><p></p></div>
                         </div>
                     </div>
@@ -83,15 +107,27 @@
                             <div class="biopanel-open"><p></p></div>
                         </div>
                     </div>
+{{--                    <div class="teacher-col col-sm">--}}
+{{--                        <div class="about-teacher-card my-4 mx-5">--}}
+{{--                            <div class="d-flex justify-content-center">--}}
+
+{{--                            <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff/mitch.jpg">--}}
+
+{{--                            </div>--}}
+{{--                            <div class="bioaccordion"><p class="lead text-center my-1 p-0">Mitch Joseph</p></div>--}}
+{{--                            <p class="text-center py-0 my-0"><small>Dance Instructor</small></p>--}}
+{{--                            <div class="biopanel-open"><p></p></div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                     <div class="teacher-col col-sm">
                         <div class="about-teacher-card my-4 mx-5">
                             <div class="d-flex justify-content-center">
 
-                            <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff/mitch.jpg">
+                                <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff-molly.jpg">
 
                             </div>
-                            <div class="bioaccordion"><p class="lead text-center my-1 p-0">Mitch Joseph</p></div>
-                            <p class="text-center py-0 my-0"><small>Dance Instructor</small></p>
+                            <div class="bioaccordion"><p class="lead text-center my-1 p-0">Molly Hisey</p></div>
+                            <p class="text-center py-0 my-0"><small>Admin Team</small></p>
                             <div class="biopanel-open"><p></p></div>
                         </div>
                     </div>
@@ -107,18 +143,18 @@
                             <div class="biopanel-open"><p></p></div>
                         </div>
                     </div>
-                    <div class="teacher-col col-sm">
-                        <div class="about-teacher-card my-4 mx-5">
-                            <div class="d-flex justify-content-center">
+{{--                    <div class="teacher-col col-sm">--}}
+{{--                        <div class="about-teacher-card my-4 mx-5">--}}
+{{--                            <div class="d-flex justify-content-center">--}}
 
-                            <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff/nalana.jpg">
+{{--                            <img class="img-fluid rounded" style="height: 306px; width: auto; object-fit: cover; object-position: 15% 0;" src="images/staff/nalana.jpg">--}}
 
-                            </div>
-                            <div class="bioaccordion"><p class="lead text-center my-1 p-0" style="font-size: 1.2em;">Nalana LaFramboise</p></div>
-                            <p class="text-center py-0 my-0"><small>Dance Instructor</small></p>
-                            <div class="biopanel-open"><p></p></div>
-                        </div>
-                    </div>
+{{--                            </div>--}}
+{{--                            <div class="bioaccordion"><p class="lead text-center my-1 p-0" style="font-size: 1.2em;">Nalana LaFramboise</p></div>--}}
+{{--                            <p class="text-center py-0 my-0"><small>Dance Instructor</small></p>--}}
+{{--                            <div class="biopanel-open"><p></p></div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                     <div class="teacher-col col-sm">
                         <div class="about-teacher-card my-4 mx-5">
                             <div class="d-flex justify-content-center">

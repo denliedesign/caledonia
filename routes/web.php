@@ -57,13 +57,13 @@ Route::get('staff', function () {
     return view('staff');
 });
 
-Route::get('recital', function () {
-    return view('recital');
-});
+//Route::get('recital', function () {
+//    return view('recital');
+//});
 
-Route::get('fall', function () {
-    return view('/class-schedule');
-});
+//Route::get('fall', function () {
+//    return view('/class-schedule');
+//});
 
 Route::get('/dress-code', function () {
     return view('/dress-code');
