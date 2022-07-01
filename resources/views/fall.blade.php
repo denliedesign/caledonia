@@ -20,7 +20,7 @@
         <div class="py-5" id="class-schedule">
             <h2 class="text-center text-uppercase">Classes</h2>
             <p class="lead text-center">
-                2021-2022
+                2022-2023
             </p>
             <div class="container">
 {{--                <div class="row">--}}
@@ -38,7 +38,7 @@
 {{--                        </a>--}}
 {{--                    </div>--}}
 {{--                </div>--}}
-                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2021-2022&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2022-2023&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
             </div>
         </div>
     </div>

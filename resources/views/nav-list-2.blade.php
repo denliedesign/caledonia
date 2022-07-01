@@ -9,7 +9,7 @@
         <a class="nav-link" href="/staff">Staff</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="https://app.jackrabbitclass.com/regv2.asp?id=383292" target="_blank">2022-2023</a>
+        <a class="nav-link" href="/fall">2022-2023</a>
     </li>
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="/fall">Classes</a>--}}
