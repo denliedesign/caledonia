@@ -38,6 +38,28 @@
 {{--                        </a>--}}
 {{--                    </div>--}}
 {{--                </div>--}}
+                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+                    <div class="col my-2">
+                        <a href="/images/fall-2022-2023.pdf" target="_blank">
+                            <img src="/images/fall-2-4.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        </a>
+                    </div>
+                    <div class="col my-2">
+                        <a href="/images/fall-2022-2023.pdf" target="_blank">
+                            <img src="/images/fall-k-1st.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        </a>
+                    </div>
+                    <div class="col my-2">
+                        <a href="/images/fall-2022-2023.pdf" target="_blank">
+                            <img src="/images/fall-2nd-3rd.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        </a>
+                    </div>
+                    <div class="col my-2">
+                        <a href="/images/fall-2022-2023.pdf" target="_blank">
+                            <img src="/images/fall-graded.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        </a>
+                    </div>
+                </div>
                 <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2022-2023&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
             </div>
         </div>
