@@ -25,13 +25,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm">
-                        <a href="/images/summer-2022b.pdf" target="_blank">
-                            <img src="/images/summer-2022b-1.jpg" alt="summer" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        <a href="/images/summer-22-final.pdf" target="_blank">
+                            <img src="/images/summer-22-a.jpg" alt="summer" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
                     <div class="col-sm">
-                        <a href="/images/summer-2022b.pdf" target="_blank">
-                            <img src="/images/summer-2022b-2.jpg" alt="summer schedule 2" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        <a href="/images/summer-22-final.pdf" target="_blank">
+                            <img src="/images/summer-22-b.jpg" alt="summer schedule 2" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
                 </div>
