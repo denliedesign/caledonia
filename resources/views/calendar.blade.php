@@ -108,9 +108,9 @@
                         <td>MLK Day - Open for Classes</td>
                     </tr>
                     <tr>
-                        <td class="text-right"><strong>Feb 28-March 3</strong></td>
+                        <td class="text-right"><strong>Feb 6-10</strong></td>
                         <td>&nbsp;|&nbsp;</td>
-                        <td>Inter-sessional Break #2 (tentative)</td>
+                        <td>Inter-Sessional Break #2</td>
                     </tr>
                     <tr>
                         <td class="text-right"><strong>Mar 23-29</strong></td>
