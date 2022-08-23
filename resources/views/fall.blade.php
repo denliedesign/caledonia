@@ -41,7 +41,7 @@
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                     <div class="col my-2">
                         <a href="/images/fall-2022-2023.pdf" target="_blank">
-                            <img src="/images/fall-2-4-b.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            <img src="/images/fall-2-4-c.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
                     <div class="col my-2">
