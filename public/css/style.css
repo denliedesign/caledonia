@@ -902,8 +902,10 @@ body {
     right: 0;
     height: 350px;
     width: 300px;
-    background: linear-gradient(to bottom right, #FFF34F, #F5AB0A);
-    color: #0ABCEA;
+    background: linear-gradient(to bottom right, #EB843F, #FFB86E);
+    /*background: linear-gradient(to bottom right, #FFF34F, #F5AB0A);*/
+    color: #773535;
+    /*color: #0ABCEA;*/
     z-index: 6;
 }
 
@@ -920,7 +922,7 @@ body {
 }
 
 #summer-texture {
-    background: url("/images/summer-texture.jpg");
+    background: url("/images/fall-texture.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;

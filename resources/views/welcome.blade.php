@@ -13,9 +13,11 @@
 
     <div id="summer-stick" class="d-flex align-items-center justify-content-center shadow d-none d-lg-flex">
         <div style="position:relative; z-index: 6;">
-            <p class="text-center summer-available">SUMMER SCHEDULE NOW AVAILABLE</p>
+            <p class="text-center summer-available">REGISTER FOR DANCE</p>
+{{--            <p class="text-center summer-available">SUMMER SCHEDULE NOW AVAILABLE</p>--}}
             <div class="d-flex justify-content-center">
-                <a href="/class-schedule" class="btn-opacity btn-dive"><div class="shadow btn btn-lg btn-kapa-summer btn-family">Dive In!</div></a>
+                <a href="/fall" class="btn-opacity btn-dive"><div class="shadow btn btn-lg btn-kapa-orange btn-family">Find Your Class!</div></a>
+{{--                <a href="/class-schedule" class="btn-opacity btn-dive"><div class="shadow btn btn-lg btn-kapa-summer btn-family">Dive In!</div></a>--}}
             </div>
         </div>
         <div id="summer-texture"></div>
