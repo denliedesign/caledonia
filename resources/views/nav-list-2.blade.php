@@ -26,7 +26,7 @@
         <a class="nav-link" href="/calendar">Calendar</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/dress-code">Attire</a>
+        <a class="nav-link" href="/dress-code">Uniform</a>
     </li>
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="/fall">Register</a>--}}

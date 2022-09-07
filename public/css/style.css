@@ -941,3 +941,13 @@ body {
     font-weight: bold;
     line-height: 1.1;
 }
+
+#uniform dt {
+    margin-left: 15px;
+    line-height: 1.75;
+}
+
+#uniform dd {
+    margin-left: 45px;
+    line-height: 1.5;
+}
