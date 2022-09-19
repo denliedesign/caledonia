@@ -25,6 +25,10 @@ Route::get('about-us', function () {
 //    return view('class-schedule');
 //});
 
+Route::get('dance-classes', function () {
+    return view('dance-classes');
+});
+
 Route::get('birthday-parties', function () {
     return view('birthday-parties');
 });
@@ -69,6 +73,13 @@ Route::get('/dress-code', function () {
     return view('/dress-code');
 });
 
+Route::get('/dance-byron-center', function () {
+    return view('/dance-byron-center');
+});
+Route::get('/dance-kentwood-mi', function () {
+    return view('/dance-kentwood-mi');
+});
+
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
 //});
@@ -84,3 +95,6 @@ Route::resource('texts', 'TextController');
 
 Route::get('contact', 'ContactUsController@create')->name('contact.create');
 Route::post('contact', 'ContactUsController@store')->name('contact.store');
+
+Route::get('refer', 'ReferController@create')->name('refer.create');
+Route::post('refer', 'ReferController@store')->name('refer.store');
