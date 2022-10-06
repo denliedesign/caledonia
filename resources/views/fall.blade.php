@@ -59,6 +59,10 @@
                             <img src="/images/fall-graded-b.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
+                    <div class="col my-2">
+                        <img src="/images/adult-dance-2022.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                    </div>
+                    <div class="col my-2"></div>
                 </div>
                 <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2022-2023&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
             </div>

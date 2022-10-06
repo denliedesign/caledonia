@@ -13,7 +13,7 @@
 
     <div id="summer-stick" class="d-flex align-items-center justify-content-center shadow d-none d-lg-flex">
         <div style="position:relative; z-index: 6;">
-            <p class="text-center summer-available">REGISTER FOR DANCE</p>
+            <p class="text-center summer-available pb-0">REGISTER FOR DANCE<br><small><span style="font-weight: normal;">classes for kids & adults</span></small></p>
 {{--            <p class="text-center summer-available">SUMMER SCHEDULE NOW AVAILABLE</p>--}}
             <div class="d-flex justify-content-center">
                 <a href="/fall" class="btn-opacity btn-dive"><div class="shadow btn btn-lg btn-kapa-orange btn-family">Find Your Class!</div></a>
