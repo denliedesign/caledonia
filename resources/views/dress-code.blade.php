@@ -29,6 +29,9 @@
                         @endif
                     @endforeach
                 </p>
+                    <p>
+                        <a href="https://forms.gle/E1zMNM6EqUUxJNK29" target="_blank">CDMC Online Merchandise Order Form</a>
+                    </p>
                 <div id="uniform">
                     <h4 class="text-center">Female Students</h4>
                     <div class="row">

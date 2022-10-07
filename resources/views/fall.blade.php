@@ -60,7 +60,7 @@
                         </a>
                     </div>
                     <div class="col my-2">
-                        <img src="/images/adult-dance-2022.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        <img src="/images/adult-dance-2022b.png" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                     </div>
                     <div class="col my-2"></div>
                 </div>
