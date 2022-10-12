@@ -25,8 +25,8 @@ Route::get('about-us', function () {
 //    return view('class-schedule');
 //});
 
-Route::get('dance-classes', function () {
-    return view('dance-classes');
+Route::get('refer-a-friend', function () {
+    return view('refer-a-friend');
 });
 
 Route::get('birthday-parties', function () {
