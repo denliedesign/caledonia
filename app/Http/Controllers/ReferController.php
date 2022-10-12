@@ -26,7 +26,7 @@ class ReferController extends Controller
 
         ]);
 
-        Mail::to('customdenlie@gmail.com')->send(new ReferMail($refer));
+        Mail::to('info@CaledoniaDanceAndMusic.com')->send(new ReferMail($refer));
 
         return redirect('/fall')->with('message', 'Thank You, We Will Be In Touch. Register For Specific Classes Below.');
 
