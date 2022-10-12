@@ -1,6 +1,6 @@
 <!-- Button trigger modal -->
-<button type="button" class="btn btn-danger" data-toggle="modal" data-target="#refermodal">
-    Register Now
+<button type="button" class="shadow btn btn-kapa-pink btn-family btn-lg" data-toggle="modal" data-target="#refermodal">
+    &#10097; Register Now!
 </button>
 
 <!-- Modal -->
