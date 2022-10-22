@@ -66,8 +66,15 @@
                    <div class="d-flex justify-content-center pb-4">
                        <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
                    </div>
+           <div class="my-4">
+               <h2 class="text-center">Nutcracker 2022</h2>
+               {{--           <p class="lead text-center">Tickets will go on sale November 12</p>--}}
+               <div class="d-flex justify-content-center">
+                   <a disabled="" class="btn-opacity btn-dive"><div class="shadow btn btn-lg btn-kapa-orange btn-family">Tickets Available to Purchase Nov 12.</div></a>
+               </div>
+           </div>
            <div class="d-flex justify-content-center pb-4">
-               <img src="/images/nutcracker-audition-22.jpg" alt="nutcracker audition flyer" class="img-fluid">
+               <img src="/images/nutcracker-2022.jpg" alt="nutcracker performance flyer" class="img-fluid">
            </div>
        </div>
 
@@ -88,15 +95,13 @@
            </div>
        </div>
 
-
-
-       <div class="container">
-           <h2 class="text-center">Nutcracker Auditions 2022</h2>
-           <p class="lead text-center">Auditions will be held on Saturday, October 1, 2022</p>
-           <div id="class-schedule">
-               <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
-           </div>
-       </div>
+{{--       <div class="container">--}}
+{{--           <h2 class="text-center">Nutcracker Auditions 2022</h2>--}}
+{{--           <p class="lead text-center">Auditions will be held on Saturday, October 1, 2022</p>--}}
+{{--           <div id="class-schedule">--}}
+{{--               <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>--}}
+{{--           </div>--}}
+{{--       </div>--}}
 
        <div style="height: 1px; background: white;"></div>
 
