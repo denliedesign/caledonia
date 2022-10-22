@@ -77,7 +77,7 @@
                                     <a class="text-decoration-none txt-blue" href="/storytime-with-a-twist">Storytime</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="/refer-a-friend">Refer a Friend</a>
+                                    <a class="text-decoration-none txt-blue" href="/introduce-a-friend">Introduce a Friend</a>
                                 </li>
                             </ul>
                         </div>
