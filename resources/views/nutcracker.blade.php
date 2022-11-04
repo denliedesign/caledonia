@@ -74,7 +74,7 @@
                </div>
            </div>
            <div class="d-flex justify-content-center pb-4">
-               <img src="/images/nutcracker-2022.jpg" alt="nutcracker performance flyer" class="img-fluid">
+               <img src="/images/nutcracker-2022b.jpg" alt="nutcracker performance flyer" class="img-fluid">
            </div>
        </div>
 
