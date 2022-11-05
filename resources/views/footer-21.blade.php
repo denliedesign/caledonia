@@ -138,5 +138,7 @@
     &nbsp; <small class="text-muted">/</small> &nbsp;
     <a class="text-decoration-none" href="/dance-kentwood-mi"><small class="text-muted">Dance Kentwood MI</small></a>
     &nbsp; <small class="text-muted">/</small> &nbsp;
+    <a class="text-decoration-none" href="/dance-studios-hastings-mi"><small class="text-muted">Dance Hastings MI</small></a>
+    &nbsp; <small class="text-muted">/</small> &nbsp;
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
 </p>

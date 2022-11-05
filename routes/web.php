@@ -79,6 +79,9 @@ Route::get('/dance-byron-center', function () {
 Route::get('/dance-kentwood-mi', function () {
     return view('/dance-kentwood-mi');
 });
+Route::get('/dance-studios-hastings-mi', function () {
+    return view('/dance-studios-hastings-mi');
+});
 
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
