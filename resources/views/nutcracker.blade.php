@@ -70,7 +70,7 @@
                <h2 class="text-center">Nutcracker 2022</h2>
                {{--           <p class="lead text-center">Tickets will go on sale November 12</p>--}}
                <div class="d-flex justify-content-center">
-                   <a disabled="" class="btn-opacity btn-dive"><div class="shadow btn btn-lg btn-kapa-orange btn-family">Tickets Available to Purchase Nov 12.</div></a>
+                   <a href="https://25664.recitalticketing.com/r/events/" target="_blank" class="btn-opacity btn-dive"><div class="shadow btn btn-lg btn-kapa-orange btn-family">Order Tickets Now</div></a>
                </div>
            </div>
            <div class="d-flex justify-content-center pb-4">
