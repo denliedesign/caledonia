@@ -8,6 +8,11 @@
 
         <div class="container py-5" id="camp-schedule">
             <h2 class="text-center">Mini Camps</h2>
+            <div class="d-flex justify-content-center py-4">
+                <a href="/images/mini-camps-23.pdf" target="_blank">
+                    <img src="/images/mini-camps-23.jpg" alt="mini camp pics" class="img-fluid">
+                </a>
+            </div>
             <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&cat1=Camps&sort=Class"></script>
             <script>
                 const elements = document.querySelectorAll("[data-title='Openings']");
