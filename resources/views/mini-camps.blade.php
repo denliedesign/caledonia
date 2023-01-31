@@ -8,7 +8,16 @@
 
         <div class="container py-5" id="camp-schedule">
             <h2 class="text-center">Mini Camps</h2>
-            <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&cat1=Camps"></script>
+            <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&cat1=Camps&sort=Class"></script>
+            <script>
+                const elements = document.querySelectorAll("[data-title='Openings']");
+                for (const element of elements) {
+                    element.style.display = "none";
+                }
+
+
+
+            </script>
         </div>
 
 

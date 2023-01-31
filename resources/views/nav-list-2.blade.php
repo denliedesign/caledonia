@@ -11,6 +11,9 @@
     <li class="nav-item mx-2">
         <a class="nav-link" href="/fall">2022-2023</a>
     </li>
+    <li class="nav-item mx-2">
+        <a class="nav-link" href="/mini-camps">Mini-Camps</a>
+    </li>
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="/fall">Classes</a>--}}
 {{--    </li>--}}

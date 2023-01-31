@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+//Route::get('/', function () {
+//    return view('welcome-lava');
+//});
 Route::get('/', function () {
     return view('welcome');
 });
@@ -84,6 +87,9 @@ Route::get('/dance-studios-hastings-mi', function () {
 });
 Route::get('/dance-wayland-mi', function () {
     return view('/dance-wayland-mi');
+});
+Route::get('/dance-lessons-kentwood-mi', function () {
+    return view('/dance-lessons-kentwood-mi');
 });
 
 //Route::get('/sou-welcome', function () {
