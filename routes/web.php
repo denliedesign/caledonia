@@ -91,6 +91,12 @@ Route::get('/dance-wayland-mi', function () {
 Route::get('/dance-lessons-kentwood-mi', function () {
     return view('/dance-lessons-kentwood-mi');
 });
+Route::get('/dance-hastings-mi', function () {
+    return view('/dance-hastings-mi');
+});
+Route::get('/dance-classes-wayland-mi', function () {
+    return view('/dance-classes-wayland-mi');
+});
 
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
