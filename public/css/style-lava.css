@@ -3,6 +3,20 @@
 /*}*/
 
 /************************************************************/
+
+.background-green {
+    background: #c1d62e;
+}
+
+.number-green {
+    background: #c1d62e;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 20px;
+}
+
 /****************COLOR GUIDE********************************/
 
 /*
@@ -313,6 +327,10 @@ body {
 .font-staat { font-family: 'Staatliches', cursive; }
 .font-syne { font-family: 'Inter', sans-serif; }
 .font-dm { font-family: 'DM Serif Display', serif; }
+
+.font-staat-side { font-family: 'Staatliches', cursive; font-size: 3em; }
+.font-syne-side { font-family: 'Inter', sans-serif; font-size: 22px; }
+.lead-side { font-family: 'Inter', sans-serif; font-size: 1.75em; font-weight: bold; }
 
 #section-badge {
     background: url("/images-lava/happy-dancer.png");

@@ -13,15 +13,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//Route::get('/', function () {
-//    return view('welcome-lava');
-//});
 Route::get('/', function () {
+    return view('welcome-lava');
+});
+Route::get('welcome', function () {
     return view('welcome');
+});
+Route::get('2020-welcome', function () {
+    return view('2020-welcome');
 });
 
 Route::get('about-us', function () {
-    return view('about-us');
+    return view('about-us-lava');
 });
 
 //Route::get('class-schedule', function () {
@@ -37,23 +40,23 @@ Route::get('birthday-parties', function () {
 });
 
 Route::get('mini-camps', function () {
-    return view('mini-camps');
+    return view('mini-camps-lava');
 });
 
 Route::get('storytime-with-a-twist', function () {
-    return view('storytime-with-a-twist');
+    return view('storytime-with-a-twist-lava');
 });
 
 Route::get('nutcracker', function () {
-    return view('nutcracker');
+    return view('nutcracker-lava');
 });
 
 Route::get('music-lessons', function () {
-    return view('music-lessons');
+    return view('music-lessons-lava');
 });
 
 Route::get('calendar', function () {
-    return view('calendar');
+    return view('calendar-lava');
 });
 
 Route::get('info', function () {
@@ -61,7 +64,7 @@ Route::get('info', function () {
 });
 
 Route::get('staff', function () {
-    return view('staff');
+    return view('staff-lava');
 });
 
 //Route::get('recital', function () {
@@ -69,11 +72,11 @@ Route::get('staff', function () {
 //});
 
 Route::get('/fall', function () {
-    return view('/fall');
+    return view('/fall-lava');
 });
 
 Route::get('/dress-code', function () {
-    return view('/dress-code');
+    return view('/dress-code-lava');
 });
 
 Route::get('/dance-byron-center', function () {

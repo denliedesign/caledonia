@@ -13,7 +13,7 @@
 
 
        <div class="container">
-           <h2 class="text-center">Nutcracker Auditions 2023</h2>
+           <h2 class="text-center font-staat-side">Nutcracker Auditions 2023</h2>
 {{--           <p class="lead text-center">Auditions will be held on Saturday, October 1, 2022</p>--}}
            <div id="class-schedule">
                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
@@ -24,7 +24,7 @@
 <!-- GALLERY -->
 <!-- /////////////////////////// -->
 
-<div class="background-green py-3">
+<div class="bg-red py-3">
     <div class="container">
         <div class="">
             <div class="row p-0 m-0 d-flex justify-content-center align-items-center">

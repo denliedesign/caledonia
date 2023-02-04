@@ -29,7 +29,7 @@
             </p>
         </div>
         <img src="/images/fold-lava.jpg" alt="" class="img-fluid" style="z-index: 0;">
-        <div class="color-filter-pink"></div>
+{{--        <div class="color-filter-pink"></div>--}}
     </div>
 
     {{--<div class="bg-red py-5">--}}
@@ -281,11 +281,11 @@
 
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container">
-            <h2 class="fw-bold text-center" style="font-size: 2.75em;">25 Years of Serving the Coulee Region</h2>
+            <h2 class="fw-bold text-center" style="font-size: 2.75em;">20+ Years of Serving Our Community</h2>
             <div class="row" style="font-size: 1.5em;">
-                <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="home"></ion-icon><br>2</span><br> convenient locations in Holmen & Onalaska</p></div>
+                <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="color-filter"></ion-icon><br>3</span><br> Activities - Dance, Music, Acro</p></div>
                 <div class="d-md-none"><hr></div>
-                <div class="col-sm text-center d-flex align-items-center justify-content-center"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="school"></ion-icon><br>31</span><br>YPAD Certified Teachers</p></div>
+                <div class="col-sm text-center d-flex align-items-center justify-content-center"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="school"></ion-icon><br>10</span><br>YPAD Certified Teachers</p></div>
                 <div class="d-md-none"><hr></div>
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-left: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="calendar"></ion-icon><br>100+</span><br> classes per week to choose from</p></div>
             </div>
@@ -300,9 +300,10 @@
 
     <div class="py-5">
         <div class="container">
-            <h2 class="fw-bold text-center" style="font-size: 2.75em;">If you let me dance...</h2>
+            <h2 class="fw-bold text-center" style="font-size: 2.75em;">Get To Know Us!</h2>
             <div class="d-flex justify-content-center">
-                <video poster="/images-lava/if-you-let-me-dance-poster.png" src="/images-lava/if-you-let-me-dance.mp4" type="video/mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
+                <iframe style="max-width: 950px; width: 100%; height: auto;" src="https://www.youtube.com/embed/rsZq1Y5v5LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{--                <video poster="/images-lava/if-you-let-me-dance-poster.png" src="/images-lava/if-you-let-me-dance.mp4" type="video/mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>--}}
             </div>
         </div>
     </div>
@@ -317,15 +318,47 @@
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <x-program image="acro-2.JPG" slug="acro" group="Acro" />
-                <x-program image="performance-group-new.png" slug="performance-groups" group="Performance Groups" />
-                <x-program image="nutcracker.jpeg" slug="nutcracker" group="Nutcracker" />
+                <div class="col-sm" style="position: relative;">
+                    <img src="/images/performance-group-new.png" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <div class="triangle-and-text" data-bs-toggle="modal" data-bs-target="#trymodal">
+                        <div id="triangle-bottomleft"></div>
+                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Performance Groups</div>
+                    </div>
+                </div>
+                <div class="col-sm" style="position: relative;">
+                    <img src="/images/nutcracker.jpeg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a class="triangle-and-text" href="/nutcracker">
+                        <div id="triangle-bottomleft"></div>
+                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Nutcracker</div>
+                    </a>
+                </div>
 {{--                <x-program image="" slug="" group="" />--}}
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm d-flex align-items-center justify-content-center font-staat text-white" style="font-size: 100px; transform: rotate(-90deg);">music</div>
-                <x-program image="piano.jpg" slug="music-lessons" group="Piano" />
-                <x-program image="guitar.jpg" slug="music-lessons" group="Guitar" />
-                <x-program image="voice.jpg" slug="music-lessons" group="Voice" />
+
+                <div class="col-sm" style="position: relative;">
+                    <img src="/images/piano.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a class="triangle-and-text" href="/music-lessons">
+                        <div id="triangle-bottomleft"></div>
+                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Piano</div>
+                    </a>
+                </div>
+                <div class="col-sm" style="position: relative;">
+                    <img src="/images/guitar.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a class="triangle-and-text" href="/music-lessons">
+                        <div id="triangle-bottomleft"></div>
+                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guitar</div>
+                    </a>
+                </div>
+                <div class="col-sm" style="position: relative;">
+                    <img src="/images/voice.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <a class="triangle-and-text" href="/music-lessons">
+                        <div id="triangle-bottomleft"></div>
+                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Voice</div>
+                    </a>
+                </div>
+
             </div>
         </div>
         <div class="custom-shape-divider-bottom-1648524823" style="transform: translateY(1px);">
@@ -343,11 +376,51 @@
                 <div class="my-3"><x-program image="early-elementary.JPG" slug="elementary" group="Early Elementary" /></div>
                 <div class="my-3"><x-program image="graded-levels.JPG" slug="graded" group="Graded Levels" /></div>
                 <div class="my-3"><x-program image="acro-2.JPG" slug="acro" group="Acro" /></div>
-                <div class="my-3"><x-program image="performance-group-new.png" slug="performance-groups" group="Performance Groups" /></div>
-                <div class="my-3"><x-program image="nutcracker.jpeg" slug="nutcracker" group="Nutcracker" /></div>
-                <div class="my-3"><x-program image="piano.jpg" slug="music-lessons" group="Piano" /></div>
-                <div class="my-3"><x-program image="guitar.jpg" slug="music-lessons" group="Guitar" /></div>
-                <div class="my-3"><x-program image="voice.jpg" slug="music-lessons" group="Voice" /></div>
+                <div class="my-3">
+                    <div class="col-sm" style="position: relative;">
+                        <img src="/images/performance-group-new.png" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                        <div class="triangle-and-text" data-bs-toggle="modal" data-bs-target="#trymodal">
+                            <div id="triangle-bottomleft"></div>
+                            <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Performance Groups</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="my-3">
+                    <div class="col-sm" style="position: relative;">
+                        <img src="/images/nutcracker.jpeg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                        <a class="triangle-and-text" href="/nutcracker">
+                            <div id="triangle-bottomleft"></div>
+                            <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Nutcracker</div>
+                        </a>
+                    </div>
+                </div>
+                <div class="my-3">
+                    <div class="col-sm" style="position: relative;">
+                        <img src="/images/piano.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                        <a class="triangle-and-text" href="/music-lessons">
+                            <div id="triangle-bottomleft"></div>
+                            <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Piano</div>
+                        </a>
+                    </div>
+                </div>
+                <div class="my-3">
+                    <div class="col-sm" style="position: relative;">
+                        <img src="/images/guitar.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                        <a class="triangle-and-text" href="/music-lessons">
+                            <div id="triangle-bottomleft"></div>
+                            <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guitar</div>
+                        </a>
+                    </div>
+                </div>
+                <div class="my-3">
+                    <div class="col-sm" style="position: relative;">
+                        <img src="/images/voice.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                        <a class="triangle-and-text" href="/music-lessons">
+                            <div id="triangle-bottomleft"></div>
+                            <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Voice</div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="custom-shape-divider-bottom-1648524823" style="transform: translateY(1px);">
@@ -559,7 +632,7 @@
             </div>
             <div>
                 <p class="text-center txt-crimson" style="font-size: 1.75em;">
-                    At Misty's Dance Unlimited, we don't teach kids to make great dancers.<br>We teach dance to make great kids! - <em>Misty Lown</em>
+                    We don't teach kids to make great dancers.<br>We teach dance to make great kids! - <em>Misty Lown</em>
                 </p>
             </div>
         </div>
@@ -591,28 +664,33 @@
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"
+                            <a href="/fall"
                                class="">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
                         </div>
                     </div>
                     <div class="col-sm">
-                        {{--                        <div class="next-step mx-1 shadow py-5">--}}
-                        {{--                            <p class="txt-blue">Want To Give It A Try?</p>--}}
-                        {{--                            <div>--}}
-                        {{--                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"--}}
-                        {{--                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!--}}
-                        {{--                                </button>--}}
-                        {{--                            </div>--}}
-                        {{--                        </div>--}}
+{{--                        <div class="next-step mt-3 mt-md-0 shadow">--}}
+{{--                            <p class="txt-kapa-pink">Need Dance Wear?</p>--}}
+{{--                            <button type="button" class="shadow btn btn-opacity btn-lg btn-kapa-pink btn-family" data-bs-toggle="modal" data-bs-target="#fittingmodal">&#10097; Schedule A Fitting!</button>--}}
+{{--                        </div>--}}
+
+                                                <div class="next-step mx-1 shadow py-5">
+                                                    <p class="txt-blue">Need Dance Wear?</p>
+                                                    <div>
+                                                        <button type="button" class="shadow btn btn-lg btn-blue btn-family"
+                                                                data-bs-toggle="modal" data-bs-target="#fittingmodal">&#10097; Schedule A Fitting!
+                                                        </button>
+                                                    </div>
+                                                </div>
                     </div>
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
-                            <p class="txt-pink">Still Have Questions?</p>
-                            <a href="#footer" class="">
-                                <div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div>
-                            </a>
+                            <p class="txt-pink">Have Questions?</p>
+                            <div>
+                                <div class="shadow btn btn-lg btn-pink btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Contact Us!</div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -634,28 +712,28 @@
                     <div class="col-sm my-3">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"
+                            <a href="/fall"
                                class="">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
                         </div>
                     </div>
                     <div class="col-sm my-3">
-                        {{--                        <div class="next-step mx-1 shadow py-5">--}}
-                        {{--                            <p class="txt-blue">Want To Give It A Try?</p>--}}
-                        {{--                            <div>--}}
-                        {{--                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"--}}
-                        {{--                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!--}}
-                        {{--                                </button>--}}
-                        {{--                            </div>--}}
-                        {{--                        </div>--}}
+                        <div class="next-step mx-1 shadow py-5">
+                            <p class="txt-blue">Need Dance Wear?</p>
+                            <div>
+                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"
+                                        data-bs-toggle="modal" data-bs-target="#fittingmodal">&#10097; Schedule A Fitting!
+                                </button>
+                            </div>
+                        </div>
                     </div>
                     <div class="col-sm my-3">
                         <div class="next-step mx-1 shadow py-5">
-                            <p class="txt-pink">Still Have Questions?</p>
-                            <a href="#footer" class="">
-                                <div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div>
-                            </a>
+                            <p class="txt-pink">Have Questions?</p>
+                            <div>
+                                <div class="shadow btn btn-lg btn-pink btn-family" data-bs-toggle="modal" data-bs-target="#trymodal">&#10097; Contact Us!</div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -668,45 +746,45 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-6">
                 <div class="col d-flex align-items-center justify-content-center text-center px-2" id="main-review-stars">
                     <div>
-                        <p style="font-size: 1.5em;" class="fw-bold mb-0">OUTSTANDING 4.9/5</p>
+                        <p style="font-size: 1.5em;" class="fw-bold mb-0">OUTSTANDING 5/5</p>
                         <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                        <p style="color: seashell;"><small>based on <strong>54</strong> reviews</small></p>
+                        <p style="color: seashell;"><small>based on <strong>25</strong> reviews</small></p>
                     </div>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>They teach dance, but stress the importance of being a kind, hard working individual.</strong></small></p>
-                    <p class="mb-0"><small>They care about each student as a person, not just a dancer.</small></p>
+                    <p class="mb-0"><small><strong>Our three year old loves coming to ballet lessons!</strong></small></p>
+                    <p class="mb-0"><small>Very nice teachers/staff!</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Heather Storbeck</small></p>
+                    <p style="color:seashell;"><small>Ashley Nadeau</small></p>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>We love that this studio values character and modesty, along with excellence in dance.</strong></small></p>
-                    <p class="mb-0"><small>The teachers have encouraged and nurtured our girls in their love of dance.</small></p>
+                    <p class="mb-0"><small><strong>We have been here 6 years now and we have loved every minute of it.</strong></small></p>
+                    <p class="mb-0"><small>They keep parents in the loop and the kids are cared for and taken care of very well.</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Shari Peterson</small></p>
+                    <p style="color:seashell;"><small>Megan Adams</small></p>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>My daughter loves the relationships she has built with other kids her age.</strong></small></p>
-                    <p class="mb-0"><small>She looks forward to dance each night and had become a stronger more confident dancer</small></p>
+                    <p class="mb-0"><small><strong>My daughter loves the teachers here.</strong></small></p>
+                    <p class="mb-0"><small>And they are super helpful</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Natasha Remis</small></p>
+                    <p style="color:seashell;"><small>Ashley Baker</small></p>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>Very clean and nice dance studio.</strong></small></p>
-                    <p class="mb-0"><small>Our granddaughter is 22 months old and we got to watch her dance so it was awesome!</small></p>
+                    <p class="mb-0"><small><strong>Wonderful place with lots of classes to chose from and amazing instructors.</strong></small></p>
+                    <p class="mb-0"><small>They are so organized and know how to put on a show from the Nutcracker to Recital.</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Randy Schroeder</small></p>
+                    <p style="color:seashell;"><small>Gretchen Wilson</small></p>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>Our young woman is nurtured and challenged as a dancer, a student, a leader and a friend</strong></small></p>
-                    <p class="mb-0"><small>A place in addition to their home and school that children are safe, cared for, and are able to grow</small></p>
+                    <p class="mb-0"><small><strong>Great teachers and staff members! CDMC makes u feel like family.</strong></small></p>
+                    <p class="mb-0"><small>My daughter has been dancing for the last 4 years at CDMC and loves ever minute it.</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Janet Holter</small></p>
+                    <p style="color:seashell;"><small>Melanie Dallas</small></p>
                 </div>
             </div>
         </div>
@@ -718,23 +796,8 @@
         </div>
     </div>
 
-    <div class="container my-5 py-5" id="brand">
-        <h2 class="text-center fw-bold" style="font-size: 2.75em;">Proudly partnering with these outstanding organizations</h2>
-        <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.reedmusicstudios.com" target="_blank"><img src="/images-lava/partner1.jpeg" alt="logo"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.viterbo.edu" target="_blank"><img src="/images-lava/partner4.png" alt="logo"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://morethanjustgreatdancing.com" target="_blank"><img src="/images-lava/partner2.png" alt="logo"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.lacrossesymphony.org" target="_blank"><img src="/images-lava/partner3.png" alt="logo"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.chancetodancefoundation.org" target="_blank"><img src="/images-lava/logo-a-chance-to-dance.png" alt="logo"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.couleeparenting.com" target="_blank"><img src="/images-lava/logo-coulee-parenting.jpg" alt="logo"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.webercenterarts.org" target="_blank"><img src="/images-lava/logo-weber-center.png" alt="logo" style="filter: invert(100%);"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.balletlacrosse.com" target="_blank"><img src="/images-lava/logo-blc-2.jpg" alt="logo"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.thewillowandgrace.com" target="_blank"><img src="/images-lava/logo-willow-and-grace.png" alt="logo"></a></div></div>
-        </div>
-    </div>
-
-    <section id="guarantee">
-        <div class="bg-red text-white py-5">
+    <div class="container my-5 py-5" id="guarantee">
+        <div>
             <div class="d-flex justify-content-center">
                 <img src="/images-lava/gauranteed-logo-crop.png" alt="" class="img-fluid">
             </div>
@@ -742,9 +805,35 @@
             <p class="text-center txt-crimson" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>
             <div class="d-flex justify-content-center">
                 <a href="/fall"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Find Your Class</div></a>
-                <a href="mailto:mistysdance@gmail.com?subject=Schedule A Call"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Schedule A Call</div></a>
+                <a href="mailto:info@CaledoniaDanceAndMusic.com?subject=Schedule A Call"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Schedule A Call</div></a>
             </div>
         </div>
-    </section>
+{{--        <h2 class="text-center fw-bold" style="font-size: 2.75em;">Proudly partnering with these outstanding organizations</h2>--}}
+{{--        <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.reedmusicstudios.com" target="_blank"><img src="/images-lava/partner1.jpeg" alt="logo"></a></div></div>--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.viterbo.edu" target="_blank"><img src="/images-lava/partner4.png" alt="logo"></a></div></div>--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://morethanjustgreatdancing.com" target="_blank"><img src="/images-lava/partner2.png" alt="logo"></a></div></div>--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.lacrossesymphony.org" target="_blank"><img src="/images-lava/partner3.png" alt="logo"></a></div></div>--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.chancetodancefoundation.org" target="_blank"><img src="/images-lava/logo-a-chance-to-dance.png" alt="logo"></a></div></div>--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.couleeparenting.com" target="_blank"><img src="/images-lava/logo-coulee-parenting.jpg" alt="logo"></a></div></div>--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.webercenterarts.org" target="_blank"><img src="/images-lava/logo-weber-center.png" alt="logo" style="filter: invert(100%);"></a></div></div>--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.balletlacrosse.com" target="_blank"><img src="/images-lava/logo-blc-2.jpg" alt="logo"></a></div></div>--}}
+{{--            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.thewillowandgrace.com" target="_blank"><img src="/images-lava/logo-willow-and-grace.png" alt="logo"></a></div></div>--}}
+{{--        </div>--}}
+    </div>
+
+{{--    <section id="guarantee">--}}
+{{--        <div class="bg-red text-white py-5">--}}
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <img src="/images-lava/gauranteed-logo-crop.png" alt="" class="img-fluid">--}}
+{{--            </div>--}}
+{{--            <h2 class="fw-bold text-center text-white" style="font-size: 2.75em;">Our Guarantee</h2>--}}
+{{--            <p class="text-center txt-crimson" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>--}}
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <a href="/fall"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Find Your Class</div></a>--}}
+{{--                <a href="mailto:mistysdance@gmail.com?subject=Schedule A Call"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Schedule A Call</div></a>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
 
 @endsection
