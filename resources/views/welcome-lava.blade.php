@@ -302,7 +302,7 @@
         <div class="container">
             <h2 class="fw-bold text-center" style="font-size: 2.75em;">Get To Know Us!</h2>
             <div class="d-flex justify-content-center">
-                <iframe style="max-width: 950px; width: 100%; height: auto;" src="https://www.youtube.com/embed/rsZq1Y5v5LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe style="max-width: 950px; width: 100%; max-height: 535px; height: 100%;" src="https://www.youtube.com/embed/rsZq1Y5v5LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {{--                <video poster="/images-lava/if-you-let-me-dance-poster.png" src="/images-lava/if-you-let-me-dance.mp4" type="video/mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>--}}
             </div>
         </div>
