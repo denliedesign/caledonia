@@ -114,7 +114,8 @@
         <a class="text-decoration-none" href="/dance-hastings-mi"><small class="text-muted">Dance Hastings MI</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/dance-classes-wayland-mi"><small class="text-muted">Dance Classes Wayland MI</small></a>
-        {{--    &nbsp; <small class="text-muted">/</small> &nbsp;--}}
+            &nbsp; <small class="text-muted">/</small> &nbsp;
+        <a class="text-decoration-none" href="/dance-classes-grand-rapids-mi"><small class="text-muted">Dance Classes Grand Rapids MI</small></a>
         <br><a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
     </p>
     <div id="bottom"></div>
