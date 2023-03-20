@@ -44,6 +44,9 @@
                     <div class="col my-2"></div>
                 </div>
                 <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2022-2023&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
+                <div>
+                    <p class="text-center py-0 my-0">Dance Classes Caledonia MI, Dance Classes Grand Rapids, Dance Classes Hastings MI, Dance Classes Wayland MI, Dance Classes Kentwood MI, Dance Classes Byron Center</p>
+                </div>
             </div>
         </div>
     </div>

@@ -282,6 +282,7 @@
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container">
             <h2 class="fw-bold text-center" style="font-size: 2.75em;">20+ Years of Serving Our Community</h2>
+            <p class="py-0 my-0 text-center">Located in Caledonia, providing dance classes for Kentwood, Hastings, Wayland, & Byon Center.</p>
             <div class="row" style="font-size: 1.5em;">
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="color-filter"></ion-icon><br>3</span><br> Activities - Dance, Music, Acro</p></div>
                 <div class="d-md-none"><hr></div>
@@ -538,6 +539,7 @@
                 <div class="col-sm d-flex justify-content-center align-items-center">
                     <div class="text-center">
                         <div class="fw-bold" style="font-size: 2em;">FIND JOY IN MOVING</div>
+                        <p class="text-center py-0 my-0">Dance Caledonia MI, Dance Hastings MI, Dance Kentwood MI, Dance Wayland MI, Dance Byron Center, Dance Grand Rapids</p>
                         {{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>--}}
                     </div>
                 </div>

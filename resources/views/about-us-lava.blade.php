@@ -183,6 +183,10 @@
                     <br><br>
                     The answer: Yes! There are five main things that make a huge difference in the quality of instruction your child receives, the amount of extra work and hassles parents face, and the overall enjoyment and satisfaction of being involved in a music or dance program.
                 </p>
+                <hr class="my-4">
+                <p class="font-syne-side">
+                    If you're looking for dance studios in Grand Rapids, dance studios in Hastings MI, dance studios in Wayland MI, dance studios in Kentwood MI, or dance studios in Byron Center, then CDMC is the place for you! We are located in Caledonia MI but welcome dancers from all surrounding areas.
+                </p>
             </div>
         </div>
 
