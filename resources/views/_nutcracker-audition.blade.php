@@ -5,9 +5,9 @@
 {{--    <div class="my-4">--}}
 {{--        <h2 class="text-center">Nutcracker 2023</h2>--}}
 {{--    </div>--}}
-{{--    <div class="d-flex justify-content-center pb-4">--}}
-{{--        <img src="/images/nutcracker-2022b.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
-{{--    </div>--}}
+    <div class="d-flex justify-content-center pb-4">
+        <img src="/images/nut-aud-23.jpg" alt="nutcracker performance flyer" class="img-fluid">
+    </div>
 </div>
 
 
