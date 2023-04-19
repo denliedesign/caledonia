@@ -2,6 +2,57 @@
 /*    font-family: 'Nunito', sans-serif !important;*/
 /*}*/
 
+
+#summer-stick {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 350px;
+    width: 300px;
+    /*background: linear-gradient(to bottom right, #EB843F, #FFB86E);*/
+    /*background: linear-gradient(to bottom right, #FFF34F, #F5AB0A);*/
+    background: linear-gradient(to bottom right, #0ABCEA, #0D9DE3);
+    /*color: #773535;*/
+    /*color: #0ABCEA;*/
+    color: white;
+    z-index: 6;
+}
+
+#summer-stick-mobile {
+    position: fixed;
+    bottom: 50%;
+    right: 0;
+    height: 75px;
+    width: 60px;
+    /*background: linear-gradient(to bottom right, #FFF34F, #F5AB0A);*/
+    background: linear-gradient(to bottom right, #0ABCEA, #0D9DE3);
+    /*color: #0ABCEA;*/
+    color: white;
+    z-index: 6;
+    border-radius: 10px 0 0 10px;
+}
+
+#summer-texture {
+    background: url("/images/summer-texture.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 16%;
+}
+
+#summer-stick p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px !important;
+    font-weight: bold;
+    line-height: 1.1;
+}
+
 /************************************************************/
 
 .background-green {
