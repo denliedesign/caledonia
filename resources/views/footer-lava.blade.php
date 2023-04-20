@@ -55,7 +55,7 @@
                             <div class="col-sm">
                                 <ul class="list-group" id="footer-list">
                                     <li class="list-group-item px-0 border-0">
-                                        <a class="text-decoration-none txt-blue" href="/mini-camps">Mini Camps</a>
+                                        <a class="text-decoration-none txt-blue" href="/fall">Summer</a>
                                     </li>
                                     <li class="list-group-item px-0 border-0">
                                         <a class="text-decoration-none txt-blue" href="/storytime-with-a-twist">Storytime</a>
