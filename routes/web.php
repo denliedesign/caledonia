@@ -106,6 +106,9 @@ Route::get('/dance-classes-wayland-mi', function () {
 Route::get('/dance-classes-grand-rapids-mi', function () {
     return view('/dance-classes-grand-rapids-mi');
 });
+Route::get('/kentwood-dance', function () {
+    return view('/kentwood-dance');
+});
 
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
