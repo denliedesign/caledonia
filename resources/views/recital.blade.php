@@ -14,6 +14,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm">
+                    <div class="d-flex justify-content-center my-3">
+                        <a href="https://www.google.com/url?q=https%3A%2F%2F25664.recitalticketing.com%2Fr%2Fevents%2F&sa=D&sntz=1&usg=AOvVaw07qZoGhNi91FRosc3Pyr88" target="_blank" class="nav-link text-uppercase">
+                            <div class="btn btn-outline-danger btn-lg shadow">Order Recital Tickets HERE!</div>
+                        </a>
+                    </div>
+
                     <!-- ///////////////////////////////PASSWORD PROTECTION/////////////////////////// -->
                     <!-- ///////////////////////////////PASSWORD PROTECTION/////////////////////////// -->
                     <!-- ///////////////////////////////PASSWORD PROTECTION/////////////////////////// -->
