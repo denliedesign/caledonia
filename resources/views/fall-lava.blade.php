@@ -19,12 +19,12 @@
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                     <div class="col my-2">
-                        <a href="/images/summer-23-v3.pdf" target="_blank">
-                            <img src="/images/summer-23a-v3.png" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                        <a target="_blank">
+                            <img src="/images/summer-5-15-23.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
                     <div class="col my-2">
-                        <a href="/images/summer-23-v3.pdf" target="_blank">
+                        <a target="_blank">
                             <img src="/images/summer-23b-v3.png" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                         </a>
                     </div>
