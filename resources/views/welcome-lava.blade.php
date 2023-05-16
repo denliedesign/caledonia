@@ -334,6 +334,9 @@
 
     <div class="py-5">
         <div class="container">
+            <div class="d-flex justify-content-center">
+                <img src="/images/grandtastic-award-2023.jpg" alt="grandtastic award 2023" class="img-fluid" style="max-height: 375px; width: auto;">
+            </div>
             <h2 class="fw-bold text-center" style="font-size: 2.75em;">Get To Know Us!</h2>
             <div class="d-flex justify-content-center">
                 <iframe style="max-width: 950px; width: 100%; height: 535px;" src="https://www.youtube.com/embed/rsZq1Y5v5LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
