@@ -1,13 +1,13 @@
 @extends('layouts.app-lava')
 @section('content')
 
-    <div class="d-flex justify-content-center">
-        <ion-icon name="sparkles" style="font-size: 2em; color: #c1d62e;"></ion-icon>
-        <a href="https://forms.gle/Umt5wALZKgAqJqM39" target="_blank">
-            <h3 class="text-center my-3">2023-2024 Performance Group Audition Registration</h3>
-        </a>
-        <ion-icon name="sparkles" style="font-size: 2em; color: #c1d62e;"></ion-icon>
-    </div>
+{{--    <div class="d-flex justify-content-center">--}}
+{{--        <ion-icon name="sparkles" style="font-size: 2em; color: #c1d62e;"></ion-icon>--}}
+{{--        <a href="https://forms.gle/Umt5wALZKgAqJqM39" target="_blank">--}}
+{{--            <h3 class="text-center my-3">2023-2024 Performance Group Audition Registration</h3>--}}
+{{--        </a>--}}
+{{--        <ion-icon name="sparkles" style="font-size: 2em; color: #c1d62e;"></ion-icon>--}}
+{{--    </div>--}}
 
     <div id="summer-stick-mobile" class="d-lg-none">
         <div class="summer-sun d-flex align-items-center justify-content-center" style="height: 100%; width: 100%;">

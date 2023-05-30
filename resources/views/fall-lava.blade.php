@@ -20,12 +20,16 @@
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                     <div class="col my-2">
                         <a target="_blank">
-                            <img src="/images/summer-5-15-23.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            <a href="/images/summer-23-v4.pdf" target="_blank">
+                                <img src="/images/summer-23-v4-1.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            </a>
                         </a>
                     </div>
                     <div class="col my-2">
                         <a target="_blank">
-                            <img src="/images/summer-23b-v3.png" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            <a href="/images/summer-23-v4.pdf" target="_blank">
+                                <img src="/images/summer-23-v4-2.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            </a>
                         </a>
                     </div>
 {{--                    <div class="col my-2">--}}
