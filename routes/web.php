@@ -109,8 +109,8 @@ Route::get('/dance-classes-grand-rapids-mi', function () {
 Route::get('/kentwood-dance', function () {
     return view('/kentwood-dance');
 });
-Route::get('/employ', function () {
-    return view('/employ');
+Route::get('/dance-teacher-jobs-michigan', function () {
+    return view('/dance-teacher-jobs-michigan');
 });
 
 //Route::get('/sou-welcome', function () {
