@@ -1,4 +1,8 @@
 @extends('layouts.app-lava')
+
+@section('title', 'Dance Teacher Jobs Michigan | Caledonia Dance & Music Center')
+@section('description', "Looking for exciting dance teacher jobs or dance instructor positions in Michigan? Discover rewarding opportunities in the vibrant world of dance education. Join our team and inspire aspiring dancers with your expertise and passion. Apply now to be part of our dynamic dance community!")
+
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
@@ -15,31 +19,34 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                        <img src="/images/staff-cdmc.jpg" alt="alumni logo" class="img-fluid rounded shadow">
+                        <img src="/images/dance-teacher-jobs-michigan.jpg" alt="our dance teachers" class="img-fluid rounded shadow">
                     </div>
                 </div>
                 <div class="col-sm d-flex align-items-center justify-content-center">
                     <div>
-                        <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Employment</h3>
+                        <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Dance Teacher Jobs and Instructor Opportunities at CDMC</h3>
                         <div class="font-syne" style="font-size: 22px;">
-                            <p class="lead fw-bold">CDMC is growing!</p>
-                            <p class="fw-bold">Find employment opportunities with us</p>
-                            At Caledonia Dance & Music Center we are always looking for positive, enthusiastic, qualified instructors.
-                            <br><br>
-                            {{--                        Employment for teaching positions available include:--}}
-                            {{--                        <br>--}}
-                            {{--                        <ul class="job-list">--}}
-                            {{--                            <li>Preschool & Beginning Level Classes</li>--}}
-                            {{--                            <li>Intermediate & Advanced Classes</li>--}}
-                            {{--                            <li>Ballet, Pointe, Tap & Jazz Classes</li>--}}
-                            {{--                            <li>Contemporary, Modern & Hip Hop Classes</li>--}}
-                            {{--                            <li>Specialty Classes</li>--}}
-                            {{--                            <li>Boy’s Only Classes</li>--}}
-                            {{--                            <li>Group Fitness</li>--}}
-                            {{--                            <li>Ballroom and Latin</li>--}}
-                            {{--                        </ul>--}}
-                            {{--                        <br>--}}
-                            If you LOVE dance and working with children, please tell us a bit about yourself below!
+                            <p class="lead fw-bold">Join our Passionate Team of Dance Instructors in Michigan</p>
+                            <p>
+                                CDMC is experiencing rapid growth, and we're excited to offer rewarding dance teacher jobs and dance instructor positions in Michigan. At Caledonia Dance & Music Center, we prioritize positivity, enthusiasm, and qualifications in our instructors. If you have a genuine passion for dance and enjoy working with children, we invite you to share a bit about yourself below. Take the first step towards an exciting career in dance education with CDMC!
+                            </p>
+{{--                            <p class="fw-bold">Find employment opportunities with us</p>--}}
+{{--                            At Caledonia Dance & Music Center we are always looking for positive, enthusiastic, qualified instructors.--}}
+{{--                            <br><br>--}}
+{{--                            --}}{{--                        Employment for teaching positions available include:--}}
+{{--                            --}}{{--                        <br>--}}
+{{--                            --}}{{--                        <ul class="job-list">--}}
+{{--                            --}}{{--                            <li>Preschool & Beginning Level Classes</li>--}}
+{{--                            --}}{{--                            <li>Intermediate & Advanced Classes</li>--}}
+{{--                            --}}{{--                            <li>Ballet, Pointe, Tap & Jazz Classes</li>--}}
+{{--                            --}}{{--                            <li>Contemporary, Modern & Hip Hop Classes</li>--}}
+{{--                            --}}{{--                            <li>Specialty Classes</li>--}}
+{{--                            --}}{{--                            <li>Boy’s Only Classes</li>--}}
+{{--                            --}}{{--                            <li>Group Fitness</li>--}}
+{{--                            --}}{{--                            <li>Ballroom and Latin</li>--}}
+{{--                            --}}{{--                        </ul>--}}
+{{--                            --}}{{--                        <br>--}}
+{{--                            If you LOVE dance and working with children, please tell us a bit about yourself below!--}}
                         </div>
                     </div>
                 </div>
