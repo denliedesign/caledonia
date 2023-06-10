@@ -109,6 +109,9 @@ Route::get('/dance-classes-grand-rapids-mi', function () {
 Route::get('/kentwood-dance', function () {
     return view('/kentwood-dance');
 });
+Route::get('/employ', function () {
+    return view('/employ');
+});
 
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
@@ -128,3 +131,6 @@ Route::post('contact', 'ContactUsController@store')->name('contact.store');
 
 Route::get('refer', 'ReferController@create')->name('refer.create');
 Route::post('refer', 'ReferController@store')->name('refer.store');
+
+Route::get('employment', 'EmploymentController@create')->name('employment.create');
+Route::post('employment', 'EmploymentController@store')->name('employment.store');
