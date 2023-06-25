@@ -26,9 +26,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        view()->composer('*',function($view) {
-            $view->with('updates', Update::all());
-        });
+//        view()->composer('*',function($view) {
+//            $view->with('updates', Update::all());
+//        });
 
         view()->composer('*',function($view) {
             $view->with('posts', Post::orderByDesc('shown')->paginate(3));
