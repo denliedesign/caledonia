@@ -112,6 +112,9 @@ Route::get('/kentwood-dance', function () {
 Route::get('/dance-teacher-jobs-michigan', function () {
     return view('/dance-teacher-jobs-michigan');
 });
+Route::get('/summer', function () {
+    return view('/summer');
+});
 
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');

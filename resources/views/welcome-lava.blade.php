@@ -26,7 +26,7 @@
             </p>
             {{--            <p class="text-center summer-available">SUMMER SCHEDULE NOW AVAILABLE</p>--}}
             <div class="d-flex justify-content-center">
-                <a href="/fall" class="nav-link text-uppercase">
+                <a href="/summer" class="nav-link text-uppercase">
                     <div class="btn btn-danger shadow">Dive In!</div>
                 </a>
             </div>

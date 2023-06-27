@@ -14,21 +14,35 @@
         <div class="py-5" id="class-schedule">
             <h2 class="text-center text-uppercase font-staat-side">Classes</h2>
             <p class="lead-side text-center">
-                Summer 2023
+                Fall 2023-2024
             </p>
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                     <div class="col my-2">
                         <a target="_blank">
-                            <a href="/images/summer-23-v4.pdf" target="_blank">
-                                <img src="/images/summer-23-v4-1.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            <a href="/images/fall-23.pdf" target="_blank">
+                                <img src="/images/fall-23-1.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                             </a>
                         </a>
                     </div>
                     <div class="col my-2">
                         <a target="_blank">
-                            <a href="/images/summer-23-v4.pdf" target="_blank">
-                                <img src="/images/summer-23-v4-2.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            <a href="/images/fall-23.pdf" target="_blank">
+                                <img src="/images/fall-23-2.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            </a>
+                        </a>
+                    </div>
+                    <div class="col my-2">
+                        <a target="_blank">
+                            <a href="/images/fall-23.pdf" target="_blank">
+                                <img src="/images/fall-23-3.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                            </a>
+                        </a>
+                    </div>
+                    <div class="col my-2">
+                        <a target="_blank">
+                            <a href="/images/fall-23.pdf" target="_blank">
+                                <img src="/images/fall-23-4.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                             </a>
                         </a>
                     </div>
