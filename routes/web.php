@@ -115,7 +115,9 @@ Route::get('/dance-teacher-jobs-michigan', function () {
 Route::get('/summer', function () {
     return view('/summer');
 });
-
+Route::get('/dance-studios-kentwood-mi', function () {
+    return view('/dance-studios-kentwood-mi');
+});
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
 //});

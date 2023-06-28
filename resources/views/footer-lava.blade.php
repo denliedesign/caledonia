@@ -55,7 +55,7 @@
                             <div class="col-sm">
                                 <ul class="list-group" id="footer-list">
                                     <li class="list-group-item px-0 border-0">
-                                        <a class="text-decoration-none txt-blue" href="/fall">Summer</a>
+                                        <a class="text-decoration-none txt-blue" href="/summer">Summer</a>
                                     </li>
                                     <li class="list-group-item px-0 border-0">
                                         <a class="text-decoration-none txt-blue" href="/storytime-with-a-twist">Storytime</a>
@@ -118,7 +118,12 @@
         <a class="text-decoration-none" href="/dance-classes-grand-rapids-mi"><small class="text-muted">Dance Classes Grand Rapids MI</small></a>
             &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/kentwood-dance"><small class="text-muted">Kentwood Dance</small></a>
-        <br><a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
+        <br>
+        <a class="text-decoration-none" href="/dance-studios-kentwood-mi"><small class="text-muted">Dance Studios Kentwood</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp;
+        <a class="text-decoration-none" href="/dance-teacher-jobs-michigan"><small class="text-muted">Dance Teacher Jobs Michigan</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp;
+        <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
     </p>
     <div id="bottom"></div>
 </div>
