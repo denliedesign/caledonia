@@ -64,7 +64,7 @@
                 <div class="my-2">
                     <img src="/images/23-adult.jpg" alt="adult classes" class="img-fluid">
                 </div>
-                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Summer&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2023-2024&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
                 <div>
                     <p class="text-center py-0 my-0">Dance Classes Caledonia MI, Dance Classes Grand Rapids, Dance Classes Hastings MI, Dance Classes Wayland MI, Dance Classes Kentwood MI, Dance Classes Byron Center</p>
                 </div>
