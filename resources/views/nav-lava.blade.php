@@ -23,15 +23,15 @@
                     <a class="nav-link" href="/staff">Staff</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="/fall">2023</a>
+                    <a class="nav-link" href="/fall">2023-2024</a>
                 </li>
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/summer">Summer</a>
 {{--                    <a class="nav-link" href="/mini-camps">Mini-Camps</a>--}}
                 </li>
-                <li class="nav-item mx-2">
-                    <a class="nav-link" href="/recital">Recital</a>
-                </li>
+{{--                <li class="nav-item mx-2">--}}
+{{--                    <a class="nav-link" href="/recital">Recital</a>--}}
+{{--                </li>--}}
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/nutcracker">Nutcracker
                         {{--            <br><span class="text-muted" style="font-size: 0.65em;">TICKETS AVAILABLE</span>--}}

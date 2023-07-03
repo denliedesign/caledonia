@@ -67,12 +67,12 @@ Route::get('staff', function () {
     return view('staff-lava');
 });
 
-Route::get('recital', function () {
-    return view('recital');
-});
-Route::post('recital', function () {
-    return view('recital');
-});
+//Route::get('recital', function () {
+//    return view('recital');
+//});
+//Route::post('recital', function () {
+//    return view('recital');
+//});
 
 Route::get('/fall', function () {
     return view('/fall-lava');

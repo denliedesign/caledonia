@@ -19,32 +19,32 @@
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                     <div class="col my-2">
-                        <a target="_blank">
-                            <a href="/images/fall-23.pdf" target="_blank">
+{{--                        <a target="_blank">--}}
+{{--                            <a href="/images/fall-23.pdf" target="_blank">--}}
                                 <img src="/images/fall-23-1.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
-                            </a>
-                        </a>
+{{--                            </a>--}}
+{{--                        </a>--}}
                     </div>
                     <div class="col my-2">
-                        <a target="_blank">
-                            <a href="/images/fall-23.pdf" target="_blank">
+{{--                        <a target="_blank">--}}
+{{--                            <a href="/images/fall-23.pdf" target="_blank">--}}
                                 <img src="/images/fall-23-2.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
-                            </a>
-                        </a>
+{{--                            </a>--}}
+{{--                        </a>--}}
                     </div>
                     <div class="col my-2">
-                        <a target="_blank">
-                            <a href="/images/fall-23.pdf" target="_blank">
+{{--                        <a target="_blank">--}}
+{{--                            <a href="/images/fall-23.pdf" target="_blank">--}}
                                 <img src="/images/fall-23-3.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
-                            </a>
-                        </a>
+{{--                            </a>--}}
+{{--                        </a>--}}
                     </div>
                     <div class="col my-2">
-                        <a target="_blank">
-                            <a href="/images/fall-23.pdf" target="_blank">
+{{--                        <a target="_blank">--}}
+{{--                            <a href="/images/fall-23.pdf" target="_blank">--}}
                                 <img src="/images/fall-23-4.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
-                            </a>
-                        </a>
+{{--                            </a>--}}
+{{--                        </a>--}}
                     </div>
 {{--                    <div class="col my-2">--}}
 {{--                        <a href="/images/fall-2022-2023.pdf" target="_blank">--}}
