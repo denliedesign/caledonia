@@ -34,9 +34,9 @@
                         @endif
                     @endforeach
                 </p>
-                <p class="font-syne-side">
-                    <a href="https://forms.gle/E1zMNM6EqUUxJNK29" target="_blank">CDMC Online Merchandise Order Form</a>
-                </p>
+{{--                <p class="font-syne-side">--}}
+{{--                    <a href="https://forms.gle/E1zMNM6EqUUxJNK29" target="_blank">CDMC Online Merchandise Order Form</a>--}}
+{{--                </p>--}}
                 <div id="uniform">
                     <h4 class="text-center font-staat-side">Female Students</h4>
                     <div class="row font-syne-side">
