@@ -12,59 +12,22 @@
 
     <div class="bg-white">
         <div class="container py-5">
-            <h2 class="text-center mt-3 font-staat-side">2023 Calendar</h2>
+            <h2 class="text-center mt-3 font-staat-side">2023-2024 Calendar</h2>
             <div class="d-flex justify-content-center">
                 <table class="font-syne-side">
-                    <tr>
-                        <td class="text-right"><strong>Jan 16</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>MLK Day - Open for Classes</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>Feb 6-10</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Inter-Sessional Break #2</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>Mar 23-29</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Parent Observation Week</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>Apr 3-7</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Spring Break</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>Apr 21-23</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Recital Pictures Weekend</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>May 29</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Obsv. Memorial Day - Closed</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>June 5-8</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Dance Dress Rehearsals</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>June 12-15</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Dance Recitals</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>June 19</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Music Dress Rehearsal</td>
-                    </tr>
-                    <tr>
-                        <td class="text-right"><strong>June 20</strong></td>
-                        <td>&nbsp;|&nbsp;</td>
-                        <td>Music Recital</td>
-                    </tr>
+                    <x-calendar date="August 28-31" event="First Week of Classes for the 2023-24 Season"/>
+                    <x-calendar date="Sept 4" event="Obsv. Labor Day"/>
+                    <x-calendar date="Oct 16-19" event="Inter-sessional Break #1"/>
+                    <x-calendar date="Oct 31" event="Obsv. Halloween"/>
+                    <x-calendar date="Nov 21-24" event="Thanksgiving Break"/>
+                    <x-calendar date="Dec 7" event="Nutcracker Rehearsals - No Class"/>
+                    <x-calendar date="Dec 22-Jan 5" event="Christmas Break"/>
+                    <x-calendar date="Jan 15" event="MLK Day - Open for Classes"/>
+                    <x-calendar date="Feb 12-16" event="Inter-sessional Break #2"/>
+                    <x-calendar date="Mar 29-Apr 7" event="Spring Break"/>
+                    <x-calendar date="May 27" event="Obsv. Memorial Day"/>
+                    <x-calendar date="June 3-6" event="Dance Recital Dress Rehearsals"/>
+                    <x-calendar date="June 10-13" event="Dance Recitals"/>
                 </table>
             </div>
         </div>

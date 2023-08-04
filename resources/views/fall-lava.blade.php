@@ -42,7 +42,7 @@
                     <div class="col my-2">
 {{--                        <a target="_blank">--}}
 {{--                            <a href="/images/fall-23.pdf" target="_blank">--}}
-                                <img src="/images/fall-23-4.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                                <img src="/images/fall-23-4-b.jpg" alt="fall schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
 {{--                            </a>--}}
 {{--                        </a>--}}
                     </div>
