@@ -118,6 +118,9 @@ Route::get('/summer', function () {
 Route::get('/dance-studios-kentwood-mi', function () {
     return view('/dance-studios-kentwood-mi');
 });
+Route::get('/dance-studios-grand-rapids', function () {
+    return view('/dance-studios-grand-rapids');
+});
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
 //});

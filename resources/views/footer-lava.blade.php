@@ -118,8 +118,10 @@
         <a class="text-decoration-none" href="/dance-classes-grand-rapids-mi"><small class="text-muted">Dance Classes Grand Rapids MI</small></a>
             &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/kentwood-dance"><small class="text-muted">Kentwood Dance</small></a>
-        <br>
+        &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/dance-studios-kentwood-mi"><small class="text-muted">Dance Studios Kentwood</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp;
+        <a class="text-decoration-none" href="/dance-studios-grand-rapids"><small class="text-muted">Dance Studios Grand Rapids</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/dance-teacher-jobs-michigan"><small class="text-muted">Dance Teacher Jobs Michigan</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp;
