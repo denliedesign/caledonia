@@ -54,22 +54,22 @@
                         <div class="row">
                             <div class="col-sm">
                                 <ul class="list-group" id="footer-list">
-                                    <li class="list-group-item px-0 border-0">
-                                        <a class="text-decoration-none txt-blue" href="/summer">Summer</a>
-                                    </li>
+{{--                                    <li class="list-group-item px-0 border-0">--}}
+{{--                                        <a class="text-decoration-none txt-blue" href="/summer">Summer</a>--}}
+{{--                                    </li>--}}
                                     <li class="list-group-item px-0 border-0">
                                         <a class="text-decoration-none txt-blue" href="/storytime-with-a-twist">Storytime</a>
                                     </li>
                                     <li class="list-group-item px-0 border-0">
                                         <a class="text-decoration-none txt-blue" href="/introduce-a-friend">Introduce a Friend</a>
                                     </li>
+                                    <li class="list-group-item px-0 border-0">
+                                        <a class="text-decoration-none txt-blue" href="/music-lessons">Music Lessons</a>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="col-sm">
                                 <ul class="list-group" id="footer-list">
-                                    <li class="list-group-item px-0 border-0">
-                                        <a class="text-decoration-none txt-blue" href="/music-lessons">Music Lessons</a>
-                                    </li>
                                                                     <li class="list-group-item px-0 border-0">
                                                                         <a class="text-decoration-none txt-blue" href="/dance-teacher-jobs-michigan">Employment</a>
                                                                     </li>

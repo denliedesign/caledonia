@@ -9,30 +9,30 @@
 {{--        <ion-icon name="sparkles" style="font-size: 2em; color: #c1d62e;"></ion-icon>--}}
 {{--    </div>--}}
 
-    <div id="summer-stick-mobile" class="d-lg-none">
-        <div class="summer-sun d-flex align-items-center justify-content-center" style="height: 100%; width: 100%;">
-            <a href="/fall">
-                <div class="d-flex align-items-center">
-                    <ion-icon name="flower-outline" style="color: #0ABCEA; font-size: 40px;"></ion-icon>
-                </div>
-            </a>
-        </div>
-    </div>
+{{--    <div id="summer-stick-mobile" class="d-lg-none">--}}
+{{--        <div class="summer-sun d-flex align-items-center justify-content-center" style="height: 100%; width: 100%;">--}}
+{{--            <a href="/fall">--}}
+{{--                <div class="d-flex align-items-center">--}}
+{{--                    <ion-icon name="flower-outline" style="color: #0ABCEA; font-size: 40px;"></ion-icon>--}}
+{{--                </div>--}}
+{{--            </a>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
-    <div id="summer-stick" class="d-flex align-items-center justify-content-center shadow d-none d-lg-flex">
-        <div style="position:relative; z-index: 6;">
-            <p class="text-center summer-available pb-0">JOIN US THIS SUMMER
-                <br><small><span style="font-weight: normal;">music & dance classes for all ages</span></small>
-            </p>
-            {{--            <p class="text-center summer-available">SUMMER SCHEDULE NOW AVAILABLE</p>--}}
-            <div class="d-flex justify-content-center">
-                <a href="/summer" class="nav-link text-uppercase">
-                    <div class="btn btn-danger shadow">Dive In!</div>
-                </a>
-            </div>
-        </div>
-        <div id="summer-texture"></div>
-    </div>
+{{--    <div id="summer-stick" class="d-flex align-items-center justify-content-center shadow d-none d-lg-flex">--}}
+{{--        <div style="position:relative; z-index: 6;">--}}
+{{--            <p class="text-center summer-available pb-0">JOIN US THIS SUMMER--}}
+{{--                <br><small><span style="font-weight: normal;">music & dance classes for all ages</span></small>--}}
+{{--            </p>--}}
+{{--            --}}{{--            <p class="text-center summer-available">SUMMER SCHEDULE NOW AVAILABLE</p>--}}
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <a href="/summer" class="nav-link text-uppercase">--}}
+{{--                    <div class="btn btn-danger shadow">Dive In!</div>--}}
+{{--                </a>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div id="summer-texture"></div>--}}
+{{--    </div>--}}
 
     <div style="position: relative;" class="d-none d-lg-block">
         <div style="position:absolute; bottom: 40%; left: 50%; transform: translate(-50%, -50%); width: 100%; z-index: 3;">
