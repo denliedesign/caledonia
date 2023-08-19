@@ -15,25 +15,42 @@
         <div class="py-5" id="class-schedule">
             <h2 class="text-center font-staat-side">Uniform</h2>
             <div class="container">
-                @can('update', \App\Text::class)
-                    <div id="dress-text-a" style="border:2px solid orange;" class="my-3 py-1 rounded shadow font-syne-side">
-                        <span class="fw-bold mx-3">dress text section A</span>
-                        <!-- Button trigger modal -->
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#textModal"
-                                onClick="AddTextName('dress'); AddTextSection('A');">
-                            Create New
-                        </button>
-                        @include('/texts/form')
-                    </div>
-                @endcan
-                <p>
-                    @foreach($texts as $text)
-                        @if($text->name == 'dress' && $text->section == 'A')
-                            <div class="font-syne-side">{!! $text->content !!}</div>
-                            @include('/texts/admin')
-                        @endif
-                    @endforeach
-                </p>
+                <div class="font-syne-side">
+                    At CDMC, our students are our community!  They go beyond More Than Just Great Dancing!® to build confidence and quality character.  Class uniforms allow our students to not just align themselves with our CDMC culture, but also helps them grow.
+                    <br><br>
+                    General Uniform Rules
+                    <br><br>
+                    <ul>
+                        <li>Required dancewear and dance shoes must be worn to all classes.</li>
+                        <li>Hip Hop dancers are to also wear black joggers.</li>
+                        <li>Students are not permitted to wear jeans or shoes worn outdoors, to any dance class.</li>
+                        <li>For safety reasons, dancers are not permitted to wear jewelry.</li>
+                        <li>Hair must be tied back and secured to head.  Hair should be worn in a bun by girls in graded level ballet classes.</li>
+                        <li>Student cell phones are not permitted inside any classrooms during any class times.</li>
+
+                    </ul>
+                    All dancewear items and more are available at CDMC’s Dance Boutique.  Please call for an appointment for a personal fitting with our expert staff and studio tour.
+                    <br><br>
+                </div>
+{{--                @can('update', \App\Text::class)--}}
+{{--                    <div id="dress-text-a" style="border:2px solid orange;" class="my-3 py-1 rounded shadow font-syne-side">--}}
+{{--                        <span class="fw-bold mx-3">dress text section A</span>--}}
+{{--                        <!-- Button trigger modal -->--}}
+{{--                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#textModal"--}}
+{{--                                onClick="AddTextName('dress'); AddTextSection('A');">--}}
+{{--                            Create New--}}
+{{--                        </button>--}}
+{{--                        @include('/texts/form')--}}
+{{--                    </div>--}}
+{{--                @endcan--}}
+{{--                <p>--}}
+{{--                    @foreach($texts as $text)--}}
+{{--                        @if($text->name == 'dress' && $text->section == 'A')--}}
+{{--                            <div class="font-syne-side">{!! $text->content !!}</div>--}}
+{{--                            @include('/texts/admin')--}}
+{{--                        @endif--}}
+{{--                    @endforeach--}}
+{{--                </p>--}}
 {{--                <p class="font-syne-side">--}}
 {{--                    <a href="https://forms.gle/E1zMNM6EqUUxJNK29" target="_blank">CDMC Online Merchandise Order Form</a>--}}
 {{--                </p>--}}

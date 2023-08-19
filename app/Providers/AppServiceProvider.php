@@ -30,12 +30,12 @@ class AppServiceProvider extends ServiceProvider
 //            $view->with('updates', Update::all());
 //        });
 
-        view()->composer('*',function($view) {
-            $view->with('posts', Post::orderByDesc('shown')->paginate(3));
-        });
-
-        view()->composer('*',function($view) {
-            $view->with('texts', Text::all());
-        });
+//        view()->composer('*',function($view) {
+//            $view->with('posts', Post::orderByDesc('shown')->paginate(3));
+//        });
+//
+//        view()->composer('*',function($view) {
+//            $view->with('texts', Text::all());
+//        });
     }
 }
