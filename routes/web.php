@@ -115,6 +115,9 @@ Route::get('/dance-teacher-jobs-michigan', function () {
 Route::get('/dance-studios-byron-center', function () {
     return view('/dance-studios-byron-center');
 });
+Route::get('/dance-classes-hastings-mi', function () {
+    return view('/dance-classes-hastings-mi');
+});
 //Route::get('/summer', function () {
 //    return view('/summer');
 //});

@@ -109,6 +109,8 @@
         &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/dance-studios-hastings-mi"><small class="text-muted">Dance Studios Hastings MI</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp;
+        <a class="text-decoration-none" href="/dance-classes-hastings-mi"><small class="text-muted">Dance Classes Hastings MI</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/dance-wayland-mi"><small class="text-muted">Dance Wayland MI</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/dance-lessons-kentwood-mi"><small class="text-muted">Dance Lessons Kentwood MI</small></a>
