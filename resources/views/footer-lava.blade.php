@@ -103,6 +103,8 @@
     <p id="credit" class="bg-dark text-center pb-3 m-0">
         <a class="text-decoration-none" href="/dance-byron-center"><small class="text-muted">Dance Byron Center</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp;
+        <a class="text-decoration-none" href="/dance-studios-byron-center"><small class="text-muted">Dance Studios Byron Center</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/dance-kentwood-mi"><small class="text-muted">Dance Kentwood MI</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp;
         <a class="text-decoration-none" href="/dance-studios-hastings-mi"><small class="text-muted">Dance Studios Hastings MI</small></a>

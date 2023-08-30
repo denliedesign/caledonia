@@ -112,6 +112,9 @@ Route::get('/kentwood-dance', function () {
 Route::get('/dance-teacher-jobs-michigan', function () {
     return view('/dance-teacher-jobs-michigan');
 });
+Route::get('/dance-studios-byron-center', function () {
+    return view('/dance-studios-byron-center');
+});
 //Route::get('/summer', function () {
 //    return view('/summer');
 //});
