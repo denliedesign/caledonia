@@ -17,7 +17,7 @@
            <div class="d-flex justify-content-center pb-4">
                <img src="/images/nut-aud-23.jpg" alt="nutcracker performance flyer" class="img-fluid">
            </div>
-{{--           <p class="lead text-center">Auditions will be held on Saturday, October 1, 2022</p>--}}
+
            <div id="class-schedule">
                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
            </div>
@@ -47,3 +47,4 @@
 <!-- /////////////////////////// -->
 <!-- END GALLERY -->
 <!-- /////////////////////////// -->
+<?php /**PATH C:\Users\Dennis\caledonia\resources\views/_nutcracker-audition.blade.php ENDPATH**/ ?>
