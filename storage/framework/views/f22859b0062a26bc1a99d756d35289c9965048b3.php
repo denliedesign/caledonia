@@ -2,6 +2,7 @@
     <div class="d-flex justify-content-center py-4">
         <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
     </div>
+    <p class="text-center mt-3 mb-5" style="font-size: 1.5em;">CDMC Presents our 15th Annual Performance of The Nutcracker, the classic story of a young girl named Clara and a fascinating toy Nutcracker gifted to her by her enchanting godfather Dr. Drosselmeyer.  We invite you to experience the magic this holiday season.  Three performances of The Nutcracker will take place December 9th and 10th at Caledonia’s Duncan Lake Middle School Performing Arts Center.  Check back soon for tickets.</p>
     <div class="d-flex justify-content-center">
         <img src="/images/nutcracker-caledonia-2023.jpg" alt="nutcracker performance flyer" class="img-fluid">
     </div>

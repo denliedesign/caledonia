@@ -50,7 +50,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Aimee<br>Grinnell</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Team</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Admin Team & Dance Instructor</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -60,7 +60,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Alli<br>Tucker</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -70,7 +70,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Christina<br>Price</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Music Instructor</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Music Instructor</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -80,7 +80,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Christina<br>White</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Team</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Admin Team</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -90,7 +90,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Heidi<br>LaFranboise</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -100,7 +100,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Jean<br>Maxa</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Team</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Admin Team</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -110,7 +110,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Lindsey<br>Wilson</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -120,7 +120,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Melissa<br>Giegling</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Team</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Admin Team</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -130,7 +130,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Molly<br>Hisey</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Team</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Admin Team & Dance Instructor</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -140,7 +140,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Monique<br>Rodriguez</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Director</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Director</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -150,7 +150,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Olivia<br>Sharkey</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -160,7 +160,7 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Paige<br>Redner</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Team</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Admin Team & Dance Instructor</span><br>
                     </p>
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
@@ -170,7 +170,17 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Victoria<br>Sonza</div>
                     </div>
                     <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Team</span><br>
+                        <span class="txt-yellow" style="font-size: 1.1em;">Admin Team</span><br>
+                    </p>
+                </div>
+                <div class="col-sm mt-3 text-white" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miles.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Miles<br>Sonza</div>
+                    </div>
+                    <p class="font-syne">
+                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>
                     </p>
                 </div>
 
