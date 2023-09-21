@@ -698,3 +698,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.banner-nutcracker {
+    height: 100%;
+    background-image: url(/images/banner-nutcracker.jpg);
+    background-attachment: fixed;
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
