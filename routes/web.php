@@ -118,6 +118,9 @@ Route::get('/dance-studios-byron-center', function () {
 Route::get('/dance-classes-hastings-mi', function () {
     return view('/dance-classes-hastings-mi');
 });
+Route::get('/dance-grand-rapids', function () {
+    return view('/dance-grand-rapids');
+});
 //Route::get('/summer', function () {
 //    return view('/summer');
 //});
