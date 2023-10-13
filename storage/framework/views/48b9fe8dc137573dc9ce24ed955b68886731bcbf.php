@@ -48,7 +48,7 @@
                 </li>
                 <li class="nav-item mx-2">
                     <a href="/fall" class="nav-link text-uppercase">
-                        <div class="btn btn-danger shadow">Find Your Class</div>
+                        <div class="btn btn-danger shadow">Start Here!</div>
                     </a>
                 </li>
             </ul>
