@@ -130,6 +130,21 @@ Route::get('/dance-studios-kentwood-mi', function () {
 Route::get('/dance-studios-grand-rapids', function () {
     return view('/dance-studios-grand-rapids');
 });
+Route::get('/byron-center-dance', function () {
+    return view('/byron-center-dance');
+});
+Route::get('/grand-rapids-dance', function () {
+    return view('/grand-rapids-dance');
+});
+Route::get('/hastings-dance', function () {
+    return view('/hastings-dance');
+});
+Route::get('/kentwood-dance-studios', function () {
+    return view('/kentwood-dance-studios');
+});
+Route::get('/wayland-dance', function () {
+    return view('/wayland-dance');
+});
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
 //});

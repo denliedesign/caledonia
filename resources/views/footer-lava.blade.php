@@ -101,36 +101,12 @@
         © 2023 Caledonia Dance & Music Center
     </div>
     <p id="credit" class="bg-dark text-center pb-3 m-0">
-        <a class="text-decoration-none" href="/dance-byron-center"><small class="text-muted">Dance Byron Center</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-studios-byron-center"><small class="text-muted">Dance Studios Byron Center</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-kentwood-mi"><small class="text-muted">Dance Kentwood MI</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-studios-hastings-mi"><small class="text-muted">Dance Studios Hastings MI</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-classes-hastings-mi"><small class="text-muted">Dance Classes Hastings MI</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-wayland-mi"><small class="text-muted">Dance Wayland MI</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-lessons-kentwood-mi"><small class="text-muted">Dance Lessons Kentwood MI</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-hastings-mi"><small class="text-muted">Dance Hastings MI</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-classes-wayland-mi"><small class="text-muted">Dance Classes Wayland MI</small></a>
-            &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-classes-grand-rapids-mi"><small class="text-muted">Dance Classes Grand Rapids MI</small></a>
-            &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-grand-rapids"><small class="text-muted">Dance Grand Rapids</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/kentwood-dance"><small class="text-muted">Kentwood Dance</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-studios-kentwood-mi"><small class="text-muted">Dance Studios Kentwood</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-studios-grand-rapids"><small class="text-muted">Dance Studios Grand Rapids</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
-        <a class="text-decoration-none" href="/dance-teacher-jobs-michigan"><small class="text-muted">Dance Teacher Jobs Michigan</small></a>
-        &nbsp; <small class="text-muted">/</small> &nbsp;
+        <a class="text-decoration-none" href="/byron-center-dance"><small class="text-muted">Byron Center Dance</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/kentwood-dance-studios"><small class="text-muted">Kentwood Dance</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/hastings-dance"><small class="text-muted">Hastings Dance</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/wayland-dance"><small class="text-muted">Wayland Dance</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/grand-rapids-dance"><small class="text-muted">Grand Rapids Dance</small></a>
+        <br>&nbsp;
         <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
     </p>
     <div id="bottom"></div>

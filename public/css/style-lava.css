@@ -699,6 +699,15 @@ body {
     background-size: cover;
 }
 
+.banner-grand-rapids {
+    height: 100%;
+    background-image: url(/images/grand-rapids-dance.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .banner-nutcracker {
     height: 100%;
     background-image: url(/images/banner-nutcracker.jpg);
