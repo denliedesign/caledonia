@@ -1,5 +1,20 @@
 <?php $__env->startSection('content'); ?>
 
+    <div>
+        <div id="side-trial" class="offcanvas offcanvas-end show shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+            <div class="offcanvas-header">
+                <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <div class="d-flex justify-content-center">
+
+                    <a href="/nutcracker"><div class="mx-2 btn btn-outline-danger fw-bold shadow">Learn More</div></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
 
 
@@ -257,11 +272,11 @@
             <div class="row">
 
                 <?php if (isset($component)) { $__componentOriginal78ad3fb58fed6850d629b74373c4565d01ad67ff = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Testimonial::class, ['image' => 'caldwell','name' => 'Emily Caldwell','review' => 'My daughter loves CDMC! The teachers are great and the performances are amazing!'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Testimonial::resolve(['image' => 'caldwell','name' => 'Emily Caldwell','review' => 'My daughter loves CDMC! The teachers are great and the performances are amazing!'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('testimonial'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -273,11 +288,11 @@
 <?php endif; ?>
 
                 <?php if (isset($component)) { $__componentOriginal78ad3fb58fed6850d629b74373c4565d01ad67ff = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Testimonial::class, ['image' => 'russo','name' => 'Angela Russo','review' => 'Both my daughters (3 and 5 years old) attend CDMC and they look forward to going to class every week. All of the CDMC staff are kind, friendly, and knowledgeable. They help build confidence in the dancers and technique all while having fun.'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Testimonial::resolve(['image' => 'russo','name' => 'Angela Russo','review' => 'Both my daughters (3 and 5 years old) attend CDMC and they look forward to going to class every week. All of the CDMC staff are kind, friendly, and knowledgeable. They help build confidence in the dancers and technique all while having fun.'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('testimonial'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -288,11 +303,11 @@
 <?php unset($__componentOriginal78ad3fb58fed6850d629b74373c4565d01ad67ff); ?>
 <?php endif; ?>
                 <?php if (isset($component)) { $__componentOriginal78ad3fb58fed6850d629b74373c4565d01ad67ff = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Testimonial::class, ['image' => 'beezhold','name' => 'Emily Beezhold','review' => 'My daughter has been dancing here since she was four and every year she loves it more and grows in what she knows and her maturity level as well. Even though covid was a tough experience for everything CDMC worked their hardest to continue dance online and in person however they could so the kids continued to be able to learn.'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Testimonial::resolve(['image' => 'beezhold','name' => 'Emily Beezhold','review' => 'My daughter has been dancing here since she was four and every year she loves it more and grows in what she knows and her maturity level as well. Even though covid was a tough experience for everything CDMC worked their hardest to continue dance online and in person however they could so the kids continued to be able to learn.'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('testimonial'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -304,11 +319,11 @@
 <?php endif; ?>
 
                 <?php if (isset($component)) { $__componentOriginal78ad3fb58fed6850d629b74373c4565d01ad67ff = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Testimonial::class, ['image' => 'french','name' => 'Jennifer French','review' => 'LOVE this studio! High quality instruction and great teachers and staff! No better dance studio in this area!! We love CDMC!!'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Testimonial::resolve(['image' => 'french','name' => 'Jennifer French','review' => 'LOVE this studio! High quality instruction and great teachers and staff! No better dance studio in this area!! We love CDMC!!'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('testimonial'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -319,11 +334,11 @@
 <?php unset($__componentOriginal78ad3fb58fed6850d629b74373c4565d01ad67ff); ?>
 <?php endif; ?>
                 <?php if (isset($component)) { $__componentOriginal78ad3fb58fed6850d629b74373c4565d01ad67ff = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Testimonial::class, ['image' => 'kane','name' => 'Patrick Kane','review' => 'Very talented staff!'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Testimonial::resolve(['image' => 'kane','name' => 'Patrick Kane','review' => 'Very talented staff!'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('testimonial'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Testimonial::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -419,11 +434,11 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm d-flex align-items-center justify-content-center font-staat text-white" style="font-size: 100px; transform: rotate(-90deg);">dance</div>
                 <?php if (isset($component)) { $__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4 = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Program::class, ['image' => 'preschool.jpg','slug' => 'preschool','group' => 'Preschool'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Program::resolve(['image' => 'preschool.jpg','slug' => 'preschool','group' => 'Preschool'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('program'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -434,11 +449,11 @@
 <?php unset($__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4); ?>
 <?php endif; ?>
                 <?php if (isset($component)) { $__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4 = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Program::class, ['image' => 'early-elementary.JPG','slug' => 'elementary','group' => 'Early Elementary'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Program::resolve(['image' => 'early-elementary.JPG','slug' => 'elementary','group' => 'Early Elementary'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('program'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -449,11 +464,11 @@
 <?php unset($__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4); ?>
 <?php endif; ?>
                 <?php if (isset($component)) { $__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4 = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Program::class, ['image' => 'graded-levels.JPG','slug' => 'graded','group' => 'Graded Levels'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Program::resolve(['image' => 'graded-levels.JPG','slug' => 'graded','group' => 'Graded Levels'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('program'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -466,11 +481,11 @@
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <?php if (isset($component)) { $__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4 = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Program::class, ['image' => 'acro-2.JPG','slug' => 'acro','group' => 'Acro'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Program::resolve(['image' => 'acro-2.JPG','slug' => 'acro','group' => 'Acro'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('program'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -535,11 +550,11 @@
             <div class="col-sm font-staat text-white text-center" style="font-size: 100px;">dance & music</div>
             <div class="row">
                 <div class="my-3"><?php if (isset($component)) { $__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4 = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Program::class, ['image' => 'preschool.jpg','slug' => 'preschool','group' => 'Preschool'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Program::resolve(['image' => 'preschool.jpg','slug' => 'preschool','group' => 'Preschool'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('program'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -550,11 +565,11 @@
 <?php unset($__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4); ?>
 <?php endif; ?></div>
                 <div class="my-3"><?php if (isset($component)) { $__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4 = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Program::class, ['image' => 'early-elementary.JPG','slug' => 'elementary','group' => 'Early Elementary'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Program::resolve(['image' => 'early-elementary.JPG','slug' => 'elementary','group' => 'Early Elementary'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('program'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -565,11 +580,11 @@
 <?php unset($__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4); ?>
 <?php endif; ?></div>
                 <div class="my-3"><?php if (isset($component)) { $__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4 = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Program::class, ['image' => 'graded-levels.JPG','slug' => 'graded','group' => 'Graded Levels'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Program::resolve(['image' => 'graded-levels.JPG','slug' => 'graded','group' => 'Graded Levels'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('program'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>
@@ -580,11 +595,11 @@
 <?php unset($__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4); ?>
 <?php endif; ?></div>
                 <div class="my-3"><?php if (isset($component)) { $__componentOriginal6414b9c7bcf96fcdd2e6a22a1090a06303d910f4 = $component; } ?>
-<?php $component = $__env->getContainer()->make(App\View\Components\Program::class, ['image' => 'acro-2.JPG','slug' => 'acro','group' => 'Acro'] + (isset($attributes) ? (array) $attributes->getIterator() : [])); ?>
+<?php $component = App\View\Components\Program::resolve(['image' => 'acro-2.JPG','slug' => 'acro','group' => 'Acro'] + (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag ? (array) $attributes->getIterator() : [])); ?>
 <?php $component->withName('program'); ?>
 <?php if ($component->shouldRender()): ?>
 <?php $__env->startComponent($component->resolveView(), $component->data()); ?>
-<?php if (isset($attributes) && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
+<?php if (isset($attributes) && $attributes instanceof Illuminate\View\ComponentAttributeBag && $constructor = (new ReflectionClass(App\View\Components\Program::class))->getConstructor()): ?>
 <?php $attributes = $attributes->except(collect($constructor->getParameters())->map->getName()->all()); ?>
 <?php endif; ?>
 <?php $component->withAttributes([]); ?>

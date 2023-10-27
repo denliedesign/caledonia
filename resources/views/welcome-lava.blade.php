@@ -1,6 +1,21 @@
 @extends('layouts.app-lava')
 @section('content')
 
+    <div>
+        <div id="side-trial" class="offcanvas offcanvas-end show shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+            <div class="offcanvas-header">
+                <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <div class="d-flex justify-content-center">
+{{--                    <a href="https://25664.recitalticketing.com/landing.cfm?loc=4" target="_blank"><div class="mx-2 btn btn-danger fw-bold shadow">Buy Tickets Now</div></a>--}}
+                    <a href="/nutcracker"><div class="mx-2 btn btn-outline-danger fw-bold shadow">Learn More</div></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
 {{--    <div class="d-flex justify-content-center">--}}
 {{--        <ion-icon name="sparkles" style="font-size: 2em; color: #c1d62e;"></ion-icon>--}}
 {{--        <a href="https://forms.gle/Umt5wALZKgAqJqM39" target="_blank">--}}

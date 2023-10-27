@@ -2,6 +2,15 @@
 /*    font-family: 'Nunito', sans-serif !important;*/
 /*}*/
 
+#side-trial {
+    width: 365px;
+    height: 225px;
+    top: 30%;
+    border-radius: 5px 0 0 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
 
 #summer-stick {
     position: fixed;
