@@ -9,7 +9,7 @@
             </div>
             <div class="offcanvas-body">
                 <div class="d-flex justify-content-center">
-                    <a href="https://25664.recitalticketing.com/landing.cfm?loc=4" target="_blank"><div class="mx-2 btn btn-danger fw-bold shadow">Buy Tickets Now</div></a>
+                    <a href="https://25664.recitalticketing.com/landing.cfm?loc=4" target="_blank"><div class="mx-2 btn btn-danger fw-bold shadow">Get Tickets Now</div></a>
                     <a href="/nutcracker"><div class="mx-2 btn btn-outline-danger fw-bold shadow">Learn More</div></a>
                 </div>
             </div>
