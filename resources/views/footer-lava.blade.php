@@ -28,7 +28,7 @@
                         <p class="lead">SOCIAL</p>
                         <div class="d-flex d-inline">
                             <div class="d-inline">
-                                <a class="nav-link text-white p-0 mx-2" href="https://www.facebook.com/caledoniadanceandmusiccenter" target="_blank">
+                                <a class="nav-link text-white p-0 mx-2" href="https://www.facebook.com/caledoniadanceandmusic" target="_blank">
                                     <ion-icon name="logo-facebook"></ion-icon>
                                 </a>
                             </div>
