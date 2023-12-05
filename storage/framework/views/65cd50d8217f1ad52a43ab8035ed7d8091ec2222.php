@@ -28,7 +28,7 @@
                     </div>
                     <div class="col-sm">
                         <div class="d-flex justify-content-center">
-                            <img src="/images/christmas-shows-caledonia.png" alt="nutcracker dancers" class="img-fluid shadow rounded">
+                            <img src="/images/christmas-shows-caledonia.jpg" alt="nutcracker dancers" class="img-fluid shadow rounded">
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
     <div class="bg-red text-white py-5">
         <div class="container">
             <div class="d-flex justify-content-center">
-                <img src="/images/nutcracker-caledonia.png" alt="nutcracker dancers" class="img-fluid shadow rounded">
+                <img src="/images/nutcracker-caledonia.jpg" alt="nutcracker dancers" class="img-fluid shadow rounded">
             </div>
             <h2 class="text-center">Show Times and Venue</h2>
             <p class="text-center">
@@ -56,7 +56,7 @@
             <div class="row my-5">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/christmas-events-caledonia.png" alt="nutcracker dancers" class="img-fluid shadow rounded">
+                        <img src="/images/christmas-events-caledonia.jpg" alt="nutcracker dancers" class="img-fluid shadow rounded">
                     </div>
                 </div>
                 <div class="col-sm d-flex align-items-center justify-content-center">
