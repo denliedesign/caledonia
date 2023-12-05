@@ -700,7 +700,7 @@ body {
 }
 
 .banner {
-    height: 100%;
+    height: calc(100% - 1px);
     background-image: url(/images-lava/banner-smile.jpg);
     background-attachment: fixed;
     background-position: center;
@@ -708,8 +708,17 @@ body {
     background-size: cover;
 }
 
+.banner-christmas {
+    height: calc(100% - 1px);
+    background-image: url(/images/nutcracker-christmas-caledonia.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .banner-grand-rapids {
-    height: 100%;
+    height: calc(100% - 1px);
     background-image: url(/images/grand-rapids-dance.jpg);
     background-attachment: fixed;
     background-position: center;
@@ -718,7 +727,7 @@ body {
 }
 
 .banner-nutcracker {
-    height: 100%;
+    height: calc(100% - 1px);
     background-image: url(/images/banner-nutcracker.jpg);
     background-attachment: fixed;
     background-position: 50% 30%;
