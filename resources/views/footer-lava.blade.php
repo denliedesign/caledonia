@@ -106,6 +106,7 @@
         &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/hastings-dance"><small class="text-muted">Hastings Dance</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/wayland-dance"><small class="text-muted">Wayland Dance</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/grand-rapids-dance"><small class="text-muted">Grand Rapids Dance</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/christmas-events-caledonia"><small class="text-muted">Christmas Events Caledonia</small></a>
         <br>&nbsp;
         <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
     </p>

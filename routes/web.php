@@ -145,6 +145,9 @@ Route::get('/kentwood-dance-studios', function () {
 Route::get('/wayland-dance', function () {
     return view('/wayland-dance');
 });
+Route::get('/christmas-events-caledonia', function () {
+    return view('/christmas-events-caledonia');
+});
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
 //});
