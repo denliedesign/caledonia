@@ -10,6 +10,7 @@
     <div class="d-flex justify-content-center">
         <img src="/images/nutcracker-caledonia-2023.jpg" alt="nutcracker performance flyer" class="img-fluid">
     </div>
+    <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
 </div>
 
 
