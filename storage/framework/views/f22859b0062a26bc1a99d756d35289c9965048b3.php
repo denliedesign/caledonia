@@ -1,7 +1,8 @@
 <div class="container">
-    <div class="d-flex justify-content-center py-4">
-        <img src="/images/nutcracker-logo.jpg" alt="nutcracker logo" class="img-fluid">
-    </div>
+
+
+
+    <h2 class="text-center mt-3 font-staat-side pt-5">Winter</h2>
 
     <p class="text-center my-3" style="font-size: 1.5em;">A heartfelt thank you to all attendees for making our 15th Annual Nutcracker truly spectacular. Congratulations to our exceptional performers whose talent and dedication brought the magic to life. Mark your calendars for Nutcracker 2024 on Dec 14 and 15 – we can't wait to enchant you again!</p>
 
