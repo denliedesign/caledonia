@@ -12,10 +12,10 @@
 
     <div class="bg-white">
         <div class="py-5" id="class-schedule">
-            <h2 class="text-center text-uppercase font-staat-side">Classes</h2>
-            <p class="lead-side text-center">
-                Fall 2023-2024
-            </p>
+            <h2 class="text-center text-uppercase font-staat-side">Explore Open 2024 Classes - Spaces Limited</h2>
+{{--            <p class="lead-side text-center">--}}
+{{--                Fall 2023-2024--}}
+{{--            </p>--}}
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                     <div class="col my-2">
