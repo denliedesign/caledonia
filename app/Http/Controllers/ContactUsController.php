@@ -33,8 +33,7 @@ class ContactUsController extends Controller
             'privacy_policy' => 'required|accepted',
         ]);
 
-//        Mail::to('info@CaledoniaDanceAndMusic.com')->send(new ContactUsMail($data));
-        Mail::to('customdenlie@gmail.com')->send(new ContactUsMail($data));
+        Mail::to('info@CaledoniaDanceAndMusic.com')->send(new ContactUsMail($data));
 
         return redirect('/')->with('message', 'Thanks for your message. We\'ll be in touch.');
 
