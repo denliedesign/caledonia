@@ -31,11 +31,11 @@
 
     <!-- Fonts -->
     <style>
-        @import  url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Nunito&display=swap');
-        @import  url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Staatliches&family=Syne&display=swap');
-        @import  url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-        @import  url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Nunito&display=swap');
-        @import  url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Nunito&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Staatliches&family=Syne&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Nunito&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
     </style>
 
 

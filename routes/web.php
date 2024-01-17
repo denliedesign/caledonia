@@ -121,9 +121,9 @@ Route::get('/dance-classes-hastings-mi', function () {
 Route::get('/dance-grand-rapids', function () {
     return view('/dance-grand-rapids');
 });
-//Route::get('/summer', function () {
-//    return view('/summer');
-//});
+Route::get('/summer', function () {
+    return view('/summer');
+});
 Route::get('/dance-studios-kentwood-mi', function () {
     return view('/dance-studios-kentwood-mi');
 });
@@ -147,6 +147,9 @@ Route::get('/wayland-dance', function () {
 });
 Route::get('/christmas-events-caledonia', function () {
     return view('/christmas-events-caledonia');
+});
+Route::get('/privacy-policy', function () {
+    return view('/privacy-policy');
 });
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
