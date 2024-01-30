@@ -25,18 +25,18 @@
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/fall">2023-2024</a>
                 </li>
-{{--                <li class="nav-item mx-2">--}}
+                <li class="nav-item mx-2">
 {{--                    <a class="nav-link" href="/summer">Summer</a>--}}
-{{--                    <a class="nav-link" href="/mini-camps">Mini-Camps</a>--}}
-{{--                </li>--}}
+                    <a class="nav-link" href="/camps">Camps</a>
+                </li>
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/recital">Recital</a>--}}
 {{--                </li>--}}
-                <li class="nav-item mx-2">
-                    <a class="nav-link" href="/nutcracker">Winter
-                        {{--            <br><span class="text-muted" style="font-size: 0.65em;">TICKETS AVAILABLE</span>--}}
-                    </a>
-                </li>
+{{--                <li class="nav-item mx-2">--}}
+{{--                    <a class="nav-link" href="/nutcracker">Winter--}}
+{{--                        --}}{{--            <br><span class="text-muted" style="font-size: 0.65em;">TICKETS AVAILABLE</span>--}}
+{{--                    </a>--}}
+{{--                </li>--}}
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/calendar">Calendar</a>
                 </li>

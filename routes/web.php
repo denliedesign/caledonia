@@ -39,9 +39,9 @@ Route::get('birthday-parties', function () {
     return view('birthday-parties');
 });
 
-//Route::get('mini-camps', function () {
-//    return view('mini-camps-lava');
-//});
+Route::get('camps', function () {
+    return view('camps');
+});
 
 Route::get('storytime-with-a-twist', function () {
     return view('storytime-with-a-twist-lava');

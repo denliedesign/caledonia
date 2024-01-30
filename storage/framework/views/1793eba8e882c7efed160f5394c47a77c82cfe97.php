@@ -1,5 +1,4 @@
-@extends('layouts.app-lava')
-@section('content')
+<?php $__env->startSection('content'); ?>
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
         <div class="banner"></div>
@@ -41,4 +40,6 @@
         }
     </style>
 
-@endsection
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layouts.app-lava', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Users\Dennis\caledonia\resources\views/mini-camps-lava.blade.php ENDPATH**/ ?>
