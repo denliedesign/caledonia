@@ -17,16 +17,18 @@
                     <img src="/images/camps.jpeg" alt="mini camp pics" class="img-fluid">
 
             </div>
-            <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&cat1=Camps&sort=Class"></script>
-            <script>
-                const elements = document.querySelectorAll("[data-title='Openings']");
-                for (const element of elements) {
-                    element.style.display = "none";
-                }
+            <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Camps&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
+
+            
 
 
 
-            </script>
+
+
+
+
+
+
         </div>
     </div>
 
