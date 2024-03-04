@@ -24,6 +24,7 @@
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-lessons-kentwood-mi"><small class="text-muted">Dance Lessons Kentwood MI</small></a>
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/kentwood-dance"><small class="text-muted">Kentwood Dance</small></a>
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-kentwood-mi"><small class="text-muted">Dance Studios Kentwood</small></a>
+                        &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/music-lessons-kentwood"><small class="text-muted">Music Lessons Kentwood</small></a>
                     </p>
                 </div>
             </div>

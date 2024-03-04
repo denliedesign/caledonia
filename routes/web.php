@@ -148,6 +148,11 @@ Route::get('/wayland-dance', function () {
 Route::get('/christmas-events-caledonia', function () {
     return view('/christmas-events-caledonia');
 });
+Route::get('/music-lessons-kentwood', function () {
+    return view('/music-lessons-kentwood');
+});
+
+
 Route::get('/privacy-policy', function () {
     return view('/privacy-policy');
 });
