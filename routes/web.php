@@ -39,16 +39,8 @@ Route::get('birthday-parties', function () {
     return view('birthday-parties');
 });
 
-Route::get('camps', function () {
-    return view('camps');
-});
-
 Route::get('storytime-with-a-twist', function () {
     return view('storytime-with-a-twist-lava');
-});
-
-Route::get('nutcracker', function () {
-    return view('nutcracker-lava');
 });
 
 Route::get('music-lessons', function () {
@@ -66,22 +58,36 @@ Route::get('info', function () {
 Route::get('staff', function () {
     return view('staff-lava');
 });
-
 //Route::get('recital', function () {
 //    return view('recital');
 //});
 //Route::post('recital', function () {
 //    return view('recital');
 //});
-
+Route::get('camps', function () {
+    return view('camps');
+});
+Route::get('nutcracker', function () {
+    return view('nutcracker-lava');
+});
 Route::get('/fall', function () {
     return view('/fall-lava');
+});
+Route::get('/summer', function () {
+    return view('/summer');
 });
 
 Route::get('/dress-code', function () {
     return view('/dress-code-lava');
 });
+Route::get('/privacy-policy', function () {
+    return view('/privacy-policy');
+});
+//Route::get('/sou-welcome', function () {
+//    return view('/sou-welcome');
+//});
 
+// -----------------SEO-------------------- //
 Route::get('/dance-byron-center', function () {
     return view('/dance-byron-center');
 });
@@ -121,9 +127,6 @@ Route::get('/dance-classes-hastings-mi', function () {
 Route::get('/dance-grand-rapids', function () {
     return view('/dance-grand-rapids');
 });
-Route::get('/summer', function () {
-    return view('/summer');
-});
 Route::get('/dance-studios-kentwood-mi', function () {
     return view('/dance-studios-kentwood-mi');
 });
@@ -151,14 +154,6 @@ Route::get('/christmas-events-caledonia', function () {
 Route::get('/music-lessons-kentwood', function () {
     return view('/music-lessons-kentwood');
 });
-
-
-Route::get('/privacy-policy', function () {
-    return view('/privacy-policy');
-});
-//Route::get('/sou-welcome', function () {
-//    return view('/sou-welcome');
-//});
 
 
 Auth::routes();
