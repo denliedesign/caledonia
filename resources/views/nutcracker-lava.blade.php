@@ -1,4 +1,5 @@
 @extends('layouts.app-lava')
+@section('title', 'Nutcracker | Caledonia Dance & Music Center')
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">

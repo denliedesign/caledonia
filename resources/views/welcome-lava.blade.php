@@ -5,7 +5,7 @@
         <div style="background: white;" id="side-trial" class="offcanvas offcanvas-end show shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
             <div class="offcanvas-header p-0 mt-2" style="position: relative;">
                 <div class="d-flex justify-content-center" style="width: 100%;">
-                    <h2 class="text-center font-staat-side">Upcoming Camps</h2>
+                    <h2 class="text-center font-staat-side">Summer 2024</h2>
 {{--                    <img src="/images/winter-ballet-crop.jpg" alt="ballet partnering in nutcracker" class="img-fluid">--}}
                 </div>
                 <div style="position: absolute; top: 10px; right: 0; z-index: 4;">
@@ -15,11 +15,14 @@
                 </div>
             </div>
             <div class="offcanvas-body py-0">
-                <img src="/images/Era.jpeg" alt="ballet partnering in nutcracker" class="img-fluid">
+{{--                <img src="/images/Era.jpeg" alt="ballet partnering in nutcracker" class="img-fluid">--}}
 {{--                <img src="/images/logo-ballerinas-in-training.jpg" alt="ballerinas in training logo" class="img-fluid">--}}
                 <div class="d-flex justify-content-center">
+                    <img src="/images/about-3.jpg" alt="ballerinas in training logo" class="img-fluid" style="width: 220px; height: auto;">
+                </div>
+                <div class="d-flex justify-content-center">
 {{--                    <a href="https://25664.recitalticketing.com/landing.cfm?loc=4" target="_blank"><div class="mx-2 btn btn-danger fw-bold shadow">Get Tickets Now</div></a>--}}
-                    <a href="/camps"><div class="mx-2 btn btn-danger fw-bold shadow">Learn More</div></a>
+                    <a href="/summer"><div class="m-2 btn btn-danger fw-bold shadow">Register Now!</div></a>
                 </div>
             </div>
         </div>

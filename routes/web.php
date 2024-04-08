@@ -64,9 +64,9 @@ Route::get('staff', function () {
 //Route::post('recital', function () {
 //    return view('recital');
 //});
-Route::get('camps', function () {
-    return view('camps');
-});
+//Route::get('camps', function () {
+//    return view('camps');
+//});
 Route::get('nutcracker', function () {
     return view('nutcracker-lava');
 });
