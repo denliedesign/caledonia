@@ -154,7 +154,9 @@ Route::get('/christmas-events-caledonia', function () {
 Route::get('/music-lessons-kentwood', function () {
     return view('/music-lessons-kentwood');
 });
-
+Route::get('/dance-classes-kentwood', function () {
+    return view('/dance-classes-kentwood');
+});
 
 Auth::routes();
 
