@@ -172,7 +172,7 @@
                 <div>
                     <img src="/images-lava/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
                 </div>
-                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #4A245F; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
+                <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #4A245F; z-index: 5 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
@@ -189,9 +189,9 @@
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
                     <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
                 </h3>
-                <div>
-                    <img src="/images-lava/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
-                </div>
+{{--                <div>--}}
+{{--                    <img src="/images-lava/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">--}}
+{{--                </div>--}}
                 <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #4A245F; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
@@ -342,7 +342,7 @@
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container">
             <h2 class="fw-bold text-center" style="font-size: 2.75em;">20+ Years of Serving Our Community</h2>
-            <p class="py-0 my-0 text-center">Located in Caledonia, providing dance classes for Kentwood, Hastings, Wayland, & Byon Center.</p>
+            <p class="py-0 my-0 text-center">Located in Caledonia, providing dance classes for Kentwood, Hastings, Wayland, & Byron Center.</p>
             <div class="row" style="font-size: 1.5em;">
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="color-filter"></ion-icon><br>3</span><br> Activities - Dance, Music, Acro</p></div>
                 <div class="d-md-none"><hr></div>
