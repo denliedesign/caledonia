@@ -83,6 +83,12 @@ Route::get('/dress-code', function () {
 Route::get('/privacy-policy', function () {
     return view('/privacy-policy');
 });
+Route::get('/hubs/music', function () {
+    return view('/hubs/music');
+});
+Route::get('/hubs/dance', function () {
+    return view('/hubs/dance');
+});
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
 //});

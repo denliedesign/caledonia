@@ -15,46 +15,77 @@
     </div>
 
     <div class="bg-white pb-5">
-        <div class="d-flex justify-content-center">
-            <img src="/images-lava/logo-where-we-belong.png" alt="" class="img-fluid">
+        <div class="d-flex justify-content-center my-3">
+            <img src="/images/recital-light-purple.png" alt="" class="img-fluid" style="max-height: 200px; width: auto;">
         </div>
-        <p class="text-center font-syne" style="font-size: 1.5em;">Stay tuned for schedules and more!</p>
-        @can('update', \App\Hub::class)
-            <p class="text-center"><a href="/hubs/create">Create New Hub</a></p>
-        @endcan
+        {{--        <p class="text-center font-syne" style="font-size: 1.5em;">Stay tuned for schedules and more!</p>--}}
+        {{--        @can('update', \App\Hub::class)--}}
+        {{--            <p class="text-center"><a href="/hubs/create">Create New Hub</a></p>--}}
+        {{--        @endcan--}}
 
         <div class="container" id="news">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 pb-5">
-                @foreach($hubs as $hub)
-                    <div class="col-sm p-2 d-flex justify-content-center">
-                        <div class="card" style="max-width: 400px">
-                            <a href="/hubs/{{ $hub->id }}">
-                                <img src="{{ asset('/storage/' . $hub->hubImage) }}" class="card-img-top" alt="...">
-                            </a>
-                            <div class="card-body">
-                                <p class="card-title text-uppercase lead fw-bold text-center">{{ $hub->hubTitle }}</p>
-                                {{--                                <p class="card-text">{!! strip_tags(substr($hub->hubTitle, 0, 125)) . '...' !!}</p>--}}
-                            </div>
-                            @can('update', \App\Hub::class)
-                                <div class="card-footer">
-                                    <div class="admin-controls d-flex justify-content-center align-items-center pb-2">
-                                        <div><a href="/hubs/{{ $hub->id }}/edit">Edit Hub</a></div>
-                                        <div>
-                                            <form action="/hubs/{{ $hub->id }}" method="POST">
-                                                @method('DELETE')
-                                                @csrf
-
-                                                <button class="btn btn-danger ml-4" type="submit">Delete</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            @endcan
+                <div class="col-sm p-2 d-flex justify-content-center">
+                    <div class="card" style="width: 100%;">
+                        <a href="/hubs/dance">
+                            <img src="/images/recital-dance.jpeg" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover;">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-title text-uppercase lead fw-bold text-center">Dance</p>
                         </div>
                     </div>
-                @endforeach
+                </div>
+                <div class="col-sm p-2 d-flex justify-content-center">
+                    <div class="card" style="width: 100%;">
+                        <a href="/hubs/music">
+                            <img src="/images/recital-music.jpg" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover; object-position: top;">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-title text-uppercase lead fw-bold text-center">Music</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm p-2 d-flex justify-content-center">
+                    <div class="card" style="width: 100%;">
+                        <a disabled="">
+                            <img src="/images/recital-tickets.png" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover; object-position: top;">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-title text-uppercase lead fw-bold text-center">Recital Tickets</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
+    {{--                @foreach($hubs as $hub)--}}
+    {{--                    <div class="col-sm p-2 d-flex justify-content-center">--}}
+    {{--                        <div class="card" style="max-width: 400px">--}}
+    {{--                            <a href="/hubs/{{ $hub->id }}">--}}
+    {{--                                <img src="{{ asset('/storage/' . $hub->hubImage) }}" class="card-img-top" alt="..." style="height: 295px; width: auto; object-fit: cover;">--}}
+    {{--                            </a>--}}
+    {{--                            <div class="card-body">--}}
+    {{--                                <p class="card-title text-uppercase lead fw-bold text-center">{{ $hub->hubTitle }}</p>--}}
+    {{--                                --}}{{--                                <p class="card-text">{!! strip_tags(substr($hub->hubTitle, 0, 125)) . '...' !!}</p>--}}
+    {{--                            </div>--}}
+    {{--                            @can('update', \App\Hub::class)--}}
+    {{--                                <div class="card-footer">--}}
+    {{--                                    <div class="admin-controls d-flex justify-content-center align-items-center pb-2">--}}
+    {{--                                        <div><a href="/hubs/{{ $hub->id }}/edit">Edit Hub</a></div>--}}
+    {{--                                        <div>--}}
+    {{--                                            <form action="/hubs/{{ $hub->id }}" method="POST">--}}
+    {{--                                                @method('DELETE')--}}
+    {{--                                                @csrf--}}
+
+    {{--                                                <button class="btn btn-danger ml-4" type="submit">Delete</button>--}}
+    {{--                                            </form>--}}
+    {{--                                        </div>--}}
+    {{--                                    </div>--}}
+    {{--                                </div>--}}
+    {{--                            @endcan--}}
+    {{--                        </div>--}}
+    {{--                    </div>--}}
+    {{--                @endforeach--}}
+
 
 @endsection
