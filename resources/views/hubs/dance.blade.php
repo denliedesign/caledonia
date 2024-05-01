@@ -29,7 +29,7 @@
             </div>
 
             <div class="mt-5">
-                <a href="/hubs"><button class="btn btn-blue btn-lg text-white">Back To The Hub</button></a>
+                <a href="/hubs"><img src="/images/hub-btn.png" alt="button" style="height: 100px; width: auto;"></a>
             </div>
 
         </div>

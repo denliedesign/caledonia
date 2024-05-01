@@ -735,3 +735,15 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.recital-banner-patch {
+    transition: 0.4s;
+}
+
+.recital-banner-patch:hover {
+    transform: rotate(2deg);
+}
+
+.recital-banner-text a:hover {
+    color: #AA999C !important;
+}

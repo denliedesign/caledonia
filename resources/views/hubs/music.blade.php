@@ -16,10 +16,13 @@
     <div class="bg-white py-5">
         <div class="container pb-5">
             <h3 class="text-center mt-3 font-staat" style="font-size: 100px; line-height: 0.9em;">Music</h3>
-            <img src="/images/music-rehearsal-cdmc.jpg" alt="music rehearsal" class="img-fluid">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
+                <div class="col"><a href="/images/music-rehearsal.pdf" target="_blank"><img src="/images/music-rehearsal.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a href="/images/recital-ticket-faqs.pdf" target="_blank"><img src="/images/recital-ticket-faqs.png" alt="" class="img-fluid"></a></div>
+            </div>
 
             <div class="mt-5">
-                <a href="/hubs"><button class="btn btn-blue btn-lg text-white">Back To The Hub</button></a>
+                <a href="/hubs"><img src="/images/hub-btn.png" alt="button" style="height: 100px; width: auto;"></a>
             </div>
 
         </div>

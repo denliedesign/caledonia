@@ -28,7 +28,7 @@
                 <div class="col-sm p-2 d-flex justify-content-center">
                     <div class="card" style="width: 100%;">
                         <a href="/hubs/dance">
-                            <img src="/images/recital-dance.jpeg" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover;">
+                            <img src="/images/dance-hub.JPG" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover;">
                         </a>
                         <div class="card-body">
                             <p class="card-title text-uppercase lead fw-bold text-center">Dance</p>
@@ -47,8 +47,8 @@
                 </div>
                 <div class="col-sm p-2 d-flex justify-content-center">
                     <div class="card" style="width: 100%;">
-                        <a disabled="">
-                            <img src="/images/recital-tickets.png" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover; object-position: top;">
+                        <a href="https://25664.recitalticketing.com/landing.cfm" target="_blank">
+                            <img src="/images/tickets-hub.png" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover; object-position: center;">
                         </a>
                         <div class="card-body">
                             <p class="card-title text-uppercase lead fw-bold text-center">Recital Tickets</p>

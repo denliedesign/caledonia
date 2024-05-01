@@ -118,6 +118,7 @@
     {{--    </div>--}}
     {{--</div>--}}
 
+
     <div class="bg-red py-5" id="skip" style="position: relative;">
         <div class="container">
             <h3 class="font-staat text-white" style="font-size: 100px; line-height: 0.9em;">Dance makes GREAT kids!</h3>
