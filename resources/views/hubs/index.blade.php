@@ -28,7 +28,7 @@
                 <div class="col-sm p-2 d-flex justify-content-center">
                     <div class="card" style="width: 100%;">
                         <a href="/hubs/dance">
-                            <img src="/images/dance-hub.JPG" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover;">
+                            <img src="/images/recital-hub-dance.jpg" alt="" class="card-img-top" style="height: 300px; width: 100%; object-fit: cover;">
                         </a>
                         <div class="card-body">
                             <p class="card-title text-uppercase lead fw-bold text-center">Dance</p>

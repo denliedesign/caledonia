@@ -19,15 +19,15 @@
     </ul>
 </div>
 
-<div>
-    <div class="d-flex justify-content-center align-items-center mt-1">
-        <a href="https://25664.recitalticketing.com/landing.cfm" target="_blank">
-            <img src="/images/recital-tickets.png" alt="" class="img-fluid recital-banner-patch" style="height: 75px; width: auto;">
-        </a>
-        <p class="font-staat text-uppercase text-center mx-2 recital-banner-text pb-0 mb-0" style="font-size: 22px;">
-            <a href="https://25664.recitalticketing.com/landing.cfm" target="_blank" style="color: #4A245F;">
-                Get Your Recital Tickets Here
-            </a>
-        </p>
-    </div>
-</div>
+{{--<div>--}}
+{{--    <div class="d-flex justify-content-center align-items-center mt-1">--}}
+{{--        <a href="https://25664.recitalticketing.com/landing.cfm" target="_blank">--}}
+{{--            <img src="/images/recital-tickets.png" alt="" class="img-fluid recital-banner-patch" style="height: 75px; width: auto;">--}}
+{{--        </a>--}}
+{{--        <p class="font-staat text-uppercase text-center mx-2 recital-banner-text pb-0 mb-0" style="font-size: 22px;">--}}
+{{--            <a href="https://25664.recitalticketing.com/landing.cfm" target="_blank" style="color: #4A245F;">--}}
+{{--                Get Your Recital Tickets Here--}}
+{{--            </a>--}}
+{{--        </p>--}}
+{{--    </div>--}}
+{{--</div>--}}
