@@ -163,6 +163,9 @@ Route::get('/music-lessons-kentwood', function () {
 Route::get('/dance-classes-kentwood', function () {
     return view('/dance-classes-kentwood');
 });
+Route::get('/tumbling-classes-kentwood', function () {
+    return view('/tumbling-classes-kentwood');
+});
 
 Auth::routes();
 

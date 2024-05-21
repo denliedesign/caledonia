@@ -26,6 +26,7 @@
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/kentwood-dance"><small class="text-muted">Kentwood Dance</small></a>
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-kentwood-mi"><small class="text-muted">Dance Studios Kentwood</small></a>
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-classes-kentwood"><small class="text-muted">Dance Classes Kentwood</small></a>
+                        &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/tumbling-classes-kentwood"><small class="text-muted">Tumbling Classes Kentwood</small></a>
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/music-lessons-kentwood"><small class="text-muted">Music Lessons Kentwood</small></a>
                     </p>
                 </div>
