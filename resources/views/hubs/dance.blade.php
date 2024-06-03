@@ -20,6 +20,7 @@
                 <div class="col"><a href="/images/recital-1-lineup.pdf"><img src="/images/recital-1-lineup.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/recital-2-lineup.pdf"><img src="/images/recital-2-lineup.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/recital-3-lineup.pdf"><img src="/images/recital-3-lineup.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a href="/images/recital-show-4.pdf"><img src="/images/recital-show-4.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/recital-ticket-faqs.pdf"><img src="/images/recital-ticket-faqs.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/how-to-be-stage-ready.pdf"><img src="/images/how-to-be-stage-ready.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/recital-lookbook.pdf"><img src="/images/recital-lookbook.png" alt="" class="img-fluid"></a></div>
