@@ -16,23 +16,26 @@
             <p class="lead-side text-center">
                 Summer 2024
             </p>
+            <a href="/images/24-summer.pdf" target="_blank" class="nav-link text-uppercase text-center mb-3">
+                <div class="btn btn-danger shadow">View PDF</div>
+            </a>
             <div class="container">
-{{--                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
-{{--                    <div class="col my-2">--}}
+                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
+                    <div class="col my-2">
 {{--                        <a target="_blank">--}}
-{{--                            <a href="/images/summer-23-v4.pdf" target="_blank">--}}
-{{--                                <img src="/images/summer-23-v4-1.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">--}}
+{{--                            <a href="/images/24-summer.pdf" target="_blank">--}}
+                                <img src="/images/24-summer-a.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
 {{--                            </a>--}}
 {{--                        </a>--}}
-{{--                    </div>--}}
-{{--                    <div class="col my-2">--}}
+                    </div>
+                    <div class="col my-2">
 {{--                        <a target="_blank">--}}
-{{--                            <a href="/images/summer-23-v4.pdf" target="_blank">--}}
-{{--                                <img src="/images/summer-23-v4-2.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">--}}
+{{--                            <a href="/images/24-summer.pdf" target="_blank">--}}
+                                <img src="/images/24-summer-b.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
 {{--                            </a>--}}
 {{--                        </a>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
+                    </div>
+                </div>
                 <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Summer&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
                 <div>
                     <p class="text-center py-0 my-0">Dance Classes Caledonia MI, Dance Classes Grand Rapids, Dance Classes Hastings MI, Dance Classes Wayland MI, Dance Classes Kentwood MI, Dance Classes Byron Center</p>
