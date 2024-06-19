@@ -49,7 +49,7 @@
                     <a class="nav-link" href="https://app.jackrabbitclass.com/jr3.0/ParentPortal/Login?orgId=383292&regcid=11480783" target="_blank">Login</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a href="/fall" class="nav-link text-uppercase">
+                    <a href="/summer" class="nav-link text-uppercase">
                         <div class="btn btn-danger shadow">Start Here!</div>
                     </a>
                 </li>
