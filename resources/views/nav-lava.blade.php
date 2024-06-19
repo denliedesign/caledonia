@@ -23,7 +23,7 @@
                     <a class="nav-link" href="/staff">Staff</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="/fall">2023-2024</a>
+                    <a class="nav-link" href="/fall">2024-2025</a>
                 </li>
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/camps">Camps</a>--}}
