@@ -13,13 +13,16 @@
     <div class="bg-white">
         <div class="py-5" id="class-schedule">
             <h2 class="text-center text-uppercase font-staat-side">Fall 2024-2025</h2>
-                        <p class="lead-side text-center">
-                            Registration opens June 25th and 28th. Check back soon!
-                        </p>
+{{--                        <p class="lead-side text-center">--}}
+{{--                            Registration opens June 25th and 28th. Check back soon!--}}
+{{--                        </p>--}}
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                    <div class="col my-2">
-                    </div>
+                    <div class="col my-2"><img src="/images/24-classes-1.jpg" alt="classes" class="img-fluid"></div>
+                    <div class="col my-2"><img src="/images/24-classes-2.jpg" alt="classes" class="img-fluid"></div>
+                    <div class="col my-2"><img src="/images/24-classes-3.jpg" alt="classes" class="img-fluid"></div>
+                    <div class="col my-2"><img src="/images/24-classes-4.jpg" alt="classes" class="img-fluid"></div>
+                </div>
             </div>
         </div>
     </div>
