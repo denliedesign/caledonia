@@ -45,7 +45,7 @@
                     <img src="/images/race-to-registration.jpg" alt="little dancers sitting side by side" class="img-fluid" style="height: 175px; width: auto;">
                 </div>
                 <div class="d-flex justify-content-center">
-                    <a href="/fall" target="_blank" ><div class="m-2 btn btn-danger fw-bold shadow">Get Tickets Now!</div></a>
+                    <a href="/fall"><div class="m-2 btn btn-danger fw-bold shadow">Register Now!</div></a>
                 </div>
             </div>
         </div>

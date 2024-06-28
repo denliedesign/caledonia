@@ -23,6 +23,7 @@
                     <div class="col my-2"><img src="/images/24-classes-3.jpg" alt="classes" class="img-fluid"></div>
                     <div class="col my-2"><img src="/images/24-classes-4.jpg" alt="classes" class="img-fluid"></div>
                 </div>
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2024-2025&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
             </div>
         </div>
     </div>
