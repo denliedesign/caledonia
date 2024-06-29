@@ -24,6 +24,7 @@
                         <a class="text-decoration-none" href="/dance-studios-hastings-mi"><small class="text-muted">Dance Studios Hastings MI</small></a>
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-classes-hastings-mi"><small class="text-muted">Dance Classes Hastings MI</small></a>
                         &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-hastings-mi"><small class="text-muted">Dance Hastings MI</small></a>
+                        &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-hastings"><small class="text-muted">Dance Hastings</small></a>
                     </p>
                 </div>
             </div>
