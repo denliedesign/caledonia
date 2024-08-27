@@ -27,9 +27,10 @@
        <div class="container">
            <h2 class="text-center font-staat-side">Nutcracker Auditions 2024</h2>
            <div class="d-flex justify-content-center pb-4">
-               <img src="/images/nutcracker-auditions.jpg" alt="nutcracker performance flyer" class="img-fluid">
+{{--               <img src="/images/nutcracker-auditions.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
            </div>
-           <p class="lead text-center">Auditions will be held on Saturday, October 5, 2024</p>
+{{--           <p class="lead text-center">Auditions will be held on Saturday, October 5, 2024</p>--}}
+           <p class="lead text-center">Audition information coming soon.</p>
            <div id="class-schedule">
                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
            </div>
