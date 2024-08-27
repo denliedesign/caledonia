@@ -25,20 +25,20 @@
                     <div class="col my-2">
                         <img src="/images/moves-and-mixology.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
                     </div>
-                    <div class="col my-2">
+{{--                    <div class="col my-2">--}}
 {{--                        <a target="_blank">--}}
 {{--                            <a href="/images/24-summer.pdf" target="_blank">--}}
-                                <img src="/images/24-summer-a.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+{{--                                <img src="/images/24-summer-a.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">--}}
 {{--                            </a>--}}
 {{--                        </a>--}}
-                    </div>
-                    <div class="col my-2">
+{{--                    </div>--}}
+{{--                    <div class="col my-2">--}}
 {{--                        <a target="_blank">--}}
 {{--                            <a href="/images/24-summer.pdf" target="_blank">--}}
-                                <img src="/images/24-summer-b.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+{{--                                <img src="/images/24-summer-b.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">--}}
 {{--                            </a>--}}
 {{--                        </a>--}}
-                    </div>
+{{--                    </div>--}}
                 </div>
                 <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Summer&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
                 <div>
