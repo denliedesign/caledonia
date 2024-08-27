@@ -2,8 +2,8 @@
 {{--    <div class="d-flex justify-content-center py-4">--}}
 {{--        <img src="/images/logo-ballerinas-in-training.jpg" alt="nutcracker logo" class="img-fluid">--}}
 {{--    </div>--}}
-    <h2 class="text-center mt-3 font-staat-side pt-5">Nutcracker</h2>
-    <p class="text-center my-3" style="font-size: 1.5em;">CDMC Presents our 16th Annual Performance of The Nutcracker, the classic story of a young girl named Clara and a fascinating toy Nutcracker gifted to her by her enchanting godfather Dr. Drosselmeyer.  We invite you to experience the magic this holiday season.  Performances of The Nutcracker will take place December 14th and 15th.
+{{--    <h2 class="text-center mt-3 font-staat-side pt-5">Nutcracker</h2>--}}
+{{--    <p class="text-center my-3" style="font-size: 1.5em;">CDMC Presents our 16th Annual Performance of The Nutcracker, the classic story of a young girl named Clara and a fascinating toy Nutcracker gifted to her by her enchanting godfather Dr. Drosselmeyer.  We invite you to experience the magic this holiday season.  Performances of The Nutcracker will take place December 14th and 15th.--}}
 {{--        at Caledonia’s Duncan Lake Middle School Performing Arts Center.--}}
     </p>
     <p class="text-center my-3" style="font-size: 1.5em;">
@@ -19,21 +19,21 @@
 {{--        <img src="/images/nutcracker-caledonia-2023.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
 {{--        <img src="/images/ballerinas-in-training.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
     </div>
-    <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
+{{--    <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>--}}
 </div>
 
 
 
-{{--       <div class="container">--}}
-{{--           <h2 class="text-center font-staat-side">Nutcracker Auditions 2023</h2>--}}
-{{--           <div class="d-flex justify-content-center pb-4">--}}
-{{--               <img src="/images/nut-aud-23.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
-{{--           </div>--}}
-{{--           <p class="lead text-center">Auditions will be held on Saturday, October 1, 2022</p>--}}
-{{--           <div id="class-schedule">--}}
-{{--               <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>--}}
-{{--           </div>--}}
-{{--       </div>--}}
+       <div class="container">
+           <h2 class="text-center font-staat-side">Nutcracker Auditions 2024</h2>
+           <div class="d-flex justify-content-center pb-4">
+               <img src="/images/nutcracker-auditions.jpg" alt="nutcracker performance flyer" class="img-fluid">
+           </div>
+           <p class="lead text-center">Auditions will be held on Saturday, October 5, 2024</p>
+           <div id="class-schedule">
+               <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
+           </div>
+       </div>
 
 <!-- /////////////////////////// -->
 <!-- GALLERY -->
