@@ -12,15 +12,19 @@
 
     <div class="bg-white">
         <div class="py-5" id="class-schedule">
-            <h2 class="text-center text-uppercase font-staat-side">Classes</h2>
-            <p class="lead-side text-center">
-                Summer 2024
-            </p>
-            <a href="/images/24-summer.pdf" target="_blank" class="nav-link text-uppercase text-center mb-3">
-                <div class="btn btn-danger shadow">View PDF</div>
-            </a>
+            <h2 class="text-center text-uppercase font-staat-side">Promotions</h2>
+{{--            <h2 class="text-center text-uppercase font-staat-side">Classes</h2>--}}
+{{--            <p class="lead-side text-center">--}}
+{{--                Summer 2024--}}
+{{--            </p>--}}
+{{--            <a href="/images/24-summer.pdf" target="_blank" class="nav-link text-uppercase text-center mb-3">--}}
+{{--                <div class="btn btn-danger shadow">View PDF</div>--}}
+{{--            </a>--}}
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
+                    <div class="col my-2">
+                        <img src="/images/moves-and-mixology.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+                    </div>
                     <div class="col my-2">
 {{--                        <a target="_blank">--}}
 {{--                            <a href="/images/24-summer.pdf" target="_blank">--}}

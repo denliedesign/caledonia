@@ -76,7 +76,7 @@
                     </div>
                     <div class="row font-syne-side">
                         <div class="col-sm d-flex justify-content-end">
-                            <img src="/images/uniform-2.png" alt="" class="img-fluid" style="max-height: 500px;">
+                            <img src="/images/purple-dancer-2.png" alt="" class="img-fluid" style="max-height: 500px;">
                         </div>
                         <div class="col-sm d-flex align-items-center">
                             <div>
