@@ -12,24 +12,25 @@
 
     <div class="bg-white">
         <div class="container py-5">
-            <h2 class="text-center mt-3 font-staat-side">2023-2024 Calendar</h2>
-            <div class="d-flex justify-content-center">
-                <table class="font-syne-side">
-                    <x-calendar date="August 28-31" event="First Week of Classes for the 2023-24 Season"/>
-                    <x-calendar date="Sept 4" event="Obsv. Labor Day"/>
-                    <x-calendar date="Oct 16-19" event="Inter-sessional Break #1"/>
-                    <x-calendar date="Oct 31" event="Obsv. Halloween"/>
-                    <x-calendar date="Nov 21-24" event="Thanksgiving Break"/>
-                    <x-calendar date="Dec 7" event="Nutcracker Rehearsals - No Class"/>
-                    <x-calendar date="Dec 22-Jan 5" event="Christmas Break"/>
-                    <x-calendar date="Jan 15" event="MLK Day - Open for Classes"/>
-                    <x-calendar date="Feb 12-16" event="Inter-sessional Break #2"/>
-                    <x-calendar date="Mar 29-Apr 7" event="Spring Break"/>
-                    <x-calendar date="May 27" event="Obsv. Memorial Day"/>
-                    <x-calendar date="June 3-6" event="Dance Recital Dress Rehearsals"/>
-                    <x-calendar date="June 10-13" event="Dance Recitals"/>
-                </table>
-            </div>
+            <h2 class="text-center mt-3 font-staat-side">2024-2025 Calendar</h2>
+            <img src="/images-lava/calendar-2024-2025.png" class="img-fluid" alt="">
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <table class="font-syne-side">--}}
+{{--                    <x-calendar date="August 28-31" event="First Week of Classes for the 2023-24 Season"/>--}}
+{{--                    <x-calendar date="Sept 4" event="Obsv. Labor Day"/>--}}
+{{--                    <x-calendar date="Oct 16-19" event="Inter-sessional Break #1"/>--}}
+{{--                    <x-calendar date="Oct 31" event="Obsv. Halloween"/>--}}
+{{--                    <x-calendar date="Nov 21-24" event="Thanksgiving Break"/>--}}
+{{--                    <x-calendar date="Dec 7" event="Nutcracker Rehearsals - No Class"/>--}}
+{{--                    <x-calendar date="Dec 22-Jan 5" event="Christmas Break"/>--}}
+{{--                    <x-calendar date="Jan 15" event="MLK Day - Open for Classes"/>--}}
+{{--                    <x-calendar date="Feb 12-16" event="Inter-sessional Break #2"/>--}}
+{{--                    <x-calendar date="Mar 29-Apr 7" event="Spring Break"/>--}}
+{{--                    <x-calendar date="May 27" event="Obsv. Memorial Day"/>--}}
+{{--                    <x-calendar date="June 3-6" event="Dance Recital Dress Rehearsals"/>--}}
+{{--                    <x-calendar date="June 10-13" event="Dance Recitals"/>--}}
+{{--                </table>--}}
+{{--            </div>--}}
         </div>
     </div>
 
