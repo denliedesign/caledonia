@@ -169,6 +169,9 @@ Route::get('/dance-classes-kentwood', function () {
 Route::get('/tumbling-classes-kentwood', function () {
     return view('/tumbling-classes-kentwood');
 });
+Route::get('/nutcracker-grand-rapids', function () {
+    return view('/nutcracker-grand-rapids');
+});
 
 Auth::routes();
 
