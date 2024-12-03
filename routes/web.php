@@ -166,6 +166,9 @@ Route::get('/music-lessons-kentwood', function () {
 Route::get('/dance-classes-kentwood', function () {
     return view('/dance-classes-kentwood');
 });
+Route::get('/christmas-shows-grand-rapids', function () {
+    return view('/christmas-shows-grand-rapids');
+});
 Route::get('/tumbling-classes-kentwood', function () {
     return view('/tumbling-classes-kentwood');
 });

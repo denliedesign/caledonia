@@ -98,7 +98,7 @@
         </div>
     </div>
     <div id="bottom" class="bg-dark text-white-50 text-center pt-3 font-syne">
-        © 2023 Caledonia Dance & Music Center
+        © 2024 Caledonia Dance & Music Center
     </div>
     <p id="credit" class="bg-dark text-center pb-3 m-0">
         <a class="text-decoration-none" href="/byron-center-dance"><small class="text-muted">Byron Center Dance</small></a>
@@ -108,6 +108,7 @@
         &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/grand-rapids-dance"><small class="text-muted">Grand Rapids Dance</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/christmas-events-caledonia"><small class="text-muted">Christmas Events Caledonia</small></a>
         &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/nutcracker-grand-rapids"><small class="text-muted">Nutcracker Grand Rapids</small></a>
+        &nbsp; <small class="text-muted">/</small> &nbsp; <a class="text-decoration-none" href="/christmas-shows-grand-rapids"><small class="text-muted">Christmas Shows Grand Rapids</small></a>
         <br>&nbsp;
         <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
     </p>
