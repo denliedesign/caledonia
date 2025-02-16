@@ -23,7 +23,7 @@
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
                     <div class="col my-2">
-                        <img src="/images/twirl-and-taste.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">
+{{--                        <img src="/images/twirl-and-taste.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">--}}
                     </div>
 {{--                    <div class="col my-2">--}}
 {{--                        <a target="_blank">--}}
