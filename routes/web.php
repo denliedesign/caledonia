@@ -73,9 +73,9 @@ Route::get('nutcracker', function () {
 Route::get('/fall', function () {
     return view('/fall-lava');
 });
-//Route::get('/summer', function () {
-//    return view('/summer');
-//});
+Route::get('/summer', function () {
+    return view('/summer');
+});
 
 Route::get('/dress-code', function () {
     return view('/dress-code-lava');
