@@ -721,6 +721,15 @@ body {
     background-size: cover;
 }
 
+.banner-hub-25 {
+    height: calc(100% - 1px);
+    background-image: url(/images/recital/25-recital-hub.JPG);
+    background-attachment: scroll;
+    background-position: 50% 55%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .banner-christmas {
     height: calc(100% - 1px);
     background-image: url(/images/nutcracker-christmas-caledonia.jpeg);
