@@ -18,7 +18,7 @@
             <h3 class="text-center mt-3 font-staat" style="font-size: 100px; line-height: 0.9em;">Music</h3>
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
                 <div class="col"><a "/images/music-rehearsal.pdf" target="_blank"><img src="/images/recital/music-rehearsal.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a "/images/recital-ticket-faqs.pdf" target="_blank"><img src="/images/recital/recital-ticket-faqs.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a href="/images/ticket-faq.png" target="_blank"><img src="/images/recital/recital-ticket-faqs.png" alt="" class="img-fluid"></a></div>
             </div>
 
             <div class="mt-5">
