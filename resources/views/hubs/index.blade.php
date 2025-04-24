@@ -33,7 +33,7 @@
                 <div class="col"><a href="/images/ticket-faq.png"><img src="/images/recital/recital-ticket-faqs.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/stage-ready.png"><img src="/images/recital/how-to-be-stage-ready.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/25-recital-look-book-2.pdf" target="_blank"><img src="/images/recital/recital-lookbook.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a target="_blank" href="/images/coming-soon.png"><img src="/images/recital/recital-prep-shop-link.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a target="_blank" href="https://forms.gle/azaCrfdCmDAEmCEt6"><img src="/images/recital/recital-prep-shop-link.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/recital-faq.pdf"><img src="/images/recital/recital-day-faqs.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a target="_blank" href="/images/coming-soon.png"><img src="/images/recital/recital-swag.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a target="_blank" href="https://www.youtube.com/playlist?app=desktop&list=PL6ugHv6O3tUoo8B5JUxI4yyhIMLjvnL2Q"><img src="/images/recital/how-to-do-hair-and-makeup.png" alt="" class="img-fluid"></a></div>
