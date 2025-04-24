@@ -32,7 +32,7 @@
                 <div class="col"><a href="/images/recital-4.png"><img src="/images/recital/dance-recital-4.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/ticket-faq.png"><img src="/images/recital/recital-ticket-faqs.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/stage-ready.png"><img src="/images/recital/how-to-be-stage-ready.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a href="/images/25-recital-look-book.pdf" target="_blank"><img src="/images/recital/recital-lookbook.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a href="/images/25-recital-look-book-2.pdf" target="_blank"><img src="/images/recital/recital-lookbook.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a target="_blank" href="/images/coming-soon.png"><img src="/images/recital/recital-prep-shop-link.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/recital-faq.pdf"><img src="/images/recital/recital-day-faqs.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a target="_blank" href="/images/coming-soon.png"><img src="/images/recital/recital-swag.png" alt="" class="img-fluid"></a></div>
