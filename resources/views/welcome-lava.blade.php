@@ -396,7 +396,7 @@
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-left: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="calendar"></ion-icon><br>100+</span><br> classes per week to choose from</p></div>
             </div>
         </div>
-        <div style="height: 101px;"></div>
+        <div style="height: 100px;"></div>
         <div class="custom-shape-divider-bottom-1663852805">
             <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
                 <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
@@ -407,7 +407,7 @@
     <div class="py-5">
         <div class="container">
             <div class="d-flex justify-content-center">
-                <img src="/images/grandtastic-award-2023.jpg" alt="grandtastic award 2023" class="img-fluid" style="max-height: 375px; width: auto;">
+                <img src="/images/25-best-of-grand-rapids.png" alt="grandtastic award 2025" class="img-fluid" style="max-height: 375px; width: auto;">
             </div>
             <h2 class="fw-bold text-center" style="font-size: 2.75em;">Get To Know Us!</h2>
             <div class="d-flex justify-content-center">
