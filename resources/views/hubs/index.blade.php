@@ -27,18 +27,18 @@
 
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
                 <div class="col"><a target="_blank" href="https://25664.recitalticketing.com/landing.cfm"><img src="/images/recital/recital-tickets.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a href="/images/recital-1.png"><img src="/images/recital/dance-recital-1.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a href="/images/recital-2.png"><img src="/images/recital/dance-recital-2.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a href="/images/recital-3.png"><img src="/images/recital/dance-recital-3.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a href="/images/recital-4.png"><img src="/images/recital/dance-recital-4.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a href="/images/recital-1.png"><img src="/images/recital/recital-1.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a href="/images/recital-2.png"><img src="/images/recital/recital-2.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a href="/images/recital-3.png"><img src="/images/recital/recital-3.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a href="/images/recital-4.png"><img src="/images/recital/recital-4.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/ticket-faq.png"><img src="/images/recital/recital-ticket-faqs.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/stage-ready.png"><img src="/images/recital/how-to-be-stage-ready.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a href="/images/25-recital-look-book-2.pdf" target="_blank"><img src="/images/recital/recital-lookbook.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a target="_blank" href="https://forms.gle/azaCrfdCmDAEmCEt6"><img src="/images/recital/recital-prep-shop-link.png" alt="" class="img-fluid"></a></div>
+{{--                <div class="col"><a target="_blank" href="https://forms.gle/azaCrfdCmDAEmCEt6"><img src="/images/recital/recital-prep-shop-link.png" alt="" class="img-fluid"></a></div>--}}
                 <div class="col"><a href="/images/recital-faq.pdf"><img src="/images/recital/recital-day-faqs.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a target="_blank" href="/images/coming-soon.png"><img src="/images/recital/recital-swag.png" alt="" class="img-fluid"></a></div>
+                <div class="col"><a target="_blank" href="https://forms.gle/rZ3cSepvDoByeEeH9"><img src="/images/recital/recital-swag.png" alt="" class="img-fluid"></a></div>
                 <div class="col"><a target="_blank" href="https://www.youtube.com/playlist?app=desktop&list=PL6ugHv6O3tUoo8B5JUxI4yyhIMLjvnL2Q"><img src="/images/recital/how-to-do-hair-and-makeup.png" alt="" class="img-fluid"></a></div>
-                <div class="col"><a target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcBj0dOFiDG0zCloSvVQBq2dLEvLdQV0YWOrfR2cHyOWnKPdCvD5olC3rNl9H9BWiFiISKL-Is3h7B/pubhtml?gid=0&single=true"><img src="/images/recital/picture-schedule.png" alt="" class="img-fluid"></a></div>
+{{--                <div class="col"><a target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcBj0dOFiDG0zCloSvVQBq2dLEvLdQV0YWOrfR2cHyOWnKPdCvD5olC3rNl9H9BWiFiISKL-Is3h7B/pubhtml?gid=0&single=true"><img src="/images/recital/picture-schedule.png" alt="" class="img-fluid"></a></div>--}}
                 <div class="col"><a href="/images/coming-soon.png" target="_blank"><img src="/images/recital/music-rehearsal.png" alt="" class="img-fluid"></a></div>
 {{--                <div class="col"><a href="/images/ticket-faq.png" target="_blank"><img src="/images/recital/recital-ticket-faqs.png" alt="" class="img-fluid"></a></div>--}}
 
