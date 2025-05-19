@@ -712,6 +712,15 @@ body {
     background-size: cover;
 }
 
+.banner-summer {
+    height: calc(100% - 1px);
+    background-image: url(/images/summer-25-banner.jpg);
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .banner-hub {
     height: calc(100% - 1px);
     background-image: url(/images/recital-hub.png);
