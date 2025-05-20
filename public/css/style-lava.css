@@ -714,7 +714,8 @@ body {
 
 .banner-summer {
     height: calc(100% - 1px);
-    background-image: url(/images/summer-25-banner.jpg);
+    background-image: url(/images/mermaid-banner.JPG);
+    /*background-image: url(/images/summer-25-banner.jpg);*/
     background-attachment: scroll;
     background-position: center;
     background-repeat: no-repeat;
