@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Dance Classes Grand Rapids MI | Caledonia Dance & Music Center')
 @section('description', 'Our Grand Rapids, MI dance studio offers the best dance classes for kids, including ballet, jazz, hip hop, tap, and more. Our experienced dance instructors are dedicated to helping your child develop their skills and confidence as a dancer. We provide a safe and welcoming environment for all children, and our diverse curriculum is designed to suit every age and skill level. Contact us today to learn more about our dance studio and schedule a visit for your child.')
@@ -32,14 +32,14 @@
         </div>
     </div>
 
-    <div class="py-5 text-white">
+    <div class="py-5 text-black">
         <div class="container">
             <h2 class="text-center">Experienced Dance Instructors and a Diverse Curriculum in Grand Rapids, MI</h2>
             <p class="text-center">
                 Our Grand Rapids dance studio is a place where your child can learn and grow. We have a state-of-the-art facility that is fully equipped with spacious dance studios, sprung floors to prevent injury, and top-of-the-line sound and lighting equipment. Our dance curriculum is diverse, which means that your child can learn multiple styles of dance under one roof. Additionally, we offer regular performances and recitals throughout the year so that your child can showcase their skills and hard work to family and friends.
             </p>
             <div class="d-flex justify-content-center mt-3">
-                <a href="/staff"><button class="btn btn-lg btn-kapa-pink shadow">Meet The Team</button></a>
+                <a href="/staff"><button class="btn btn-lg btn-danger shadow">Meet The Team</button></a>
             </div>
         </div>
     </div>
@@ -56,7 +56,7 @@
                     <div class="">
                         <h2>Discover the Best Dance Classes in Grand Rapids, MI for Kids</h2>
                         <div class="d-flex justify-content-center mt-3">
-                            <a href="/fall"><button class="btn btn-lg btn-kapa-orange shadow">Find Your Class</button></a>
+                            <a href="/fall"><button class="btn btn-lg btn-danger shadow">Find Your Class</button></a>
                         </div>
                     </div>
                 </div>

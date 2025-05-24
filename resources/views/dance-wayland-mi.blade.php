@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Dance Studios in Wayland MI | Caledonia Dance & Music Center')
 @section('description', 'Dance Classes in Wayland MI for All Ages. Various Styles. Join Us For Dance Lessons Wayland MI.' )
@@ -23,7 +23,7 @@
                                    <a href="/fall">toddler dance classes or dance for your preschooler</a>, we offer classes for ages 2.5 - 4 and all the way up to 18. We have ballet dance lessons in Wayland MI as well as Jazz, Hip Hop, Tap, Lyrical, Acro and more. To see a full list what we offer click on the button below!
                                </p>
                                <div class="d-flex justify-content-center">
-                                   <a href="/fall"><button class="btn btn-lg btn-kapa-orange shadow">Learn More</button></a>
+                                   <a href="/fall"><button class="btn btn-lg btn-danger shadow">Learn More</button></a>
                                </div>
                            </div>
                        </div>
@@ -44,7 +44,7 @@
                                    There is no other dance studio in Wayland MI that is as certified, trained, and dedicated to your child's well-being as our staff is here at CDMC.
                                </p>
                                <div class="d-flex justify-content-center">
-                                   <a href="/fall"><button class="btn btn-lg btn-kapa-pink shadow">Register Today</button></a>
+                                   <a href="/fall"><button class="btn btn-lg btn-danger shadow">Register Today</button></a>
                                </div>
                            </div>
                        </div>
@@ -53,11 +53,6 @@
            </div>
        </div>
    </div>
-
-
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
-    </div>
 
 
 @endsection

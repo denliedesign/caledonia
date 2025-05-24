@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Dance Hastings MI | Caledonia Dance & Music Center')
 @section('description', 'Get moving with the best dance lessons in Hastings, MI. Join our fun and energetic dance classes for kids and experience the joy of movement. Enhance your skills with our expert dance instructors at top-rated dance studios in Hastings. Start your dance journey today!')
@@ -32,7 +32,7 @@
         </div>
     </div>
 
-    <div class="py-5 text-white">
+    <div class="py-5 text-black">
         <div class="container">
             <h2 class="text-center">Dance Classes for Children in Hastings, MI</h2>
             <p class="text-center">
@@ -56,18 +56,12 @@
                             If you're looking for dance lessons for your child in Hastings, MI, look no further! Our dance studio is dedicated to providing high-quality dance education to children of all ages. Contact us today to schedule your first lesson!
                         </p>
                         <div class="d-flex justify-content-center mt-3">
-                            <a href="/fall"><button class="btn btn-lg btn-kapa-orange shadow">Find Your Class</button></a>
+                            <a href="/fall"><button class="btn btn-lg btn-danger shadow">Find Your Class</button></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-
-
-
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
     </div>
 
 

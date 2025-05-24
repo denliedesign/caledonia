@@ -6,7 +6,7 @@ dance lessons byron center  +11
 dance classes byron center  +11
 -->
 
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Dance Classes Byron Center  | Caledonia Dance & Music Center')
 @section('description', 'Dance Byron Center for All Ages. Featuring Various Styles. Join Us For Dance Lessons Byron Center.')
@@ -31,7 +31,7 @@ dance classes byron center  +11
                                         toddler dance classes or dance for your preschooler, we offer classes from 2.5 years all the way up to 18. We have ballet dance lessons in Byron Center as well as jazz, tap, hip hop, contemporary, acro, musical theater, dance team, and more. To see a full list what we offer click on the button below!
                                     </p>
                                     <div class="d-flex justify-content-center">
-                                        <a href="/fall"><button class="btn btn-lg btn-kapa-orange shadow">Learn More</button></a>
+                                        <a href="/fall"><button class="btn btn-lg btn-danger shadow">Learn More</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@ dance classes byron center  +11
                                         There is no other dance studio in Byron Center that is as certified, trained, and dedicated to your child's well-being as our staff is here at CDMC.
                                     </p>
                                     <div class="d-flex justify-content-center">
-                                        <a href="/fall"><button class="btn btn-lg btn-kapa-pink shadow">Find Your Dance Class</button></a>
+                                        <a href="/fall"><button class="btn btn-lg btn-danger shadow">Find Your Dance Class</button></a>
                                     </div>
                                 </div>
                             </div>

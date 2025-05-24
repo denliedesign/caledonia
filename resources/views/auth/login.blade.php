@@ -1,11 +1,7 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 @section('content')
 
     <div class="bg-white">
-
-        <div class="banner-wrap">
-            <div class="banner"></div>
-        </div>
 
         <div class="container py-5">
             <div class="row justify-content-center">
@@ -31,7 +27,7 @@
                                     </div>
                                 </div>
 
-                                <div class="form-group row">
+                                <div class="form-group my-3 row">
                                     <label for="password" class="col-md-4 col-form-label text-md-right">{{ __('Password') }}</label>
 
                                     <div class="col-md-6">

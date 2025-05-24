@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Dance Classes Wayland MI | Caledonia Dance & Music Center')
 @section('description', 'Join the fun at our dance studios in Wayland MI. With expert instructors, a wide range of dance classes, and a supportive environment, we offer the perfect place for kids to learn and grow in dance.')
@@ -32,14 +32,14 @@
         </div>
     </div>
 
-    <div class="py-5 text-white">
+    <div class="py-5 text-black">
         <div class="container">
             <h2 class="text-center">Expert Dance Instructors in Wayland MI</h2>
             <p class="text-center">
                 At our dance studio in Wayland MI, we understand the importance of having knowledgeable and skilled dance instructors. Our team of expert teachers is dedicated to providing a positive and encouraging experience for every student. With a focus on proper technique and personal growth, our dance lessons in Wayland MI are the ideal way for kids to learn and excel in dance.
             </p>
             <div class="d-flex justify-content-center mt-3">
-                <a href="/staff"><button class="btn btn-lg btn-kapa-pink shadow">Meet The Team</button></a>
+                <a href="/staff"><button class="btn btn-lg btn-danger shadow">Meet The Team</button></a>
             </div>
         </div>
     </div>
@@ -59,18 +59,12 @@
                             We offer a diverse range of dance classes in Wayland MI, including ballet, jazz, hip hop, lyrical, and acro. Each class is tailored to a specific age group and skill level, ensuring that every student gets the attention and instruction they need to succeed. Our dance studios in Wayland MI provide a fun and supportive atmosphere where kids can express themselves, grow, and build a lifelong love of dance.
                         </p>
                         <div class="d-flex justify-content-center mt-3">
-                            <a href="/fall"><button class="btn btn-lg btn-kapa-orange shadow">Find Your Class</button></a>
+                            <a href="/fall"><button class="btn btn-lg btn-danger shadow">Find Your Class</button></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-
-
-
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
     </div>
 
 

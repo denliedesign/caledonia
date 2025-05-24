@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Dance Studios in Hastings MI  | Caledonia Dance & Music Center')
 @section('description', 'Join Our CDMC Family For Dance Classes in Hasting MI')
@@ -23,7 +23,7 @@
                                     Whether it's Ballet, Jazz, Tap, Hip Hop, Acrobatics, or Lyrical we have a dance class for you! If you are looking for kids dance classes in Hastings MI, CDMC has options for ages 2-18 years old.
                                 </p>
                                 <div class="d-flex justify-content-center">
-                                    <a href="/fall" target="_blank"><button class="btn btn-lg btn-kapa-orange shadow">Register Now</button></a>
+                                    <a href="/fall" target="_blank"><button class="btn btn-lg btn-danger shadow">Register Now</button></a>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                     We Are So Happy To Provide A Healthy Environment & Quality Dance Classes In Hastings MI And The Surrounding Area. Become A Part Of Our Family Today!
                                 </p>
                                 <div class="d-flex justify-content-center">
-                                    <a href="/fall" target="_blank"><button class="btn btn-lg btn-kapa-pink shadow">Start Your Dance Lessons in Hastings MI today!</button></a>
+                                    <a href="/fall" target="_blank"><button class="btn btn-lg btn-danger shadow">Start Your Dance Lessons in Hastings MI today!</button></a>
                                 </div>
                             </div>
                         </div>
@@ -55,9 +55,6 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
     </div>
 
 
