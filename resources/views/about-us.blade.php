@@ -1,4 +1,6 @@
 @extends('layouts.app')
+@section('title', '')
+@section('description', '')
 @section('content')
 
     <div class="bg-white">

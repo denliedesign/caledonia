@@ -1,4 +1,6 @@
 @extends('layouts.app-lava')
+@section('title', '')
+@section('description', '')
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">

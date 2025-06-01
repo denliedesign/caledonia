@@ -1,8 +1,7 @@
 @extends('layouts.app-lava')
-
+@section('title', '')
+@section('description', '')
 @section('title', 'Spring Recital Hub | Caledonia Dance & Music Center')
-{{--@section('description', 'Keep Up To Date With The Latest News From CDMC!')--}}
-
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
