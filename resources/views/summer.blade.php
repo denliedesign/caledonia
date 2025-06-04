@@ -17,13 +17,13 @@
 {{--            <p class="lead-side text-center">--}}
 {{--                Summer 2024--}}
 {{--            </p>--}}
-            <a href="/images/2025-summer-06-01-25.pdf" target="_blank" class="nav-link text-uppercase text-center mb-3">
+            <a href="/images/summer-6-4-25.pdf" target="_blank" class="nav-link text-uppercase text-center mb-3">
                 <div class="btn btn-danger shadow">View PDF</div>
             </a>
             <div class="container">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-                    <div class="col my-2"><img src="/images/2025-summer-06-01-25-a.jpg" class="img-fluid" alt=""></div>
-                    <div class="col my-2"><img src="/images/2025-summer-06-01-25-b.jpg" class="img-fluid" alt=""></div>
+                    <div class="col my-2"><img src="/images/summer-6-4-25-a.jpg" class="img-fluid" alt=""></div>
+                    <div class="col my-2"><img src="/images/summer-6-4-25-b.jpg" class="img-fluid" alt=""></div>
 {{--                    <div class="col my-2">--}}
 {{--                        <img src="/images/twirl-and-taste.jpg" alt="summer schedule" class="img-fluid shadow rounded" style="width: 100%; height: auto;">--}}
 {{--                    </div>--}}
