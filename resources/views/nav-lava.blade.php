@@ -26,7 +26,7 @@
                     <a class="nav-link" href="/summer">Summer</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="/fall">2024-2025</a>
+                    <a class="nav-link" href="/fall">2025-2026</a>
                 </li>
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/camps">Camps</a>--}}
