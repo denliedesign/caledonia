@@ -84,7 +84,7 @@
             </div>
             <div class="offcanvas-body py-0">
                 <div class="d-flex justify-content-center">
-                    <img src="/images/race-to-registration-25.jpg" alt="little dancers sitting side by side" class="img-fluid" style="height: 175px; width: auto;">
+                    <img src="/images/register-25.png" alt="little dancers sitting side by side" class="img-fluid" style="height: 175px; width: auto;">
                 </div>
                 <div class="d-flex justify-content-center">
                     <a href="/fall"><div class="m-2 btn btn-danger fw-bold shadow">Register Now!</div></a>
