@@ -18,9 +18,15 @@
 
             <div class="container">
                 <p class="lead-side text-center">
-                    Registration opens at noon on Tuesday, June 24th. Don't miss your chance for your preferred classes, days and times. Mark your calendar!
+                    Don't miss your chance for your preferred classes, days and times. Register now!
                     {{--                            Registration opens June 25th and 28th. Check back soon!--}}
                 </p>
+                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+                    <div class="p-2"><img src="/images/25-schedule-1.png" class="img-fluid" alt=""></div>
+                    <div class="p-2"><img src="/images/25-schedule-2.png" class="img-fluid" alt=""></div>
+                    <div class="p-2"><img src="/images/25-schedule-3.png" class="img-fluid" alt=""></div>
+                    <div class="p-2"><img src="/images/25-schedule-4.png" class="img-fluid" alt=""></div>
+                </div>
 {{--                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
 {{--                    <div class="col my-2"><img src="/images/24-classes-1.jpg" alt="classes" class="img-fluid"></div>--}}
 {{--                    <div class="col my-2"><img src="/images/24-classes-2.jpg" alt="classes" class="img-fluid"></div>--}}
