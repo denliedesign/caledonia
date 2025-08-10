@@ -26,9 +26,9 @@
 
        <div class="container">
            <h2 class="text-center font-staat-side">Nutcracker Auditions 2025</h2>
-{{--           <div class="d-flex justify-content-center pb-4">--}}
-{{--               <img src="/images/nutcracker-auditions-24.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
-{{--           </div>--}}
+           <div class="d-flex justify-content-center pb-4">
+               <img src="/images/nutcracker-auditions-25.jpg" alt="nutcracker audition flyer" class="img-fluid">
+           </div>
            <p class="lead text-center">Auditions will be held on Saturday, October 4, 2025</p>
 {{--           <p class="lead text-center">Audition information coming soon.</p>--}}
            <div id="class-schedule">
