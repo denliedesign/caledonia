@@ -24,7 +24,7 @@
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                     <div class="p-2"><img src="/images/25-schedule-1.png" class="img-fluid" alt=""></div>
                     <div class="p-2"><img src="/images/25-schedule-2.png" class="img-fluid" alt=""></div>
-                    <div class="p-2"><img src="/images/25-schedule-3.png" class="img-fluid" alt=""></div>
+                    <div class="p-2"><img src="/images/25-schedule-3b.jpg" class="img-fluid" alt=""></div>
                     <div class="p-2"><img src="/images/25-schedule-4.png" class="img-fluid" alt=""></div>
                 </div>
 {{--                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
