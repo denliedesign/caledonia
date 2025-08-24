@@ -88,7 +88,7 @@
                                     <dt class="fw-normal">- Pink tights</dt>
                                     <dt class="fw-normal">- Appropriate Class Shoes</dt>
                                     <dd>-   <u>Acro:</u> Bare feet</dd>
-                                    <dd>-   <u>Hip Hop:</u> Black Pastry Hip Hop Shoes</dd>
+                                    <dd>-   <u>Hip Hop:</u> Icon Dance Sneaker</dd>
                                     <dd>-   <u>Tap:</u> Tan Ushell Tap Shoes</dd>
                                     <dd>-   <u>Ballet:</u> Pink Revolution Stretch Ballet Shoes</dd>
                                 </dl>
@@ -107,7 +107,7 @@
                                     <dt class="fw-normal">- Pink tights</dt>
                                     <dt class="fw-normal">- Appropriate Class Shoes</dt>
                                     <dd>-   <u>Acro:</u> Bare feet</dd>
-                                    <dd>-   <u>Hip Hop:</u> Black Pastry Hip Hop Shoes</dd>
+                                    <dd>-   <u>Hip Hop:</u> Icon Dance Sneaker</dd>
                                     <dd>-   <u>Tap:</u> Tan Ushell Tap Shoes</dd>
                                     <dd>-   <u>Ballet:</u> Pink Revolution Stretch Ballet Shoes</dd>
                                     <dd>-   <u>Jazz/Lyrical:</u> Tan Bloch Super Jazz Shoes</dd>
@@ -117,7 +117,7 @@
                     </div>
                     <div class="row font-syne-side">
                         <div class="col-sm d-flex justify-content-end">
-                            <img src="/images/uniform-4.png" alt="" class="img-fluid" style="max-height: 500px;">
+                            <img src="/images/apparel-4th-grade-plus.png" alt="" class="img-fluid" style="max-height: 500px;">
                         </div>
                         <div class="col-sm d-flex align-items-center">
                             <div>
@@ -127,7 +127,7 @@
                                     <dt class="fw-normal">- Pink tights</dt>
                                     <dt class="fw-normal">- Appropriate Class Shoes</dt>
                                     <dd>-   <u>Acro:</u> Bare feet</dd>
-                                    <dd>-   <u>Hip Hop:</u> Black Pastry Hip Hop Shoes</dd>
+                                    <dd>-   <u>Hip Hop:</u> Icon Dance Sneaker</dd>
                                     <dd>-   <u>Tap:</u> Black Capezio Tap Shoes</dd>
                                     <dd>-   <u>Ballet:</u> Pink Revolution Stretch Ballet Shoes</dd>
                                     <dd>-   <u>Jazz/Lyrical:</u> Tan Bloch Super Jazz Shoes</dd>
@@ -147,7 +147,7 @@
                                     <dt class="fw-normal">- Black joggers</dt>
                                     <dt class="fw-normal">- Appropriate Class Shoes</dt>
                                     <dd>-   <u>Acro:</u> Bare feet</dd>
-                                    <dd>-   <u>Hip Hop:</u> Black Pastry Hip Hop Shoes</dd>
+                                    <dd>-   <u>Hip Hop:</u> Icon Dance Sneaker</dd>
                                     <dd>-   <u>Ballet:</u> White Revolution Stretch Ballet Shoes</dd>
                                     <dd>-   <u>Jazz:</u> Black Bloch Super Jazz Shoes</dd>
                                     <dd>-   <u>Tap:</u></dd>

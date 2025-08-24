@@ -174,16 +174,16 @@
                         <span class="txt-yellow" style="font-size: 1.1em;">Admin Team</span><br>
                     </p>
                 </div>
-{{--                <div class="col-sm mt-3 text-white" style="height: 100%;">--}}
-{{--                    <div style="position: relative;">--}}
-{{--                        <img src="/images/miles.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">--}}
-{{--                        <div id="triangle-bottomleft-staff"></div>--}}
-{{--                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Miles<br>Sonza</div>--}}
-{{--                    </div>--}}
-{{--                    <p class="font-syne">--}}
-{{--                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>--}}
-{{--                    </p>--}}
-{{--                </div>--}}
+                <div class="col-sm mt-3 text-white" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miles.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Miles<br>Sonza</div>
+                    </div>
+                    <p class="font-syne">
+                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>
+                    </p>
+                </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images/staff-ian.jpeg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
@@ -196,7 +196,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-tanya.png" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff-new-tanya-crop.png" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Tanya Freund</div>
                     </div>
@@ -216,7 +216,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-nalana.png" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff-new-nalana.png" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Nalana LaFramboise</div>
                     </div>
