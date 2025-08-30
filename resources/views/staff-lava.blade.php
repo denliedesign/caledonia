@@ -46,7 +46,7 @@
 
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/aimee.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/aimee.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Aimee<br>Grinnell</div>
                     </div>
@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/alli.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/alli.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Alli<br>Tucker</div>
                     </div>
@@ -66,7 +66,7 @@
                 </div>
 {{--                <div class="col-sm mt-3 text-white" style="height: 100%;">--}}
 {{--                    <div style="position: relative;">--}}
-{{--                        <img src="/images/staff/christina.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">--}}
+{{--                        <img src="/images/staff/christina.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: : cover; height: 382.50px;">--}}
 {{--                        <div id="triangle-bottomleft-staff"></div>--}}
 {{--                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Christina<br>Price</div>--}}
 {{--                    </div>--}}
@@ -76,7 +76,7 @@
 {{--                </div>--}}
 {{--                <div class="col-sm mt-3 text-white" style="height: 100%;">--}}
 {{--                    <div style="position: relative;">--}}
-{{--                        <img src="/images/staff-christina.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">--}}
+{{--                        <img src="/images/staff-christina.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: : cover; height: 382.50px;">--}}
 {{--                        <div id="triangle-bottomleft-staff"></div>--}}
 {{--                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Christina<br>White</div>--}}
 {{--                    </div>--}}
@@ -86,7 +86,7 @@
 {{--                </div>--}}
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/heidi.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/heidi.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Heidi<br>LaFranboise</div>
                     </div>
@@ -96,7 +96,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-jean.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/staff-jean.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Jean<br>Maxa</div>
                     </div>
@@ -106,7 +106,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/lindsey.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/lindsey.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Lindsey<br>Wilson</div>
                     </div>
@@ -116,7 +116,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/melissa.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/melissa.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Melissa<br>Giegling</div>
                     </div>
@@ -126,7 +126,7 @@
                 </div>
 {{--                <div class="col-sm mt-3 text-white" style="height: 100%;">--}}
 {{--                    <div style="position: relative;">--}}
-{{--                        <img src="/images/staff-molly.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">--}}
+{{--                        <img src="/images/staff-molly.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: : cover; height: 382.50px;">--}}
 {{--                        <div id="triangle-bottomleft-staff"></div>--}}
 {{--                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Molly<br>Hisey</div>--}}
 {{--                    </div>--}}
@@ -136,7 +136,7 @@
 {{--                </div>--}}
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/monique.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/monique.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Monique<br>Rodriguez</div>
                     </div>
@@ -146,7 +146,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/olivia.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/olivia.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Olivia<br>Sharkey</div>
                     </div>
@@ -156,7 +156,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/paige.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/paige.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Paige<br>Redner</div>
                     </div>
@@ -166,7 +166,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff/victoria.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/victoria.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Victoria<br>Sonza</div>
                     </div>
@@ -176,7 +176,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/miles.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/miles.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Miles<br>Sonza</div>
                     </div>
@@ -186,7 +186,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-ian.jpeg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/staff-ian-crop.jpeg" alt="staff member" class="img-fluid" style="height: 382.50px; width: 255px; object-fit: cover;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Ian Sonza</div>
                     </div>
@@ -196,7 +196,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-new-tanya-crop.png" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/staff-new-tanya-crop.png" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Tanya Freund</div>
                     </div>
@@ -206,7 +206,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-demi.jpeg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/staff-demi.jpeg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Demi<br>Sonza</div>
                     </div>
@@ -216,7 +216,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-new-nalana.png" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/staff-new-nalana.png" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Nalana LaFramboise</div>
                     </div>
@@ -226,7 +226,7 @@
                 </div>
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-chandra.jpeg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
+                        <img src="/images/staff/staff-chandra.jpeg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Chandra Criffield</div>
                     </div>
