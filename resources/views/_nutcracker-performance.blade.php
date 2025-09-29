@@ -13,10 +13,11 @@
     </p>
     {{--            <p class="text-center mb-1"><small>Tickets go on sale Saturday, October 26th at Noon</small></p>--}}
     <div class="d-flex justify-content-center mb-5">
-        <a href="https://25664.recitalticketing.com/landing.cfm?loc=4" target="_blank"><div class="btn btn-lg btn-danger fw-bold shadow">Get Tickets Now</div></a>
+{{--        <a href="https://25664.recitalticketing.com/landing.cfm?loc=4" target="_blank"><div class="btn btn-lg btn-danger fw-bold shadow">Get Tickets Now</div></a>--}}
+        <a disabled=""><div class="btn btn-lg btn-secondary fw-bold shadow">Tickets will go on sale on Saturday, October 4</div></a>
     </div>
     <div class="d-flex justify-content-center">
-        <img src="/images/caledonia-christmas-events.jpg" alt="nutcracker performance flyer" class="img-fluid">
+{{--        <img src="/images/caledonia-christmas-events.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
         {{--                    <img src="/images/nutcracker-caledonia-2023.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
         {{--        <img src="/images/ballerinas-in-training.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
     </div>

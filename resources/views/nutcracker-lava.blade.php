@@ -11,14 +11,14 @@
         </div>
     </div>
 
-{{--    <div>--}}
-{{--        @include('_nutcracker-performance')--}}
-{{--    </div>--}}
-
-
-    <div class="bg-white">
-        @include('_nutcracker-audition')
+    <div>
+        @include('_nutcracker-performance')
     </div>
+
+
+{{--    <div class="bg-white">--}}
+{{--        @include('_nutcracker-audition')--}}
+{{--    </div>--}}
 
     <style>
         .jr-reg-col a {
