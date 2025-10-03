@@ -64,7 +64,7 @@
                     <img src="/images/nutcracker-grand-rapids.jpg" alt="ballerinas in training logo" class="img-fluid" style="height: 175px; width: auto;">
                 </div>
                 <div class="d-flex justify-content-center">
-                    <a href="/nutcracker"><div class="m-2 btn btn-danger fw-bold shadow">Learn More</div></a>
+                    <a href="/nutcracker"><div class="m-2 btn btn-danger fw-bold shadow">Get Tickets Now</div></a>
 {{--                    <a href="https://25664.recitalticketing.com/landing.cfm?loc=4" target="_blank"><div class="m-2 btn btn-danger fw-bold shadow">Get Tickets Now</div></a>--}}
                 </div>
             </div>
