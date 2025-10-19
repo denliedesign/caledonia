@@ -18,7 +18,7 @@
     </div>
     <div class="text-muted text-center  mb-5"><small>Ticket sales will begin on October 4, at 12:00 PM (ET)</small></div>
     <div class="d-flex justify-content-center">
-        <img src="/images/nutcracker-grand-rapids-2025.jpg" class="img-fluid" alt="">
+        <img src="/images/nutcracker-grand-rapids-2025-b.jpg" class="img-fluid" alt="">
 {{--        <img src="/images/caledonia-christmas-events.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
         {{--                    <img src="/images/nutcracker-caledonia-2023.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
         {{--        <img src="/images/ballerinas-in-training.jpg" alt="nutcracker performance flyer" class="img-fluid">--}}
