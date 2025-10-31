@@ -22,14 +22,14 @@
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/staff">Staff</a>
                 </li>
-                <li class="nav-item mx-2 position-relative">
-                    <a class="nav-link" href="/camps">
-                        Sugar Plum Camp
-                        <span class="position-absolute top-0 end-0 translate-middle badge rounded-pill text-dark" style="font-size: 0.6rem; background: #C1D62D;">
-      New
-    </span>
-                    </a>
-                </li>
+{{--                <li class="nav-item mx-2 position-relative">--}}
+{{--                    <a class="nav-link" href="/camps">--}}
+{{--                        Sugar Plum Camp--}}
+{{--                        <span class="position-absolute top-0 end-0 translate-middle badge rounded-pill text-dark" style="font-size: 0.6rem; background: #C1D62D;">--}}
+{{--      New--}}
+{{--    </span>--}}
+{{--                    </a>--}}
+{{--                </li>--}}
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/summer">Summer</a>--}}
 {{--                </li>--}}
