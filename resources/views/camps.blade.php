@@ -15,7 +15,7 @@
             <h2 class="text-center font-staat-side">Camps</h2>
             <div class="d-flex justify-content-center py-4">
 {{--                <a href="/images/23-mini-camps-b.pdf" target="_blank">--}}
-                    <img src="/images/camps.jpeg" alt="mini camp pics" class="img-fluid">
+                    <img src="/images/sugar-plum-camp.png" alt="mini camp pics" class="img-fluid">
 {{--                </a>--}}
             </div>
             <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Camps&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
