@@ -140,3 +140,17 @@
 {{--        </div>--}}
 {{--    </div>--}}
 {{--</div>--}}
+
+<style>
+    /*th[data-title="Gender"],*/
+    /*td[data-title="Gender"],*/
+    th[data-title="Ages"],
+    td[data-title="Ages"],
+    th[data-title="Openings"],
+    td[data-title="Openings"]
+    /*th[data-title="Session"],*/
+    /*td[data-title="Session"] */
+    {
+        display: none;
+    }
+</style>
