@@ -17,9 +17,9 @@
 {{--        <a disabled=""><div class="btn btn-lg btn-secondary fw-bold shadow">Tickets will go on sale on Saturday, October 4</div></a>--}}
     </div>
 
-    <div class="d-flex justify-content-center mb-5">
-        <img src="/images/sugar-plum.jpg" class="img-fluid" alt="">
-    </div>
+{{--    <div class="d-flex justify-content-center mb-5">--}}
+{{--        <img src="/images/sugar-plum.jpg" class="img-fluid" alt="">--}}
+{{--    </div>--}}
 
 {{--    <div class="text-muted text-center  mb-5"><small>Ticket sales will begin on October 4, at 12:00 PM (ET)</small></div>--}}
         <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
