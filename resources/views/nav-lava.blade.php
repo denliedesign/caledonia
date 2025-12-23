@@ -45,11 +45,11 @@
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/hubs">Recital</a>--}}
 {{--                </li>--}}
-                <li class="nav-item mx-2">
-                    <a class="nav-link" href="/nutcracker">Nutcracker
+{{--                <li class="nav-item mx-2">--}}
+{{--                    <a class="nav-link" href="/nutcracker">Nutcracker--}}
 {{--                                    <br><span class="text-muted" style="font-size: 0.65em;">TICKETS AVAILABLE</span>--}}
-                    </a>
-                </li>
+{{--                    </a>--}}
+{{--                </li>--}}
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/calendar">Calendar</a>
                 </li>
