@@ -58,9 +58,12 @@ Route::get('info', function () {
 Route::get('staff', function () {
     return view('staff-lava');
 });
-//Route::get('recital', function () {
-//    return view('recital');
-//});
+Route::get('recital', function () {
+    return redirect()->away('https://app.enrollio.ai/v2/preview/2ponrCa2IxOwZpl34kZo?notrack=true');
+});
+Route::get('hubs', function () {
+    return redirect()->away('https://app.enrollio.ai/v2/preview/2ponrCa2IxOwZpl34kZo?notrack=true');
+});
 //Route::post('recital', function () {
 //    return view('recital');
 //});
@@ -83,12 +86,12 @@ Route::get('/dress-code', function () {
 Route::get('/privacy-policy', function () {
     return view('/privacy-policy');
 });
-Route::get('/hubs/music', function () {
-    return view('/hubs/music');
-});
-Route::get('/hubs/dance', function () {
-    return view('/hubs/dance');
-});
+//Route::get('/hubs/music', function () {
+//    return view('/hubs/music');
+//});
+//Route::get('/hubs/dance', function () {
+//    return view('/hubs/dance');
+//});
 //Route::get('/sou-welcome', function () {
 //    return view('/sou-welcome');
 //});
@@ -183,7 +186,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('updates', 'UpdateController');
 Route::resource('posts', 'PostController');
 Route::resource('texts', 'TextController');
-Route::resource('hubs', 'HubController');
+//Route::resource('hubs', 'HubController');
 
 Route::get('contact', 'ContactUsController@create')->name('contact.create');
 Route::post('contact', 'ContactUsController@store')->name('contact.store');

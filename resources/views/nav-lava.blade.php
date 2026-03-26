@@ -42,9 +42,9 @@
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/summer">Promos</a>--}}
 {{--                </li>--}}
-{{--                <li class="nav-item mx-2">--}}
-{{--                    <a class="nav-link" href="/hubs">Recital</a>--}}
-{{--                </li>--}}
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="https://app.enrollio.ai/v2/preview/2ponrCa2IxOwZpl34kZo?notrack=true" target="_blank">Recital</a>
+                </li>
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/nutcracker">Nutcracker--}}
 {{--                                    <br><span class="text-muted" style="font-size: 0.65em;">TICKETS AVAILABLE</span>--}}
