@@ -12,12 +12,36 @@
 
     <div class="bg-white">
         <div class="py-5" id="class-schedule">
-            <h2 class="text-center text-uppercase font-staat-side">COMING APRIL 1, 2026</h2>
-            <p class="text-center" style="font-size: 1.25em;">SPLASH INTO SUMMER AT</p>
-            <div class="d-flex justify-content-center">
-                <img src="/images/cdmc-logo.png" class="img-fluid" style="max-width: 257px;" alt="logo">
+            <h2 class="text-center text-uppercase font-staat-side">Summer 2026</h2>
+
+            <div class="container">
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Summer&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
+                {{--                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Camps&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>--}}
+                <div>
+                    <p class="text-center py-0 my-0">Dance Classes Caledonia MI, Dance Classes Grand Rapids, Dance Classes Hastings MI, Dance Classes Wayland MI, Dance Classes Kentwood MI, Dance Classes Byron Center</p>
+                </div>
             </div>
         </div>
     </div>
+
+    <style>
+        .jr-reg-col a {
+            background: #3d1951;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+    </style>
+
+{{--    <div class="bg-white">--}}
+{{--        <div class="py-5" id="class-schedule">--}}
+{{--            <h2 class="text-center text-uppercase font-staat-side">COMING APRIL 1, 2026</h2>--}}
+{{--            <p class="text-center" style="font-size: 1.25em;">SPLASH INTO SUMMER AT</p>--}}
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <img src="/images/cdmc-logo.png" class="img-fluid" style="max-width: 257px;" alt="logo">--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 @endsection
