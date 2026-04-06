@@ -25,11 +25,11 @@
 
 
        <div class="container">
-           <h2 class="text-center font-staat-side">Nutcracker Auditions 2025</h2>
-           <div class="d-flex justify-content-center pb-4">
-               <img src="/images/nutcracker-auditions-25.jpg" alt="nutcracker audition flyer" class="img-fluid">
-           </div>
-           <p class="lead text-center">Auditions will be held on Saturday, October 4, 2025</p>
+           <h2 class="text-center font-staat-side">Nutcracker Auditions 2026</h2>
+{{--           <div class="d-flex justify-content-center pb-4">--}}
+{{--               <img src="/images/nutcracker-auditions-25.jpg" alt="nutcracker audition flyer" class="img-fluid">--}}
+{{--           </div>--}}
+           <p class="lead text-center">Nutcracker 2026 auditions are at Caledonia Dance & Music Center on Saturday, September 19. Open to the community. Bring a fellow dance friend! Children should have at least two years of dance experience.</p>
 {{--           <p class="lead text-center">Audition information coming soon.</p>--}}
            <div id="class-schedule">
                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>

@@ -34,7 +34,7 @@
                     <a class="nav-link" href="/summer">Summer</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="/fall">2025-2026</a>
+                    <a class="nav-link" href="/fall">2026-2027</a>
                 </li>
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/camps">Camps</a>--}}
@@ -45,11 +45,11 @@
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="https://app.enrollio.ai/v2/preview/2ponrCa2IxOwZpl34kZo?notrack=true" target="_blank">Recital</a>
                 </li>
-{{--                <li class="nav-item mx-2">--}}
-{{--                    <a class="nav-link" href="/nutcracker">Nutcracker--}}
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="/nutcracker">Nutcracker
 {{--                                    <br><span class="text-muted" style="font-size: 0.65em;">TICKETS AVAILABLE</span>--}}
-{{--                    </a>--}}
-{{--                </li>--}}
+                    </a>
+                </li>
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/calendar">Calendar</a>
                 </li>

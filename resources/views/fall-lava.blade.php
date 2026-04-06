@@ -14,19 +14,20 @@
 
     <div class="bg-white">
         <div class="py-5" id="class-schedule">
-            <h2 class="text-center text-uppercase font-staat-side">Fall 2025-2026</h2>
+            <h2 class="text-center text-uppercase font-staat-side">Fall 2026-2027</h2>
 
             <div class="container">
                 <p class="lead-side text-center">
-                    Don't miss your chance for your preferred classes, days and times. Register now!
+                    VIP Registration will begin at 12:00pm on June 19.  Registration for 2026-2027 season will open to the public on June 25 at 12:00pm.
+                    {{--                    Don't miss your chance for your preferred classes, days and times. Register now!--}}
                     {{--                            Registration opens June 25th and 28th. Check back soon!--}}
                 </p>
-                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                    <div class="p-2"><img src="/images/25-schedule-1.png" class="img-fluid" alt=""></div>
-                    <div class="p-2"><img src="/images/25-schedule-2.png" class="img-fluid" alt=""></div>
-                    <div class="p-2"><img src="/images/25-schedule-3b.jpg" class="img-fluid" alt=""></div>
-                    <div class="p-2"><img src="/images/25-schedule-4c.png" class="img-fluid" alt=""></div>
-                </div>
+{{--                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
+{{--                    <div class="p-2"><img src="/images/25-schedule-1.png" class="img-fluid" alt=""></div>--}}
+{{--                    <div class="p-2"><img src="/images/25-schedule-2.png" class="img-fluid" alt=""></div>--}}
+{{--                    <div class="p-2"><img src="/images/25-schedule-3b.jpg" class="img-fluid" alt=""></div>--}}
+{{--                    <div class="p-2"><img src="/images/25-schedule-4c.png" class="img-fluid" alt=""></div>--}}
+{{--                </div>--}}
 {{--                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
 {{--                    <div class="col my-2"><img src="/images/24-classes-1.jpg" alt="classes" class="img-fluid"></div>--}}
 {{--                    <div class="col my-2"><img src="/images/24-classes-2.jpg" alt="classes" class="img-fluid"></div>--}}
@@ -36,7 +37,7 @@
 {{--                <div>--}}
 {{--                    <img src="/images/adult-24-25.png" alt="adult classes" class="img-fluid">--}}
 {{--                </div>--}}
-                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2025-2026&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
+{{--                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2025-2026&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>--}}
             </div>
         </div>
     </div>
