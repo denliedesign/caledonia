@@ -16,12 +16,12 @@
             <div class="container">
                 <div>
                     <div class="d-flex justify-content-center my-5">
-                        <a href="/images/26-summer.pdf" target="_blank">
+                        <a href="/images/5-7-26-summer.pdf" target="_blank">
                             <div class="btn btn-danger shadow">Download PDF</div>
                         </a>
                     </div>
-                    <div><img src="/images/26-summer-1.jpg" class="img-fluid" alt="summer graphic"></div>
-                    <div><img src="/images/26-summer-2.jpg" class="img-fluid" alt="summer graphic"></div>
+                    <div><img src="/images/5-7-26-summer.jpg" class="img-fluid" alt="summer graphic"></div>
+                    <div><img src="/images/5-7-26-summer-2.jpg" class="img-fluid" alt="summer graphic"></div>
                 </div>
                 <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Summer&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
                 {{--                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Camps&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>--}}
