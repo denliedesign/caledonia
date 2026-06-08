@@ -20,7 +20,7 @@
 {{--                            <div class="btn btn-danger shadow">Download PDF</div>--}}
 {{--                        </a>--}}
 {{--                    </div>--}}
-                    <div><img src="/images/summer-6-1-26.jpg" class="img-fluid" alt="summer graphic"></div>
+                    <div><img src="/images/6-8-26-summer-1.jpg" class="img-fluid" alt="summer graphic"></div>
                     <div><img src="/images/5-7-26-summer-2.jpg" class="img-fluid" alt="summer graphic"></div>
                 </div>
                 <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Summer&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
