@@ -42,25 +42,25 @@
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/summer">Promos</a>--}}
 {{--                </li>--}}
-                <li class="nav-item dropdown mx-2">
-                    <a class="nav-link dropdown-toggle" href="#" id="recitalDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Recital
-                    </a>
+{{--                <li class="nav-item dropdown mx-2">--}}
+{{--                    <a class="nav-link dropdown-toggle" href="#" id="recitalDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">--}}
+{{--                        Recital--}}
+{{--                    </a>--}}
 
-                    <ul class="dropdown-menu" aria-labelledby="recitalDropdown">
-                        <li>
-                            <a class="dropdown-item" href="/recital" target="_blank">
-                                Recital Info
-                            </a>
-                        </li>
+{{--                    <ul class="dropdown-menu" aria-labelledby="recitalDropdown">--}}
+{{--                        <li>--}}
+{{--                            <a class="dropdown-item" href="/recital" target="_blank">--}}
+{{--                                Recital Info--}}
+{{--                            </a>--}}
+{{--                        </li>--}}
 
-                        <li>
-                            <a class="dropdown-item" href="https://25664.recitalticketing.com/landing.cfm" target="_blank" rel="noopener">
-                                Recital Tickets
-                            </a>
-                        </li>
-                    </ul>
-                </li>
+{{--                        <li>--}}
+{{--                            <a class="dropdown-item" href="https://25664.recitalticketing.com/landing.cfm" target="_blank" rel="noopener">--}}
+{{--                                Recital Tickets--}}
+{{--                            </a>--}}
+{{--                        </li>--}}
+{{--                    </ul>--}}
+{{--                </li>--}}
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/nutcracker">Nutcracker
 {{--                                    <br><span class="text-muted" style="font-size: 0.65em;">TICKETS AVAILABLE</span>--}}
