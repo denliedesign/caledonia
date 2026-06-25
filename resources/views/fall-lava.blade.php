@@ -37,7 +37,7 @@
 {{--                <div>--}}
 {{--                    <img src="/images/adult-24-25.png" alt="adult classes" class="img-fluid">--}}
 {{--                </div>--}}
-{{--                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2025-2026&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>--}}
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=2026-2027&hidecols=Gender,Ages,Session,Openings&sort=Class"></script>
             </div>
         </div>
     </div>
