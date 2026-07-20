@@ -162,7 +162,7 @@
 {{--                </div>--}}
 
             <div>
-                <img src="/images/uniform-26.jpg" class="img-fluid" alt="different dancers in uniform">
+                <img src="/images/uniform-26.png" class="img-fluid" alt="different dancers in uniform">
             </div>
             </div>
         </div>
