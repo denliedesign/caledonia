@@ -2,7 +2,7 @@
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
-        <div class="banner-staff"></div>
+        <div class="banner-staff-26"></div>
         <div class="custom-shape-divider-bottom-1663856745">
             <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
                 <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
@@ -54,16 +54,16 @@
                         <span class="txt-yellow" style="font-size: 1.1em;">Admin Team & Dance Instructor</span><br>
                     </p>
                 </div>
-                <div class="col-sm mt-3 text-white" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images/staff/alli.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Alli<br>Tucker</div>
-                    </div>
-                    <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>
-                    </p>
-                </div>
+{{--                <div class="col-sm mt-3 text-white" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images/staff/alli.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Alli<br>Tucker</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="font-syne">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>--}}
+{{--                    </p>--}}
+{{--                </div>--}}
 {{--                <div class="col-sm mt-3 text-white" style="height: 100%;">--}}
 {{--                    <div style="position: relative;">--}}
 {{--                        <img src="/images/staff/christina.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: : cover; height: 382.50px;">--}}
@@ -144,16 +144,16 @@
                         <span class="txt-yellow" style="font-size: 1.1em;">Director</span><br>
                     </p>
                 </div>
-                <div class="col-sm mt-3 text-white" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images/staff/olivia.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Olivia<br>Sharkey</div>
-                    </div>
-                    <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>
-                    </p>
-                </div>
+{{--                <div class="col-sm mt-3 text-white" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images/staff/olivia.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Olivia<br>Sharkey</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="font-syne">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.1em;">Dance Instructor</span><br>--}}
+{{--                    </p>--}}
+{{--                </div>--}}
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images/staff/paige.jpg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
@@ -194,16 +194,16 @@
                         <span class="txt-yellow" style="font-size: 1.1em;">Music Instructor</span><br>
                     </p>
                 </div>
-                <div class="col-sm mt-3 text-white" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images/staff/staff-new-tanya-crop.png" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Tanya Freund</div>
-                    </div>
-                    <p class="font-syne">
-                        <span class="txt-yellow" style="font-size: 1.1em;">Music Instructor</span><br>
-                    </p>
-                </div>
+{{--                <div class="col-sm mt-3 text-white" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images/staff/staff-new-tanya-crop.png" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 0;">Tanya Freund</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="font-syne">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.1em;">Music Instructor</span><br>--}}
+{{--                    </p>--}}
+{{--                </div>--}}
                 <div class="col-sm mt-3 text-white" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images/staff/staff-demi.jpeg" alt="staff member" class="img-fluid" style="width: 255px; object-fit: cover; height: 382.50px;">
