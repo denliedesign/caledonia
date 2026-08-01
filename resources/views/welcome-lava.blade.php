@@ -25,23 +25,21 @@
 {{--        </div>--}}
 
     <div>
-        <div style="background: white; width: 300px; height: 300px; top: 0px;" id="side-trial" class="offcanvas offcanvas-end show shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
-            <div class="offcanvas-header p-0 mt-2" style="position: relative;">
-                <div class="d-flex justify-content-center" style="width: 100%;">
-                    <h2 class="text-center font-staat-side" style="font-size: 1.5em;">Summer 2026</h2>
+        <div id="side-trial" class="season-popup offcanvas offcanvas-end show shadow-lg" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" aria-labelledby="summerPopupLabel">
+            <div class="offcanvas-header season-popup-header">
+                <div>
+                    <p class="season-popup-kicker">Now enrolling</p>
+                    <h2 class="season-popup-title font-staat-side" id="summerPopupLabel">Summer 2026</h2>
                 </div>
-                <div style="position: absolute; top: 10px; right: 0; z-index: 4;">
-                    <button class="mx-2" type="button" data-bs-dismiss="offcanvas" aria-label="Close" style="background: transparent; border: none;">
-                        <ion-icon name="close-outline" style="color: black; font-size: 2em;"></ion-icon>
-                    </button>
-                </div>
+                <button class="season-popup-close" type="button" data-bs-dismiss="offcanvas" aria-label="Close Summer 2026 popup">&times;</button>
             </div>
-            <div class="offcanvas-body py-0">
-                <div class="d-flex justify-content-center">
-                    <img src="/images/about-3.jpg" alt="ballerinas in training logo" class="img-fluid" style="height: 175px; width: auto;">
+            <div class="offcanvas-body season-popup-body">
+                <div class="season-popup-image-wrap">
+                    <img src="/images/about-3.jpg" alt="young dancers in class" class="season-popup-image">
                 </div>
-                <div class="d-flex justify-content-center">
-                    <a href="/summer"><div class="m-2 btn btn-danger fw-bold shadow">Register Now!</div></a>
+                <p class="season-popup-copy">Short-session dance and music classes are a bright way to keep kids moving, learning, and smiling.</p>
+                <div class="season-popup-actions">
+                    <a href="/summer" class="btn btn-danger fw-bold shadow-sm season-popup-button">View Summer Classes</a>
                 </div>
             </div>
         </div>
@@ -72,23 +70,21 @@
 {{--    </div>--}}
 
     <div>
-        <div style="background: white; width: 300px; height: 300px; top: 300px;" id="side-recital" class="offcanvas offcanvas-end show shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
-            <div class="offcanvas-header p-0 mt-2" style="position: relative;">
-                <div class="d-flex justify-content-center" style="width: 100%;">
-                    <h2 class="text-center font-staat-side" style="font-size: 1.5em;">Fall 2026</h2>
+        <div id="side-recital" class="season-popup season-popup-fall offcanvas offcanvas-end show shadow-lg" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" aria-labelledby="fallPopupLabel">
+            <div class="offcanvas-header season-popup-header">
+                <div>
+                    <p class="season-popup-kicker">Classes are open</p>
+                    <h2 class="season-popup-title font-staat-side" id="fallPopupLabel">Fall 2026</h2>
                 </div>
-                <div style="position: absolute; top: 10px; right: 0; z-index: 4;">
-                    <button class="mx-2" type="button" data-bs-dismiss="offcanvas" aria-label="Close" style="background: transparent; border: none;">
-                        <ion-icon name="close-outline" style="color: black; font-size: 2em;"></ion-icon>
-                    </button>
-                </div>
+                <button class="season-popup-close" type="button" data-bs-dismiss="offcanvas" aria-label="Close Fall 2026 popup">&times;</button>
             </div>
-            <div class="offcanvas-body py-0">
-                <div class="d-flex justify-content-center">
-                    <img src="/images/register-25.png" alt="little dancers sitting side by side" class="img-fluid" style="height: 175px; width: auto;">
+            <div class="offcanvas-body season-popup-body">
+                <div class="season-popup-image-wrap">
+                    <img src="/images/register-25.png" alt="little dancers sitting side by side" class="season-popup-image">
                 </div>
-                <div class="d-flex justify-content-center">
-                    <a href="/fall"><div class="m-2 btn btn-danger fw-bold shadow">Register Now!</div></a>
+                <p class="season-popup-copy">Find the right class for your dancer and save a spot before the season fills.</p>
+                <div class="season-popup-actions">
+                    <a href="/fall" class="btn btn-danger fw-bold shadow-sm season-popup-button">Find Fall Classes</a>
                 </div>
             </div>
         </div>
@@ -193,6 +189,9 @@
             <p class="text-white font-syne" style="font-size: 22px;">
                 From your child’s first class to their graduation performance, your child will thrive! At CDMC dance classes are More Than Just Great Dancing! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
             </p>
+            <div class="mx-auto mt-4" style="max-width: 760px;">
+                @include('enrollio.lead-capture-form')
+            </div>
             {{--        <div class="mt-5">--}}
             {{--            <div class="">--}}
             {{--                <div class="text-white">--}}

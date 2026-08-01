@@ -3,17 +3,149 @@
 /*}*/
 
 #side-trial {
-    border-radius: 5px 0 0 5px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    top: 16px;
 }
 
 #side-recital {
-    border-radius: 5px 0 0 5px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    top: 430px;
+}
+
+.season-popup {
+    width: min(330px, calc(100vw - 24px)) !important;
+    height: auto !important;
+    max-height: calc(100vh - 32px);
+    background: #ffffff;
+    border: 0;
+    border-radius: 8px 0 0 8px;
+    overflow: hidden;
+}
+
+.season-popup-header {
+    align-items: flex-start;
+    background: #4A245F;
+    color: #ffffff;
+    gap: 16px;
+    padding: 14px 16px 12px;
+}
+
+.season-popup-fall .season-popup-header {
+    background: #30393e;
+}
+
+.season-popup-kicker {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    line-height: 1;
+    margin: 0 0 4px;
+    text-transform: uppercase;
+}
+
+.season-popup-title {
+    font-size: 1.85rem !important;
+    line-height: 0.95;
+    margin: 0;
+}
+
+.season-popup-close {
+    align-items: center;
+    background: rgba(255, 255, 255, 0.16);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: 999px;
+    color: #ffffff;
+    display: flex;
+    flex: 0 0 36px;
+    font-size: 1.5rem;
+    height: 36px;
+    justify-content: center;
+    line-height: 1;
+    padding: 0;
+    transition: background 0.2s ease, transform 0.2s ease;
+    width: 36px;
+}
+
+.season-popup-close:hover,
+.season-popup-close:focus {
+    background: rgba(255, 255, 255, 0.28);
+    transform: scale(1.04);
+}
+
+.season-popup-body {
+    padding: 14px 16px 16px;
+}
+
+.season-popup-image-wrap {
+    aspect-ratio: 16 / 10;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.season-popup-image {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+
+.season-popup-copy {
+    color: #30393e;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.92rem;
+    line-height: 1.35;
+    margin: 12px 0;
+}
+
+.season-popup-actions {
+    display: flex;
+}
+
+.season-popup-button {
+    border-radius: 6px;
+    padding: 0.6rem 0.85rem;
+    width: 100%;
+}
+
+@media (max-width: 991.98px) {
+    #side-trial,
+    #side-recital {
+        top: auto;
+    }
+
+    #side-trial {
+        bottom: 12px;
+    }
+
+    #side-recital {
+        bottom: 272px;
+    }
+
+    .season-popup {
+        width: min(300px, calc(100vw - 16px)) !important;
+        max-height: 248px;
+    }
+
+    .season-popup-header {
+        padding: 10px 12px;
+    }
+
+    .season-popup-title {
+        font-size: 1.45rem !important;
+    }
+
+    .season-popup-body {
+        padding: 10px 12px 12px;
+    }
+
+    .season-popup-image-wrap {
+        display: none;
+    }
+
+    .season-popup-copy {
+        font-size: 0.84rem;
+        margin: 8px 0 10px;
+    }
 }
 
 #summer-stick {
