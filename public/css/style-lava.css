@@ -740,6 +740,46 @@ body {
     background-size: cover;
 }
 
+.banner-uniform {
+    height: calc(100% - 1px);
+    background-image: url(/images/banner-uniform.jpeg);
+    /*background-image: url(/images/summer-25-banner.jpg);*/
+    background-attachment: scroll;
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-calendar {
+    height: calc(100% - 1px);
+    background-image: url(/images/banner-calendar.jpeg);
+    /*background-image: url(/images/summer-25-banner.jpg);*/
+    background-attachment: scroll;
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-fall {
+    height: calc(100% - 1px);
+    background-image: url(/images/banner-2026-2027.png);
+    /*background-image: url(/images/summer-25-banner.jpg);*/
+    background-attachment: scroll;
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-about {
+    height: calc(100% - 1px);
+    background-image: url(/images/banner-about.jpeg);
+    /*background-image: url(/images/summer-25-banner.jpg);*/
+    background-attachment: scroll;
+    background-position: 50% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .banner-hub {
     height: calc(100% - 1px);
     background-image: url(/images/recital-hub.png);
