@@ -7,12 +7,7 @@
             </div>
             <div class="modal-body text-center">
                 <p>
-                    Personal dance wear fittings take place
-                    <br>
-                    <br><strong>Monday-Thursday</strong> 1:00-3:00pm
-                    <br><strong>Monday-Thursday</strong> 5:00-7:00pm
-                    <br>
-                    <br>Please call to set your boutique appointment today
+                    Please call to set your boutique appointment today
                 </p>
                 <ion-icon name="call" style="font-size: 1.25em;"></ion-icon>
                 <a href="tel:6168911606" style="text-decoration: none; font-size: 1.25em;" class="fw-bold">616-891-1606</a>

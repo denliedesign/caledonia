@@ -449,6 +449,13 @@
                 <x-program image="graded-levels.JPG" slug="graded" group="Graded Levels" />
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
+                <div class="col-sm" style="position: relative;">
+                    <img src="/images/performance-group-new.png" alt="dancer posing" class="img-fluid" style="visibility: hidden; height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
+                    <div class="triangle-and-text" data-bs-toggle="modal" data-bs-target="#trymodal">
+                        <div id="triangle-bottomleft" style="visibility: hidden;"></div>
+                        <div class="triangle-text font-staat m-2" style="visibility: hidden; font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Performance Groups</div>
+                    </div>
+                </div>
                 <x-program image="acro-2.JPG" slug="acro" group="Acro" />
                 <div class="col-sm" style="position: relative;">
                     <img src="/images/performance-group-new.png" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
@@ -476,13 +483,13 @@
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Piano</div>
                     </a>
                 </div>
-                <div class="col-sm" style="position: relative;">
-                    <img src="/images/guitar.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
-                    <a class="triangle-and-text" href="/music-lessons">
-                        <div id="triangle-bottomleft"></div>
-                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guitar</div>
-                    </a>
-                </div>
+{{--                <div class="col-sm" style="position: relative;">--}}
+{{--                    <img src="/images/guitar.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">--}}
+{{--                    <a class="triangle-and-text" href="/music-lessons">--}}
+{{--                        <div id="triangle-bottomleft"></div>--}}
+{{--                        <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guitar</div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
                 <div class="col-sm" style="position: relative;">
                     <img src="/images/voice.jpg" alt="dancer posing" class="img-fluid" style="height: 250px; object-fit: cover; object-position: 15% 0; width: 100%;">
                     <a class="triangle-and-text" href="/music-lessons">
@@ -876,48 +883,41 @@
 
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container my-5">
-            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-6">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-5">
                 <div class="col d-flex align-items-center justify-content-center text-center px-2" id="main-review-stars">
                     <div>
                         <p style="font-size: 1.5em;" class="fw-bold mb-0">OUTSTANDING 5/5</p>
                         <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                        <p style="color: seashell;"><small>based on <strong>25</strong> reviews</small></p>
+                        <p style="color: seashell;"><small>featured Google reviews</small></p>
                     </div>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>Our three year old loves coming to ballet lessons!</strong></small></p>
-                    <p class="mb-0"><small>Very nice teachers/staff!</small></p>
+                    <p class="mb-0"><small><strong>Both my daughters have grown as dancers and in self confidence!</strong></small></p>
+                    <p class="mb-0"><small>They’ve fallen in love with ballet technique and have unlocked a love for lyrical and contemporary in my oldest. The staff communicates so well, and are gracious with all of my first time dance mom questions.</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Ashley Nadeau</small></p>
+                    <p style="color:seashell;"><small>Heather Bradshaw</small></p>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>We have been here 6 years now and we have loved every minute of it.</strong></small></p>
-                    <p class="mb-0"><small>They keep parents in the loop and the kids are cared for and taken care of very well.</small></p>
+                    <p class="mb-0"><small><strong>This is our first year at CDMC and have been so impressed with their programming.</strong></small></p>
+                    <p class="mb-0"><small>This team is incredibly organized and the communication I receive as a parent is everything I need to know and no questions are unanswered! We look forward to another year of dance this fall!</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Megan Adams</small></p>
+                    <p style="color:seashell;"><small>Lacey Cavanaugh</small></p>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>My daughter loves the teachers here.</strong></small></p>
-                    <p class="mb-0"><small>And they are super helpful</small></p>
+                    <p class="mb-0"><small><strong>I started my twins here at 3 years old.</strong></small></p>
+                    <p class="mb-0"><small>One of my girls was extremely shy and did not want to leave mama’s side. The ENTIRE staff was so wonderful with her and did not give up or turn us away when my daughter would show up crying. I am so glad we stuck it out and have been here 2 years now.</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Ashley Baker</small></p>
+                    <p style="color:seashell;"><small>Laura Mumper</small></p>
                 </div>
                 <div class="col px-2" id="review-stars">
                     <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>Wonderful place with lots of classes to chose from and amazing instructors.</strong></small></p>
-                    <p class="mb-0"><small>They are so organized and know how to put on a show from the Nutcracker to Recital.</small></p>
+                    <p class="mb-0"><small><strong>Absolutely love my daughter dancing here!</strong></small></p>
+                    <p class="mb-0"><small>Super caring and kind place. Love all different abilities accepted here! Definitely age appropriate dancing and role models.</small></p>
                     <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Gretchen Wilson</small></p>
-                </div>
-                <div class="col px-2" id="review-stars">
-                    <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
-                    <p class="mb-0"><small><strong>Great teachers and staff members! CDMC makes u feel like family.</strong></small></p>
-                    <p class="mb-0"><small>My daughter has been dancing for the last 4 years at CDMC and loves ever minute it.</small></p>
-                    <div style="width: 30px; height: 1px; background: seashell;" class="my-1"></div>
-                    <p style="color:seashell;"><small>Melanie Dallas</small></p>
+                    <p style="color:seashell;"><small>Jamie Swainston</small></p>
                 </div>
             </div>
         </div>
