@@ -26,7 +26,7 @@
                     <div class="p-2"><img src="/images/2026-2027_page-0001.jpg" class="img-fluid" alt=""></div>
                     <div class="p-2"><img src="/images/2026-2027_page-0002.jpg" class="img-fluid" alt=""></div>
                     <div class="p-2"><img src="/images/2026-2027-second-third-grade.png" class="img-fluid" alt=""></div>
-                    <div class="p-2"><img src="/images/2026-2027-graded.png" class="img-fluid" alt=""></div>
+                    <div class="p-2"><img src="/images/8-14-26-graded-sm.jpg" class="img-fluid" alt=""></div>
                     <div class="p-2"><img src="/images/2026-2027_page-0005.jpg" class="img-fluid" alt=""></div>
                 </div>
 {{--                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
