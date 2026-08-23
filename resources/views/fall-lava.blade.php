@@ -18,7 +18,7 @@
 
             <div class="container">
                 <p class="lead-side text-center">
-                    VIP Registration will begin at 12:00pm on June 19.  Registration for 2026-2027 season will open to the public on June 25 at 12:00pm.
+{{--                    VIP Registration will begin at 12:00pm on June 19.  Registration for 2026-2027 season will open to the public on June 25 at 12:00pm.--}}
                     {{--                    Don't miss your chance for your preferred classes, days and times. Register now!--}}
                     {{--                            Registration opens June 25th and 28th. Check back soon!--}}
                 </p>
