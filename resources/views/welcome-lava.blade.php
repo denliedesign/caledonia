@@ -84,7 +84,7 @@
             </div>
             <div class="offcanvas-body season-popup-body">
                 <div class="season-popup-image-wrap">
-                    <img src="/images/register-25.png" alt="little dancers sitting side by side" class="season-popup-image">
+                    <img src="/images/about-3.jpg" alt="little dancers sitting side by side" class="season-popup-image">
                 </div>
                 <p class="season-popup-copy">Find the right class for your dancer and save a spot before the season fills.</p>
                 <div class="season-popup-actions">
