@@ -29,7 +29,7 @@
 {{--           <div class="d-flex justify-content-center pb-4">--}}
 {{--               <img src="/images/nutcracker-auditions-25.jpg" alt="nutcracker audition flyer" class="img-fluid">--}}
 {{--           </div>--}}
-           <p class="lead text-center">Nutcracker 2026 auditions are at Caledonia Dance & Music Center on Saturday, September 19. Open to the community. Bring a fellow dance friend! Children should have at least two years of dance experience.</p>
+           <p class="lead text-center">Nutcracker 2026 auditions are at Caledonia Dance & Music Center on Saturday, September 19. Open to the community. Bring a fellow dance friend! Children should have one year of ballet experience.</p>
 {{--           <p class="lead text-center">Audition information coming soon.</p>--}}
            <div id="class-schedule">
                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=383292&Session=Nutcracker"></script>
@@ -43,14 +43,12 @@
 <div class="bg-red py-3">
     <div class="container">
         <div class="">
-            <div class="row p-0 m-0 d-flex justify-content-center align-items-center">
+            <div class="row p-0 m-0 d-flex justify-content-center align-items-center row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
                 <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-1.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
                 <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-2.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
                 <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-4.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
-            </div>
-            <div class="row p-0 m-0 d-flex justify-content-center align-items-center">
                 <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-5.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
-                <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-2021a.jpg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
+                <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker/nutcracker-ballet-grand-rapids.png" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
                 <div class="col-sm my-1 d-flex justify-content-center"><img src="/images/nutcracker-2021b.jpeg" style="width: 263px; height: 200px; object-fit: cover; object-position: 50% 0%;" class="rounded shadow"></div>
             </div>
         </div>
