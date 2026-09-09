@@ -26,9 +26,9 @@
 
        <div class="container">
            <h2 class="text-center font-staat-side">Nutcracker Auditions 2026</h2>
-{{--           <div class="d-flex justify-content-center pb-4">--}}
-{{--               <img src="/images/nutcracker-auditions-25.jpg" alt="nutcracker audition flyer" class="img-fluid">--}}
-{{--           </div>--}}
+           <div class="d-flex justify-content-center pb-4">
+               <img src="/images/26-nutcracker-auditions.jpg" alt="nutcracker audition flyer" class="img-fluid">
+           </div>
            <p class="lead text-center">Nutcracker 2026 auditions are at Caledonia Dance & Music Center on Saturday, September 19. Open to the community. Bring a fellow dance friend! Children should have one year of ballet experience.</p>
 {{--           <p class="lead text-center">Audition information coming soon.</p>--}}
            <div id="class-schedule">

@@ -15,7 +15,7 @@
     <div class="bg-white">
         <div class="container py-5">
             <h2 class="text-center mt-3 font-staat-side">2026-2027 Calendar</h2>
-            <img src="/images/26-27-calendar.jpeg" class="img-fluid" alt="">
+            <img src="/images/26-calendar.jpg" class="img-fluid" alt="">
 {{--            <div class="d-flex justify-content-center">--}}
 {{--                <table class="font-syne-side">--}}
 {{--                    <x-calendar date="August 28-31" event="First Week of Classes for the 2023-24 Season"/>--}}
