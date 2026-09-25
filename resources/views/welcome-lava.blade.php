@@ -24,30 +24,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
-    <div>
-        <div id="side-trial" class="season-popup offcanvas offcanvas-end show shadow-lg" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" aria-labelledby="summerPopupLabel">
-            <div class="offcanvas-header season-popup-header">
-                <div>
-{{--                    <p class="season-popup-kicker">Now enrolling</p>--}}
-{{--                    <h2 class="season-popup-title font-staat-side" id="summerPopupLabel">Summer 2026</h2>--}}
-                    <h2 class="season-popup-title font-staat-side" id="summerPopupLabel">Nutcracker Auditions</h2>
-                </div>
-                <button class="season-popup-close" type="button" data-bs-dismiss="offcanvas" aria-label="Close Summer 2026 popup">&times;</button>
-            </div>
-            <div class="offcanvas-body season-popup-body">
-                <div class="season-popup-image-wrap">
-{{--                    <img src="/images/about-3.jpg" alt="young dancers in class" class="season-popup-image">--}}
-                    <img src="/images/nutcracker.jpeg" alt="young dancers in class" class="season-popup-image">
-                </div>
-{{--                <p class="season-popup-copy">Short-session dance and music classes are a bright way to keep kids moving, learning, and smiling.</p>--}}
-                <p class="season-popup-copy">Sign up for Nutcracker 2026 auditions now!</p>
-                <div class="season-popup-actions">
-{{--                    <a href="/summer" class="btn btn-danger fw-bold shadow-sm season-popup-button">View Summer Classes</a>--}}
-                    <a href="/nutcracker" class="btn btn-danger fw-bold shadow-sm season-popup-button">Learn More</a>
-                </div>
-            </div>
-        </div>
-    </div>
+    @include('_nutcracker-ticket-popup')
 
 {{--    <div>--}}
 {{--        <div style="background: white; width: 300px; height: 300px; top: 0px;" id="side-trial" class="offcanvas offcanvas-end show shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">--}}

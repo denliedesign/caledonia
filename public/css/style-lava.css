@@ -7,7 +7,14 @@
 }
 
 #side-recital {
-    top: 430px;
+    top: 16px;
+    bottom: auto;
+}
+
+/* Keep the two promotions separate once Nutcracker ticket sales begin. */
+body:has(#side-trial) #side-recital {
+    left: 16px;
+    right: auto;
 }
 
 .season-popup {
@@ -118,7 +125,8 @@
     }
 
     #side-recital {
-        bottom: 272px;
+        top: 12px;
+        bottom: auto;
     }
 
     .season-popup {
@@ -145,6 +153,12 @@
     .season-popup-copy {
         font-size: 0.84rem;
         margin: 8px 0 10px;
+    }
+}
+
+@media (max-height: 600px) {
+    #side-recital .season-popup-image-wrap {
+        display: none;
     }
 }
 

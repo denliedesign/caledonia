@@ -15,7 +15,10 @@
     <div class="bg-white">
         <div class="container py-5">
             <h2 class="text-center mt-3 font-staat-side">2026-2027 Calendar</h2>
-            <img src="/images/26-calendar.jpg" class="img-fluid" alt="">
+            <a href="/documents/calendar-2026-2027-september.pdf" target="_blank" rel="noopener" aria-label="Open the updated 2026-2027 calendar PDF">
+                <img src="/images/calendar-2026-2027-september.jpg" class="img-fluid" alt="Caledonia Dance &amp; Music Center 2026-2027 calendar, updated September 2026">
+            </a>
+            <p class="text-center mt-3"><a href="/documents/calendar-2026-2027-september.pdf" target="_blank" rel="noopener">View or download the 2026-2027 calendar (PDF)</a></p>
 {{--            <div class="d-flex justify-content-center">--}}
 {{--                <table class="font-syne-side">--}}
 {{--                    <x-calendar date="August 28-31" event="First Week of Classes for the 2023-24 Season"/>--}}
