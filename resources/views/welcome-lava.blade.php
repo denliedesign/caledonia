@@ -24,6 +24,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
+    <div class="season-popup-stack">
     @include('_nutcracker-ticket-popup')
 
 {{--    <div>--}}
@@ -50,7 +51,6 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
-    <div>
         <div id="side-recital" class="season-popup season-popup-fall offcanvas offcanvas-end show shadow-lg" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" aria-labelledby="fallPopupLabel">
             <div class="offcanvas-header season-popup-header">
                 <div>

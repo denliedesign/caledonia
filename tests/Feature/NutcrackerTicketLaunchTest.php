@@ -36,19 +36,24 @@ class NutcrackerTicketLaunchTest extends TestCase
                 $response->assertSee(config('nutcracker.ticket_url'))
                     ->assertSee('Get Tickets Now');
             } else {
-                $response->assertDontSee(config('nutcracker.ticket_url'));
+                $response->assertSee(config('nutcracker.ticket_url'))
+                    ->assertSee('Visit Ticket Sales Page')
+                    ->assertDontSee('Get Tickets Now');
             }
         }
 
         if (!$ticketsAvailable) {
-            $page->assertSee('Nutcracker tickets will be available beginning October 3, 2026 at 12:00pm.');
+            foreach ([$home, $page] as $response) {
+                $response->assertSee('Nutcracker tickets go on sale Saturday, October 3, 2026 at 12:00pm Eastern.');
+            }
         }
     }
 
     public static function launchTimes(): array
     {
         return [
-            'before October 3 in Michigan' => ['2026-10-03 03:59:59', false, false],
+            'October 2 advance links' => ['2026-10-02 16:00:00', true, false],
+            'before October 3 in Michigan' => ['2026-10-03 03:59:59', true, false],
             'October 3 midnight in Michigan' => ['2026-10-03 04:00:00', true, false],
             'one second before sales open' => ['2026-10-03 15:59:59', true, false],
             'sales open at noon in Michigan' => ['2026-10-03 16:00:00', true, true],

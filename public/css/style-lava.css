@@ -2,19 +2,39 @@
 /*    font-family: 'Nunito', sans-serif !important;*/
 /*}*/
 
-#side-trial {
-    top: 16px;
+.season-popup-stack {
+    position: fixed;
+    top: 12px;
+    right: 12px;
+    z-index: 1045;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: min(310px, calc(100vw - 24px));
+    max-height: calc(100dvh - 24px);
+    pointer-events: none;
 }
 
-#side-recital {
-    top: 16px;
-    bottom: auto;
+.season-popup-stack .season-popup {
+    position: relative;
+    inset: auto;
+    width: 100% !important;
+    flex: 0 0 auto;
+    border-radius: 8px;
+    pointer-events: auto;
 }
 
-/* Keep the two promotions separate once Nutcracker ticket sales begin. */
-body:has(#side-trial) #side-recital {
-    left: 16px;
-    right: auto;
+.season-popup-stack .season-popup:not(.show):not(.showing):not(.hiding) {
+    display: none;
+}
+
+.season-popup-stack .season-popup-image-wrap {
+    aspect-ratio: auto;
+    height: 90px;
+}
+
+.season-popup-stack .season-popup-title {
+    font-size: 1.45rem !important;
 }
 
 .season-popup {
@@ -115,20 +135,6 @@ body:has(#side-trial) #side-recital {
 }
 
 @media (max-width: 991.98px) {
-    #side-trial,
-    #side-recital {
-        top: auto;
-    }
-
-    #side-trial {
-        bottom: 12px;
-    }
-
-    #side-recital {
-        top: 12px;
-        bottom: auto;
-    }
-
     .season-popup {
         width: min(300px, calc(100vw - 16px)) !important;
         max-height: 248px;
@@ -146,19 +152,64 @@ body:has(#side-trial) #side-recital {
         padding: 10px 12px 12px;
     }
 
-    .season-popup-image-wrap {
-        display: none;
-    }
-
     .season-popup-copy {
         font-size: 0.84rem;
         margin: 8px 0 10px;
     }
 }
 
-@media (max-height: 600px) {
-    #side-recital .season-popup-image-wrap {
+@media (max-width: 991.98px), (max-height: 750px) {
+    .season-popup-stack .season-popup-body {
+        display: grid;
+        grid-template-columns: 64px minmax(0, 1fr);
+        gap: 10px;
+        align-items: center;
+    }
+
+    .season-popup-stack .season-popup-image-wrap {
+        display: block;
+        height: 76px;
+    }
+
+    .season-popup-stack .season-popup-copy {
+        margin: 0;
+    }
+
+    .season-popup-stack .season-popup-actions {
+        grid-column: 1 / -1;
+    }
+}
+
+@media (max-height: 450px) {
+    .season-popup-stack {
+        top: 6px;
+        gap: 6px;
+    }
+
+    .season-popup-stack .season-popup-header,
+    .season-popup-stack .season-popup-body {
+        padding: 6px 12px;
+    }
+
+    .season-popup-stack .season-popup-copy {
+        font-size: 0.8rem;
+        margin: 0;
+    }
+
+    .season-popup-stack .season-popup-body {
+        gap: 6px 10px;
+    }
+
+    .season-popup-stack .season-popup-image-wrap {
+        height: 54px;
+    }
+
+    .season-popup-stack .season-popup-kicker {
         display: none;
+    }
+
+    .season-popup-stack .season-popup-button {
+        padding: 0.35rem 0.6rem;
     }
 }
 
