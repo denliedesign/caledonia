@@ -23,7 +23,7 @@ class NutcrackerTicketLaunchTest extends TestCase
         $page = $this->get('/nutcracker')->assertOk()
             ->assertDontSee('Nutcracker Auditions')
             ->assertDontSee('OpeningsJS')
-            ->assertSee('/images/nutcracker-2026-poster.jpg');
+            ->assertSee('/images/nutcracker-2026-october-poster.jpg');
 
         if ($popupVisible) {
             $home->assertSee('id="nutcrackerPopupLabel"', false);
@@ -58,6 +58,30 @@ class NutcrackerTicketLaunchTest extends TestCase
             'one second before sales open' => ['2026-10-03 15:59:59', true, false],
             'sales open at noon in Michigan' => ['2026-10-03 16:00:00', true, true],
             'after launch' => ['2026-10-04 16:00:00', true, true],
+        ];
+    }
+
+    /** @dataProvider promotionCutoffTimes */
+    public function testPromotionEndsAtThreePmMichiganTime($time, $visible)
+    {
+        Carbon::setTestNow(Carbon::parse($time, 'UTC'));
+        $home = $this->get('/')->assertOk();
+        foreach (['6abbdd04af364a64b9a2c621', 'id="nutcrackerPopupLabel"'] as $marker) {
+            if ($visible) {
+                $home->assertSee($marker, false);
+            } else {
+                $home->assertDontSee($marker, false);
+            }
+        }
+        $this->get('/nutcracker')->assertOk()->assertDontSee('6abbdd04af364a64b9a2c621');
+    }
+
+    public static function promotionCutoffTimes(): array
+    {
+        return [
+            'before cutoff' => ['2026-12-13 19:59:59', true],
+            'at cutoff' => ['2026-12-13 20:00:00', false],
+            'after cutoff' => ['2026-12-13 20:00:01', false],
         ];
     }
 }

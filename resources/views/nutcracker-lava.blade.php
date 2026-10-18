@@ -16,8 +16,8 @@
             <h2 class="text-center font-staat-side">Nutcracker 2026</h2>
             @include('_nutcracker-tickets')
             <div class="text-center mt-4">
-                <a href="/documents/nutcracker-2026-poster.pdf" target="_blank" rel="noopener" aria-label="Open the Nutcracker 2026 poster PDF">
-                    <img src="/images/nutcracker-2026-poster.jpg" alt="The Nutcracker: December 12, 2026 at 12:00pm and 5:00pm, and December 13 at 3:00pm. Duncan Lake Middle School PAC, 9757 Duncan Lake Avenue, Caledonia, Michigan." class="img-fluid" style="width: 100%; max-width: 850px; height: auto;">
+                <a href="/documents/nutcracker-2026-october-poster.pdf" target="_blank" rel="noopener" aria-label="Open the Nutcracker 2026 poster PDF">
+                    <img src="/images/nutcracker-2026-october-poster.jpg" alt="The Nutcracker: December 12, 2026 at 12:00pm and 5:00pm, and December 13 at 3:00pm. Duncan Lake Middle School PAC, 9757 Duncan Lake Avenue, Caledonia, Michigan." class="img-fluid" style="width: 100%; max-width: 850px; height: auto;">
                 </a>
             </div>
         </div>

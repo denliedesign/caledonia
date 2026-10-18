@@ -2,6 +2,8 @@
     $nutcrackerNow = now(config('nutcracker.timezone'));
     $nutcrackerPopupVisible = $nutcrackerNow->greaterThanOrEqualTo(
         \Carbon\Carbon::parse(config('nutcracker.popup_starts_at'), config('nutcracker.timezone'))
+    ) && $nutcrackerNow->lessThan(
+        \Carbon\Carbon::parse(config('nutcracker.promotion_ends_at'), config('nutcracker.timezone'))
     );
     $nutcrackerTicketsAvailable = $nutcrackerNow->greaterThanOrEqualTo(
         \Carbon\Carbon::parse(config('nutcracker.tickets_available_at'), config('nutcracker.timezone'))

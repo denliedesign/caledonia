@@ -1,5 +1,6 @@
 @extends('layouts.app-lava')
 @section('content')
+    @include('_nutcracker-countdown')
 
 {{--        <div>--}}
 {{--            <div style="background: #3D1951; width: 300px; height: 300px; top: 300px;" id="side-trial" class="offcanvas offcanvas-end show shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">--}}
